@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "documentation/How to contribute.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "documentation/How to contribute.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "documentation/How to contribute.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "documentation/How to contribute.md"
+                "file": "index.md"
               }
             }
           }
@@ -161,8 +161,8 @@
   },
   "active": "62e8708278a773dc",
   "lastOpenFiles": [
-    "media/info/OpenWithGithubApp.png",
     "documentation/How to contribute.md",
+    "media/info/OpenWithGithubApp.png",
     "media/info",
     "media",
     "index.md",
