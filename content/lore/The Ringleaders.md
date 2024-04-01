@@ -1,1 +1,1 @@
-The Ringleaders are very cool and epic :)
+The Ringleaders are a group of powerful individuals who's primary objective is to both protect humanity and keep each other in check.
