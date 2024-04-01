@@ -1,6 +1,5 @@
 ---
-title: Neolanders Wiki
+title: Home
 ---
 
-Stuff will be here...
-
+Welcome to the Neolanders wiki.
