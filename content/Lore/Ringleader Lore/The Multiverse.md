@@ -1,4 +1,4 @@
-The story of [[The Ringleaders]] takes place within The Multiverse, which is a [[Meta Information|Narrative Device]].
+The story of [[The Ringleaders]] takes place within The Multiverse, which is a [[Lore Information|Narrative Device]].
 
 The Multiverse is composed of Underspace, Overspace, and The Timelines.
 
