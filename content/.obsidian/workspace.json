@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e4d3c68a478af1ef",
+        "id": "ee86806e8b15cbe1",
         "type": "tabs",
         "children": [
           {
-            "id": "9c9ecdc9e5e040f9",
+            "id": "0af9965fd4dc680a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "62e8708278a773dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
+                "file": "documentation/How to contribute.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "documentation/How to contribute.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "documentation/How to contribute.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "documentation/How to contribute.md"
               }
             }
           }
@@ -159,13 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "62e8708278a773dc",
+  "active": "0af9965fd4dc680a",
   "lastOpenFiles": [
+    "index.md",
     "documentation/How to contribute.md",
     "media/info/OpenWithGithubApp.png",
     "media/info",
     "media",
-    "index.md",
     "documentation",
     "lore/Lore.md",
     "lore/The Ringleaders.md",
