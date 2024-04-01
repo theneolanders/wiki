@@ -1,6 +1,6 @@
 ---
-title: Welcome to Quartz
+title: Neolanders Wiki
 ---
 
-This is a blank Quartz installation.
+Stuff will be here...
 
