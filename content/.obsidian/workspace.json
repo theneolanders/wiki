@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ee86806e8b15cbe1",
+        "id": "3aefe277550796e9",
         "type": "tabs",
         "children": [
           {
-            "id": "0af9965fd4dc680a",
+            "id": "878888c501fc5cd9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "documentation/How to contribute.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "documentation/How to contribute.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "documentation/How to contribute.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "documentation/How to contribute.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,7 +138,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0af9965fd4dc680a",
+  "active": "878888c501fc5cd9",
   "lastOpenFiles": [
     "documentation/How to contribute.md",
     "index.md",
