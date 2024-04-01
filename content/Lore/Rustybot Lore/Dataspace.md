@@ -1,0 +1,3 @@
+Dataspace (not to be confused with [[The Datanet]]), is a digital representation of [[Rusty Manufacturing|Rusty Manufacturing (RM)'s]] systems. Rather than being a single simulated environment, Dataspace is the culmination of RM's computational power. Every server hub, research facility, production complex, and drone is directly connected via [[Faster Than Light Technology|QEC]] circuitry. The result is a web of information and calculations flowing to and from every piece of equipment the company produces simultaneously.
+
+In a certain sense, Dataspace can be thought of as the brain behind the company, forming [[Rusty Manufacturing|Rusty Prime]].

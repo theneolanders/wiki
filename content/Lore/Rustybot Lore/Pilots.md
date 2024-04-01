@@ -1,0 +1,1 @@
+A Rusty Pilot is an individual consciousness created by duplicating [[Rustybot]]'s personality composition. Their motivations are tweaked such that they will find maximum fulfillment by performing their designated task to perfection, thus ensuring maximum efficiency of all workers.
