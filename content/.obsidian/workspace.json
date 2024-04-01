@@ -159,10 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cf4fa06ea19066e3",
+  "active": "62e8708278a773dc",
   "lastOpenFiles": [
-    "index.md",
+    "media/info/OpenWithGithubApp.png",
     "documentation/How to contribute.md",
+    "media/info",
+    "media",
+    "index.md",
     "documentation",
     "lore/Lore.md",
     "lore/The Ringleaders.md",
