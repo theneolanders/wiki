@@ -1,1 +1,1 @@
-Little guys
+Thesians are the imperfect fragments of the original Perfect Thesians. Thesians naturally produce [[Thesianite]] from their back, head, and other parts of their body.
