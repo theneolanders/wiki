@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/alizard Lore/Thesianite.md",
+                "file": "Lore/alizard Lore/events/A Lizard First Contact.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore/alizard Lore/Thesianite.md",
+                "file": "Lore/alizard Lore/events/A Lizard First Contact.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lore/alizard Lore/Thesianite.md",
+                "file": "Lore/alizard Lore/events/A Lizard First Contact.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore/alizard Lore/Thesianite.md"
+                "file": "Lore/alizard Lore/events/A Lizard First Contact.md"
               }
             }
           }
@@ -149,6 +149,8 @@
   "active": "0edaca6f5fca2b48",
   "lastOpenFiles": [
     "Lore/alizard Lore/Thesianite.md",
+    "Lore/alizard Lore/events/A Lizard First Contact.md",
+    "Lore/alizard Lore/events",
     "Neolander Information/The Neolanders.md",
     "Lore/Rustybot Lore/Drones.md",
     "Lore/Rustybot Lore/Pilots.md",
