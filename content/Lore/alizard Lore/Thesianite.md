@@ -4,6 +4,7 @@ aliases:
 ---
 # Thesianite Quartz
 ![[LizardRock_Sample37.webp]]
+
 Thesianite Quartz or commonly just referred to as Thesianite is a type of crystal that pulls energy from Underspace.
 
 # Types of Thesianite
@@ -12,7 +13,7 @@ Quartz Thesianite is the most iconic type of Thesianite, it's main attribute is 
 ## Bismuth
 Bismuth Thesianite has inherent healing attributes.
 ## Obsidian
-Obsidian Thesianite is incredibly fast and lightweight. 
+Obsidian Thesianite is incredibly sharp and lightweight. 
 ## Wolframite
 Wolframite Thesianite is abnormally strong. 
 ## Chromium
