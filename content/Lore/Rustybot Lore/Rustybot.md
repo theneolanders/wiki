@@ -1,7 +1,5 @@
 Rustybot is the CEO of [[Rusty Manufacturing]] and one of the founding members of  [[The Ringleaders]]. He represents the continued digital consciousness of Toby Tsur.
 
-Rustybot is known for being a smelly orange robot >=]
-
 ---
 ## Previously Known As Toby Tsur
 

@@ -1,4 +1,4 @@
-Thesians are the imperfect fragments of the original Perfect Thesians. Thesians naturally produce [[Thesianite]] from their back, head, and other parts of their body.
+Thesians are the imperfect fragments of the original Perfect Thesian. Thesians naturally produce [[Thesianite]] from their back, head, and other parts of their body.
 # History
 ## The origin of Thesians
 Thesians were originally created in a timeline far far away from the Primary Timeline.

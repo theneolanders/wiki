@@ -3,6 +3,8 @@ Though the speed of light is a basic physical law, many forms of circumventing t
 ## Quantum Entangled Communication
 Quantum Entangled Communication (QEC) is a method by which digital information can be transmitted instantly across any distance. 
 
+Utilizing specially manufactured entangled particles at the ends of two separate wires, a signal can be transmitted from one to the other as if they were physically connected. Sending information is the obvious use case but power can also be transmitted since the entanglement effectively works as a physical connection. This is known as QEC Induction.
+
 ---
 ## Induced Quantum Tunneling
 

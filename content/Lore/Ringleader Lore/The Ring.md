@@ -1,0 +1,1 @@
+The Ring is a space station built by [[Rustybot]] and [[The Swarm]] in the year 2199. It was built as a form of truce between the two after the events of [[First Contact]]. 
