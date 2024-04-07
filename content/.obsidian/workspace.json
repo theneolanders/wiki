@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Ringleader Lore/Humanity.md",
+                "file": "Lore/Rustybot Lore/Quindol System.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore/Ringleader Lore/Humanity.md",
+                "file": "Lore/Rustybot Lore/Quindol System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lore/Ringleader Lore/Humanity.md",
+                "file": "Lore/Rustybot Lore/Quindol System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore/Ringleader Lore/Humanity.md"
+                "file": "Lore/Rustybot Lore/Quindol System.md"
               }
             }
           }
@@ -148,8 +148,11 @@
   },
   "active": "0edaca6f5fca2b48",
   "lastOpenFiles": [
-    "Lore/Rustybot Lore/Quindol.md",
+    "Lore/Rustybot Lore/Quindlet.md",
     "Lore/Rustybot Lore/Andromeda Transfer Incident.md",
+    "Lore/Rustybot Lore/Quindol System.md",
+    "Lore/Rustybot Lore/Rodney Tsur.md",
+    "Lore/Ringleader Lore/Humanity.md",
     "Lore/Lore Information.md",
     "Lore/Ringleader Lore/The Multiverse.md",
     "Lore/Ringleader Lore/The Ringleaders.md",
@@ -162,7 +165,6 @@
     "Lore/Amplified Lore/Yuris.md",
     "Lore/Amplified Lore/Zenitaf.md",
     "Lore/Ringleader Lore/Faster Than Light Technology.md",
-    "Lore/Ringleader Lore/Humanity.md",
     "Lore/Ringleader Lore/The Primary Timeline.md",
     "Lore/Ringleader Lore/The Ring.md",
     "Lore/Ringleader Lore/The Ring Steward.md",
@@ -170,8 +172,6 @@
     "Lore/Rustybot Lore/Dataspace.md",
     "Lore/Rustybot Lore/Drones.md",
     "Lore/Rustybot Lore/Pilots.md",
-    "Lore/Rustybot Lore/Quindlet.md",
-    "Lore/Rustybot Lore/Rodney Tsur.md",
     "Lore/Rustybot Lore/Rusty Manufacturing.md",
     "Lore/Rustybot Lore/Rustybot.md",
     "Lore/Chroma Lore",

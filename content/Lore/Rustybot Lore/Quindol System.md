@@ -10,7 +10,7 @@ A blue giant star at the center of the system.
 The closest planet to the star, Qindune is still more than 8 AU away.
 
 #### Quindlet
-In the goldilocks zone of the system, Quindlet is one of the rare few exoplanets in [[The Primary Timeline]] to harbor life.
+Quindlet is an earth-like rocky body covered in 62% saltwater oceans that lies in the goldilocks zone of the system. It was selected as a destination for travel because it is one of the rare few exoplanets in [[The Primary Timeline]] to harbor life. The surface of its land masses are covered in a variety of plant-like organisms and its oceans are filled with algae and weeds. Animal-like species are also present, though none show any more intelligence than a deer.
 
 #### Quindring
 Named after its massive rings, this planet has nearly twice the mass of Jupiter and rings just over five times the radius of Saturn's.

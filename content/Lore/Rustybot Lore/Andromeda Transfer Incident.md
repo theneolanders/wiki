@@ -1,4 +1,4 @@
-After the successful return signals of the intergalactic probes sent to Andromeda, [[Rustybot|Toby Tsur]] confined his consciousness to a [[Drones|Rusty Drone]] and transport himself to the distant star system of [[Quindol]] using [[Faster Than Light Technology|Induced Quantum Tunneling]] as both a publicity stunt and proof of concept for intergalactic travel.
+After the successful return signals of the intergalactic probes sent to Andromeda, [[Rustybot|Toby Tsur]] confined his consciousness to a [[Drones|Rusty Drone]] and transport himself to the distant star system of [[Quindol System|Quindol]] using [[Faster Than Light Technology|Induced Quantum Tunneling]] as both a publicity stunt and proof of concept for intergalactic travel.
 
 If all went according to plan, Toby would make planetfall in the drone while a new launch window opened so that Earth would be able to send additional parts to him. He would then begin building the infrastructure for an IQT Anchor travel hub.
 
