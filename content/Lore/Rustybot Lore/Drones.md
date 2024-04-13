@@ -2,7 +2,7 @@ A Drone is any [[Rusty Manufacturing]] unit capable of being controlled by [[Pil
 
 Drones range from Alpha Drones to [[Bitbots]] and can have a wide array in functionality, but are primarily used for the automation of manual labor.
 
-Alpha Drones are equipped with multiple [[The Multiverse|Underspace]] Harvester Cores, [[Microfabricators]], and countless weapon systems. These drones are capable of self repair and indefinite uptime. Pilots in these units usually lead exploration missions and expansion initiatives.
+Alpha Drones are equipped with multiple [[The Multiverse#Underspace|Underspace]] Harvester Cores, [[Microfabricators]], and countless weapon systems. These drones are capable of self repair and indefinite uptime. Pilots in these units usually lead exploration missions and expansion initiatives.
 
 > [!NOTE] The Prime Unit
 > While a Prime Unit is often referred to as a separate type of drone, this distinction is only a form of utility to denote which Alpha Drone is currently being inhabited by [[Rustybot]].

@@ -2,4 +2,4 @@
 
 Rodney Tsur was a programmer and digital rights activist in the mid 22nd century.
 
-Rodney married [[Melody Tsur]] (previously Melody Bontly) in 2130. He later fathered [[Rustybot|Toby Tsur]] in 2135
+Rodney married [[Melody Tsur]] (previously Melody Bontly) in 2130. He later fathered [[Rustybot#Previously Known As Toby Tsur|Toby Tsur]] in 2135
