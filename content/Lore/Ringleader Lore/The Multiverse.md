@@ -12,18 +12,21 @@ As a universe ages, it pulls energy from Underspace to fuel its expansion. In mo
 ---
 ## Overspace
 
-Overspace is a fifth dimensional filament that houses The Timelines within it. Paradoxically, it is defined as being a place where existence itself cannot occur. A universe is then defined as an exemption from this rule where existence *can* occur.
+Overspace is a fifth dimensional filament that houses The Timelines within it. Paradoxically, it is defined as being a place where existence itself cannot occur. A universe is then defined as an exemption from this rule where existence *can* occur. Anything not contained by an [[The Multiverse#Universal Membranes|upper membrane]] counts as Overspace, though the term "outside" is slightly misleading when assigned to a concept beyond spacetime.
 
 ---
 ## The Timelines
 
-A Timeline is a fourth dimensional object within which all forms of comprehendible existence take place. They are composed of a lower membrane, upper membrane, and one or more interiors.
+A Timeline (A.K.A. a universe) is a fourth dimensional object within which all forms of comprehendible existence take place. They are composed of a lower membrane, upper membrane, and one or more interiors.
+
+The interior of a universe is where all physical existence takes place. Three dimensional spacetime, matter, and physical forces, all exist within this structure. Notably, a universe is not necessarily limited to a single interior. One of the more frequent examples of this phenomenon is the idea that a second version of the universe exists parallel to the inhabited one which can be used to travel from point to point [[Faster Than Light Technology|faster than light]]. This concept is often referred to as "subspace" in sci-fi terms, but can also be compared to something like [The Nether](https://minecraft.wiki/w/The_Nether), or even [The Quantum Realm](https://marvelcinematicuniverse.fandom.com/wiki/Quantum_Realm).
+
+In the case of many interiors a timeline may be depicted as a set of overlapping planes, such as in [The Forgotten Realms.](https://forgottenrealms.fandom.com/wiki/Prime_Material_plane?file=Ethereal-map-2e.jpg) Timelines where this is the case can often be thought of as finite multiverses in their own right. They may have internal pantheons, planar travel, and "in-between" realms. It's important to note that these timelines are held together as one due to a shared upper and lower [[The Multiverse#Universal Membranes|membrane]].
 
 ---
 ## Universal Membranes
 
 As varied as timelines can be, there are a few constants. Two of these constants are the upper and lower membranes. These conceptual barriers act as the dividing line between what "is" and what "isn't".
-
 #### Upper
 The upper membrane can be thought of as the more typical "edge of the universe". In most cases, it can not be reached in a spatial sense (that is, it isn't a *physical* edge) but rather is the representation of the limits of three dimensional existence.
 #### Lower

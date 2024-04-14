@@ -6,12 +6,23 @@ In late 2018, Rustybot (the person, not the character) wrote a short story to gi
 
 ---
 ## Series Of Events
+See [[Narrative Chronology.canvas|The Narrative Chronology]] for a visualization of the following information.
 
-###### 2135
+### 2135
 The story begins on [[Humanity|Earth]] with the birth of [[Rustybot#Previously Known As Toby Tsur|Toby Tsur]].
-###### 2164
+### 2164
 Toby founds [[Rusty Manufacturing]].
-###### 2168
-Rusty Manufacturing adopts [[Faster Than Light Technology|QEC]] tech and releases [[The Datanet]] to the public.
-###### 2170
+### 2168
+Rusty Manufacturing adopts [[Faster Than Light Technology|QEC]] tech and releases [[Rusty Manufacturing#The Datanet|The Datanet]] to the public.
+### 2170
 The [[Andromeda Transfer Incident]].
+### 2171
+[[Rustybot]] emerges from his forced hibernation and subsequently conducts [[Andromeda Transfer Incident#The Rusty Exodus|The Rusty Exodus]].
+### 2175
+[[The Swarm]] finds [[Humanity|Earth]] and begins assisting in recovery.
+### 2194
+[[First Contact]] between Rustybot and The Swarm occurs.
+### 2199
+[[The Ring]] is constructed along with [[The Ring Steward]].
+### 2200
+[[Jack Jensen]] travels to [[The Primary Timeline]] and [[The Ringleaders]] are officially formed.
