@@ -1,4 +1,4 @@
-The Ringleaders are a group of individuals from across the multiverse. Their stated purpose is to protect [[humanity]] from external threats, and to keep each other in check.
+The Ringleaders are a group of individuals from across the multiverse. Their stated purpose is to protect [[The Primary Timeline#Humanity|humanity]] from external threats, and to keep each other in check.
 
 ---
 ## The Council

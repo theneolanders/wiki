@@ -1,1 +1,0 @@
-In [[The Primary Timeline]], all sapient beings originating from Earth are considered to be a part of humanity, biological or otherwise.
