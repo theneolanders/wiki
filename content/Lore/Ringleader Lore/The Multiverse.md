@@ -37,9 +37,9 @@ How permeable each membrane is determines the behavior of the universe it encomp
 ---
 ## Physical Laws
 
-Each timeline in the multiverse has a base set of laws that govern their behavior. These laws are the ones we, [[Lore Information|in real life]], are familiar with. They include but are not limited to the three fundamental forces and gravity.
+Each timeline in the multiverse has a base set of laws that govern their behavior. These laws are the ones we, [[Lore Information|in real life]], are familiar with. They include things like electromagnetism, gravity, and time.
 
-Barring a few exceptions, any properties of a universe that fall outside the realm of proven science can be regarded as [[The Multiverse#Magic|magic]].
+Barring a few exceptions, any properties of a universe that fall outside the realm of proven science can be regarded as [[The Multiverse#Magic As Alternative Physics|alternative physics]].
 
 ---
 ## Magic As Alternative Physics
@@ -53,11 +53,9 @@ When a character or setting uses a set of rules that is incongruent with typical
 
 Also known as Chaos Force, True Magic is the raw power of Underspace being harnessed to bring a task to its least logical conclusion. Or at least, its most *interesting* conclusion.
 
-True Magic is what allows abilities such as toonforce or fourth wall breaks to be entirely diegetic. It is an acknowledgement that [[The Ringleaders]] exist in fiction and that the rules can be broken for the sake of entertainment.
+True Magic is what allows abilities such as toonforce or fourth wall breaks to be entirely diegetic. It is an acknowledgement that [[The Ringleaders]] exist in fiction and that the rules can be broken for the sake of entertainment. As such, the real purpose of Chaos Force is to foster character development, important events and entertaining interactions.
 
-Importantly, Chaos Force is not limited to timelines with arcane themes or permeable membranes. Despite being bound entirely by the laws of physics, [[Rustybot]] is technically a user of True Magic due to his development of [[Rusty Manufacturing#Underspace Harvester Cores|Underspace Harvester Cores]]. While they may not have the same trappings as other magical devices, they allow for more flexibility in creating interesting technology and for .
-
-As such, the real purpose of True Magic is to foster interesting events and interactions.
+Importantly, True Magic is not limited to timelines with arcane themes or permeable membranes. Despite being bound entirely by the laws of physics, [[Rustybot]] is technically a user of Chaos Force due to his development of [[Rusty Manufacturing#Underspace Harvester Cores|Underspace Harvester Cores]]. While they may not have the same trappings as other magical devices, the cores fall under True Magic because they serve important narrative purposes. The first and most obvious is that access to an unlimited power supply allows Rustybot to create more interesting technology. The second and more important reason is that breaching the Primeline's lower membrane caught the attention of  [[Tavish Augmetitech]], essentially kickstarting the rest of the story.
 
 ---
 ## Divergence
