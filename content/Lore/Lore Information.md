@@ -5,7 +5,11 @@ In late 2018, Rustybot (the person, not the character) wrote a short story to gi
 [[The Multiverse|The Ringleaders Multiverse]] is deliberately set up in such a way that a given [[The Multiverse#The Timelines|timeline]] can have any rules the author desires and still be compatible with the rest of the story. At its core, the multiverse is intended to allow any character from any setting to interact with each other in a meaningful way.
 
 ---
-## Series Of Events
+# Scenes
+For access to the written Ringleaders narrative, please patiently wait for us to get around to hosting our writing here instead of in several years-old google docs lol
+
+---
+# Series Of Events
 See [[Narrative Chronology.canvas|The Narrative Chronology]] for a visualization of the following information.
 
 ### 2135
