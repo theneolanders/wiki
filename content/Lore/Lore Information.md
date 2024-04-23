@@ -10,7 +10,7 @@ For access to the written Ringleaders narrative, please patiently wait for us to
 
 ---
 # Series Of Events
-See [[Narrative Chronology.canvas|The Narrative Chronology]] for a visualization of the following information.
+See [[Narrative Chronology.canvas|The Narrative Chronology]] for a visualization of the following information. (As long as you have Obsidian to view the file, we'll have an image for it soon!)
 
 ### 2135
 The story begins on [[The Primary Timeline|Earth]] with the birth of [[Rustybot#Previously Known As Toby Tsur|Toby Tsur]].
