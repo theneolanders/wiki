@@ -1,4 +1,4 @@
 Founder and CEO: [[Samuel Kurt]]
-This company was founded offically after it's founder figured out the discovery of a, at the time, revolutionary resource he labeled [[E.N.E.R.G.I]]. The money from that project alone granted him from some nobody working in a basement, to working on large projects to get the people of [[Beynos]] out back into space.
+This company was founded officially after it's founder figured out the discovery of a, at the time, revolutionary resource he labeled [[E.N.E.R.G.I]]. The money from that project alone granted him from some nobody working in a basement, to working on large projects to get the people of [[Beynos]] out back into space.
 
-[[Samuel Kurt]]'s discoveries lead to all sorts of things, but one of the most important ones right after the discovery of [[E.N.E.R.G.I]], was what happened when he finally managed to breach Beynos' atmosphere, that of which is for now labeled as [[The Splinter Event]].
+Samuel Kurt's discoveries lead to all sorts of things, but one of the most important ones right after the discovery of E.N.E.R.G.I, was what happened when he finally managed to breach Beynos' atmosphere, that of which is for now labeled as [[The Splinter Event]].
