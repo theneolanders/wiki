@@ -86,8 +86,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documentation/Rusty Drone User Manual/- User Manual Info -.md",
-                "mode": "source",
+                "file": "Lore/Rustybot Lore/Rustybot.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documentation/Rusty Drone User Manual/- User Manual Info -.md",
+                "file": "Lore/Rustybot Lore/Rustybot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documentation/Rusty Drone User Manual/- User Manual Info -.md",
+                "file": "Lore/Rustybot Lore/Rustybot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documentation/Rusty Drone User Manual/- User Manual Info -.md"
+                "file": "Lore/Rustybot Lore/Rustybot.md"
               }
             }
           }
@@ -222,16 +222,16 @@
   "active": "7df2fa40ac1bda66",
   "lastOpenFiles": [
     "Neolander Information/Rustybot.md",
+    "Lore/Lore Information.md",
+    "Neolander Information/The Neolanders.md",
     "Documentation/Rusty Drone User Manual/- User Manual Info -.md",
     "Lore/Rustybot Lore/Rustybot.md",
-    "Neolander Information/The Neolanders.md",
     "Documentation/Rusty Drone User Manual/Roadmap.md",
     "Documentation/Rusty Drone User Manual/Known Issues.md",
     "Documentation/Rusty Drone User Manual/Feature Guide.md",
     "Documentation/Rusty Drone User Manual/Changelog.md",
     "Documentation/How to contribute.md",
     "Documentation/Rusty Drone User Manual",
-    "Lore/Lore Information.md",
     "Index.md",
     "Lore/alizard Lore/Thesianite.md",
     "Lore/alizard Lore/Events/A Lizard First Contact.md",
