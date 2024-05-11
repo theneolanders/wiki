@@ -13,7 +13,7 @@ The Ringleaders council is the official title of the group as recognized by huma
 - [[Lumina]]
 - [[Nimeeko]]
 - [[Pip The Painter]]
-- [[Rustybot]]
+- [[Lore/Rustybot Lore/Rustybot]]
 - [[The Bardificer]]
 - [[The Conductor]]
 - [[The Ring Steward]]

@@ -13,7 +13,7 @@ For access to the written Ringleaders narrative, please patiently wait for us to
 See [[Narrative Chronology.canvas|The Narrative Chronology]] for a visualization of the following information. (As long as you have Obsidian to view the file, we'll have an image for it soon!)
 
 ### 2135
-The story begins on [[The Primary Timeline|Earth]] with the birth of [[Rustybot#Previously Known As Toby Tsur|Toby Tsur]].
+The story begins on [[The Primary Timeline|Earth]] with the birth of [[Lore/Rustybot Lore/Rustybot#Previously Known As Toby Tsur|Toby Tsur]].
 ### 2164
 Toby founds [[Rusty Manufacturing]].
 ### 2168
@@ -21,7 +21,7 @@ Rusty Manufacturing adopts [[Faster Than Light Technology|QEC]] tech and release
 ### 2170
 The [[Andromeda Transfer Incident]].
 ### 2171
-[[Rustybot]] emerges from his forced hibernation and subsequently conducts [[Andromeda Transfer Incident#The Rusty Exodus|The Rusty Exodus]].
+[[Lore/Rustybot Lore/Rustybot]] emerges from his forced hibernation and subsequently conducts [[Andromeda Transfer Incident#The Rusty Exodus|The Rusty Exodus]].
 ### 2175
 [[The Swarm]] finds [[The Primary Timeline|Earth]] and begins assisting in recovery.
 ### 2194

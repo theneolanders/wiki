@@ -1,1 +1,1 @@
-[[Rustybot]] and [[The Swarm]] meet in the year 2184.
+[[Lore/Rustybot Lore/Rustybot]] and [[The Swarm]] meet in the year 2184.
