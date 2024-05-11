@@ -10,10 +10,9 @@ Right hand can be used to high five while the left grip is held. Touch left seco
 Hand transformations can be reverted by gripping with that hand
 All abilities can be reverted with both grips simultaneously unless otherwise stated
 Emote menu is opened by clicking one touchpad
-Quick Menu is opened by touching one touchpad and clicking the other.
+Quick Menu is opened by touching one touchpad and clicking the other
 Face cameras can be extended by touching the context button while the screen is removed
 Press both grips while holding jump to force-release from any anchor
-
 #### Physical Controls
 
 Left antenna button
