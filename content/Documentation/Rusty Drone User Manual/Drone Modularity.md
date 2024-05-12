@@ -8,20 +8,20 @@ This tag is the most in-depth in terms of required systems to function. Slots wi
 #### Parent Values
 RustyArm Snappers can read the following parent values
 
-| Tag         | Data Type | Function                                                                                   |
-| ----------- | --------- | ------------------------------------------------------------------------------------------ |
-| IsAttached  | Bool      | Signals if the arm is in a valid SnapTarget                                                |
-| IsDeployed  | Bool      | If the arm has a retraction state, this controls it                                        |
-| IsGrabbable | Bool      | Whether or not the part can be grabbed.                                                    |
-| Chirality   | Bool      | Determines chirality of the attached hand (if applicable). True for right, False for left. |
-| WristPoint  | Slot      | The slot the onboard IK will attempt to match the position of                              |
-| ArmPoint    | Slot      | The slot the onboard IK will point the upper arm at                                        |
+| Tag        | Data Type | Function                                                                                   |
+| ---------- | --------- | ------------------------------------------------------------------------------------------ |
+| Attached   | Bool      | Signals if the arm is in a valid SnapTarget                                                |
+| Deployed   | Bool      | If the arm has a retraction state, this controls it                                        |
+| Grabbable  | Bool      | Whether or not the part can be grabbed.                                                    |
+| Chirality  | Bool      | Determines chirality of the attached hand (if applicable). True for right, False for left. |
+| WristPoint | Slot      | The slot the onboard IK will attempt to match the position of                              |
+| ArmPoint   | Slot      | The slot the onboard IK will point the upper arm at                                        |
 ## RustyHand
 If used, the RustyHand tag should be located on the end of a RustyArm oriented such that the fingers point along the positive Z-axis (this should result in the palm being at the "bottom). The origin of the hand should be positioned at the wrist's pivot point.
 
-| Tag         | Data Type | Function                                                              |
-| ----------- | --------- | --------------------------------------------------------------------- |
-| IsAttached  | Bool      | Signals if the hand is in a valid SnapTarget                          |
-| IsDeployed  | Bool      | If the arm has a retraction state, this controls it                   |
-| IsGrabbable | Bool      | Whether or not the part can be grabbed.                               |
-| Chirality   | Bool      | Determines chirality (if applicable). True for right, False for left. |
+| Tag       | Data Type | Function                                                              |
+| --------- | --------- | --------------------------------------------------------------------- |
+| Attached  | Bool      | Signals if the hand is in a valid SnapTarget                          |
+| Deployed  | Bool      | If the arm has a retraction state, this controls it                   |
+| Grabbable | Bool      | Whether or not the part can be grabbed.                               |
+| Chirality | Bool      | Determines chirality (if applicable). True for right, False for left. |
