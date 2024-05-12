@@ -62,6 +62,7 @@ Finish new blender version
 Shield sounds for colliding and sword hit
 Re-add charge shot
 Finish the Gunshift
+Holding secondary should rotate shields forward
 #### SCREEN
 
 Add connection prongs to backside

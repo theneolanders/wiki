@@ -8,92 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0edaca6f5fca2b48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documentation/How to contribute.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c6b86e01e55dc1bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documentation/Rusty Drone User Manual/Feature Guide.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e67e5a784501da73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documentation/Rusty Drone User Manual/Feature Guide.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b626f5a9f6c0d2e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documentation/Rusty Drone User Manual/Feature Guide.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a347dfd0a8a1f2ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documentation/Rusty Drone User Manual/Changelog.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a329085c4fed4e81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Neolander Information/The Neolanders.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7df2fa40ac1bda66",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documentation/Rusty Drone User Manual/- User Manual Info -.md",
+                "file": "Documentation/Rusty Drone User Manual/Feature Guide.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documentation/Rusty Drone User Manual/- User Manual Info -.md",
+                "file": "Documentation/Rusty Drone User Manual/Feature Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documentation/Rusty Drone User Manual/- User Manual Info -.md",
+                "file": "Documentation/Rusty Drone User Manual/Feature Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documentation/Rusty Drone User Manual/- User Manual Info -.md"
+                "file": "Documentation/Rusty Drone User Manual/Feature Guide.md"
               }
             }
           }
@@ -221,14 +147,14 @@
   },
   "active": "7df2fa40ac1bda66",
   "lastOpenFiles": [
+    "Documentation/Rusty Drone User Manual/Roadmap.md",
+    "Documentation/Rusty Drone User Manual/- User Manual Info -.md",
     "Documentation/Rusty Drone User Manual/Feature Guide.md",
     "Documentation/Rusty Drone User Manual/Changelog.md",
     "Neolander Information/Rustybot.md",
     "Neolander Information/The Neolanders.md",
     "Lore/Rustybot Lore/Rustybot.md",
     "Lore/Lore Information.md",
-    "Documentation/Rusty Drone User Manual/- User Manual Info -.md",
-    "Documentation/Rusty Drone User Manual/Roadmap.md",
     "Documentation/Rusty Drone User Manual/Known Issues.md",
     "Documentation/How to contribute.md",
     "Documentation/Rusty Drone User Manual",
