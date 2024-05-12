@@ -1,60 +1,40 @@
 [[- User Manual Info -]]
 ## Integrated controls
 
-Press both grips or B on the keyboard to activate the boot sequence.
-
-Double jump to switch between walk and fly.
-
-Hold jump while flying to vertically ascend
-
-Touch secondary on a desired hand and use trigger strength on the other to extend the wrist on a telescoping strut
-
-Touch the lower thumb button without touching the upper thumb button on a desired hand and use trigger strength on the other to spin the hand about the wrist
-
-Right hand can be used to high five while the left grip is held. Touch left secondary while doing so to activate suit mode.
-
-Hand transformations can be reverted by gripping with that hand
-
-All abilities can be reverted with both grips simultaneously unless otherwise stated
-
-Emote menu is opened by clicking one touchpad
-
-Quick Menu is opened by touching one touchpad and clicking the other
-
-Face cameras can be extended by touching the context button while the screen is removed
-
-Press both grips while holding jump to force-release from any anchor
+- Press both grips or B on the keyboard to activate the boot sequence.
+- Double jump to switch between walk and fly.
+- Hold jump while flying to vertically ascend
+- Touch secondary on a desired hand and use trigger strength on the other to extend the wrist on a telescoping strut
+- Touch the lower thumb button without touching the upper thumb button on a desired hand and use trigger strength on the other to spin the hand about the wrist
+- Right hand can be used to high five while the left grip is held. Touch left secondary while doing so to activate suit mode.
+- Hand transformations can be reverted by gripping with that hand
+- All abilities can be reverted with both grips simultaneously unless otherwise stated
+- Emote menu is opened by clicking one touchpad
+- Quick Menu is opened by touching one touchpad and clicking the other
+- Face cameras can be extended by touching the context button while the screen is removed
+- Press both grips while holding jump to force-release from any anchor
 ## Physical Controls
 
-Left antenna button
-	Touch to clear nearby gizmos
-	Touch while holding right trigger to clear items with the "Clearable" tag from Rusty Anchor Space
-Right antenna button:
-	Press to equip gravity setter tip in left hand. 
-	Click a surface to align drone gravity with its normal. 
-	Press left secondary to switch to platform deploying mode.
-	Release button to dequip.
-
-Touch right side of face screen to show player tracking reticles.
-
-Touch left side of face screen to show additional information on the HUD. Eye cameras will also telescope while the face screen is removed.
-
-Bitbot can be grabbed and thrown to fly around autonomously. He will follow the targeted user if one is selected. Tap left palm button to open viewport, left grip to close.
-
-Face screen and Bitbot’s screen can both be tapped
-
+### Left antenna button
+- Touch to clear nearby gizmos
+- Touch while holding right trigger to clear items with the "Clearable" tag from Rusty Anchor Space
+### Right antenna button:
+- Press to equip gravity setter tip in left hand. 
+- Click a surface to align drone gravity with its normal. 
+- Press left secondary to switch to platform deploying mode.
+- Release button to dequip.
+- Touch right side of face screen to show player tracking reticles.
+- Touch left side of face screen to show additional information on the HUD. Eye cameras will also telescope while the face screen is removed.
+- Bitbot can be grabbed and thrown to fly around autonomously. He will follow the targeted user if one is selected. Tap left palm button to open viewport, left grip to close.
+- Face screen and Bitbot’s screen can both be tapped
 ## Hologram Menu
 Touch the back hexagon on the left hand to open.
 
-While a user is targeted, tracking holograms will appear on them. Left set of buttons adjusts gauntlets, right set adjusts helmet, and center adjusts the harness.
-
-The Match scale button sets the pilot to the same size as the target, Match Parent reparents the pilot to the target’s current space, and Force Parent reparents the target to the pilot's space.
-
-The Left and Right Tether buttons allow for remote target selection for the Tractor Tether hand transformation.
-
+- While a user is targeted, tracking holograms will appear on them. Left set of buttons adjusts gauntlets, right set adjusts helmet, and center adjusts the harness.
+- The Match scale button sets the pilot to the same size as the target, Match Parent reparents the pilot to the target’s current space, and Force Parent reparents the target to the pilot's space.
+- The Left and Right Tether buttons allow for remote target selection for the Tractor Tether hand transformation.
 ## Quick Menu
 Opened by touching one touchpad and clicking the other. Use the clicked touchpad to move the cursor, touch the other to select. Click again to go back to the main page.
-
 ### Utility
 ###### Data Anchor
 Anchors the main processor and Data Anchor so Protoflux and projectile templates don't move with the Drone while unpacked
@@ -168,29 +148,18 @@ Wide eyes or Small eyes
 ## Suit Mode
 Use the right hand to high five someone while holding left grip and touching the left touchpad to engage.
 
-Either the Pilot or the Wearer can hold both radial buttons to disengage.
-
-The wearer gains control of all hand functionality, but the Pilot retains control of the transformations.
-
-The HUD displays additional information: the Pilot’s audio waveform, and the speedometer is visible at low speeds.
+- Either the Pilot or the Wearer can hold both radial buttons to disengage.
+- The wearer gains control of all hand functionality, but the Pilot retains control of the transformations.
+- The HUD displays additional information: the Pilot’s audio waveform, and the speedometer is visible at low speeds.
 ## Other
 
-Bitbot’s screen is tappable
-
-The Drone’s face screen is tappable and pulses a visual ping from the touched location
-
-The screen display color reacts to the RustyTalkingLights variable
-
-One Bitbot Multitool can idle at the right shoulder, and additional Bitbots will form a swarm behind the drone.
-
-Entering broadcast mode in the Rusty Biomimicry Facility will display the Drone’s face on the hex panels.
-
-Placing the screen on the face of a certain individual causes a unique effect.
-
-Hands, arms, and power core are fully modular and can be duplicated or deleted without permanent damage
-
-Hand functionality can be used by anyone holding it.
-
-Bitbot or the chest hexagon projects grab lasers when laser grabbing or when physical grabbing without a hand attached/deployed
-
-Either antenna can be cranked like a lever for a funny slot machine effect
+- Bitbot’s screen is tappable
+- The Drone’s face screen is tappable and pulses a visual ping from the touched location
+- The screen display color reacts to the RustyTalkingLights variable
+- One Bitbot Multitool can idle at the right shoulder, and additional Bitbots will form a swarm behind the drone.
+- Entering broadcast mode in the Rusty Biomimicry Facility will display the Drone’s face on the hex panels.
+- Placing the screen on the face of a certain individual causes a unique effect.
+- Hands, arms, and power core are fully modular and can be duplicated or deleted without permanent damage
+- Hand functionality can be used by anyone holding it.
+- Bitbot or the chest hexagon projects grab lasers when laser grabbing or when physical grabbing without a hand attached/deployed
+- Either antenna can be cranked like a lever for a funny slot machine effect
