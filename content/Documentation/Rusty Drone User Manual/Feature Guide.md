@@ -55,115 +55,116 @@ The Left and Right Tether buttons allow for remote target selection for the Trac
 #### Quick Menu
 Opened by touching one touchpad and clicking the other. Use the clicked touchpad to move the cursor, touch the other to select. Click again to go back to the main page.
 
-Utility
-	Data Anchor
-		Anchors the main processor and Data Anchor so Protoflux and projectile templates don't move with the Drone while unpacked
-	Legs
-		Toggles whether or not the legs should deploy while walking in normal gravity.
-	Retract Arms
-		Manually retracts arms into the torso.
-	Retract Screen
-		Manually retracts the screen into the head
-	Attach
-		Reparents self to a user (raycasted selection from left hand), or back to home slot if no one is in sight. The Drone will copy the host user’s RustyTalkingLights if applicable.
-	Clear Screen
-		Removes anything snapped to the screen's surface, ex. pen strokes
-Modularity
-	Toggle
-		Toggles whether or not the Drone's arms, hands, and head are grabbable by anyone. The screen is always grabbable by trusted users, the hands and arms are grabbable by any trusted user except the pilot, and the head is only grabbable with modularity enabled.
-	Recall Parts
-		Any detached body parts are flown back to their sockets.
-	Repopulate Parts
-		Automatically replenishes any missing screens, arms, hands, legs, and/or feet
-Bitbot
-	Return
-		Calls Bitbot back to the drones shoulder if he's in camera mode
-	Hide
-		Retracts/deploys all currently held bitbots
-	Get Core
-		Sends Bitbot off to get the power core
-	Flashlight
-		Bitbot emits light from his eye. Light comes from Drone's chest when Bitbot is retracted and eye while in Bitbot mode.
-	Audio
-		Toggles whether or not the Drone’s audio input and output are centered on Bitbot.
-Cloud
-	Bitbot Tool
-		Spawns a Bitbot Multitool.
-	Bitbot Blueprinter
-		Spawns a Bitbot Blueprinter
-	Railgun
-		Activates turret mode, head guns, and missile pods, then deploys the Rusty Particle Lance
-	Hand
-		Spawns a Rusty Hand
-	Arm
-		Spawns a Rusty Arm
-	Power Core
-		Spawns a Rusty Power Core
-	Claw
-		Spawns a Rusty Claw
-	URL Setter
-		Spawns the cloud variable setter clipboard
-Right Hand
-	Sword
-		Swinging into a user deals knockback
-	Shield
-		Blocks raycasts and has a character collider. Hold trigger to paint a barrier in the air.
-	Buster
-		Hold radial and move along the Gunshift to switch modes. Blaster mode pulses a laser shot. Thruster mode can be used to fly and has analog strength, full click both thrusters to boost. Repulsor mode applies instant knockback to characters in a shotgun-like cone. Charge mode can fire pellet projectiles or be held to accumulate a large blast. Beam mode fires an energy beam with analog strength, full click to overdrive.
-	Multitool
-		Protoflux and Developer tools, double press context button to switch modes. Hold left grip and double press context to switch between Pen and Material tools. Pen mode causes a color pallet to deploy on the opposite hand and uses the thumb as a size knob. Dequip the tool to revert as grip canceling is disabled for this feature.
-	Tether
-		Allows grabbing and throwing of users. Click trigger while pointing at someone and touching secondary to set them as the target. Hold trigger to pull them in and hold them in place.
-	Grapple
-		Click and hold trigger to fire the hook along the targeting laser. While attached to a point, the line keeps the pilot’s momentum around a point. Release trigger to recall the hand. Use forward/backward on the joystick to reel in/out the length of the line.
-	Flashlight
-		Emits light from the palm
-Left Hand
-	Identical to right hand
-Modes
-	Rocket
-		Transforms drone into Rocket Mode. Steer with the joystick, pitch and roll via head movement. Left trigger to boost. Hold left trigger to steadily increase top speed. Right trigger to deploy belly-mounted minigun. Right grip to retract. Left trigger while touching right touchpad to deploy head guns, left grip to retract. Hold right context menu button for one second to emit a sky twinkle. Double jump to hotswap to Bike Mode.
-	Bike
-		Transforms drone into Bike Mode. Steer with the joystick, left trigger to boost. Double jump to hotswap to Rocket Mode.
-	Turret
-		Combine the power core, minigun, and both busters into a front mounted gatling gun with forcefield barricade. Hold right trigger to spin up and fire.
-	Compact
-		The drone folds up into its head. In walk mode, a tread deploys. Click left trigger to shrink to Bitbot Mode.
-	Head Guns
-		Deploys cranial blaster panels. Aim and shoot with left controller. Firing speed slows and sound changes in Bitbot Mode.
-	Missile Pods
-		Deploys shoulder mounted rocket launchers. Aim with the right hand. Touch left secondary and click trigger to lock target based on the left targeting laser. Hold left trigger to fire. Targeting a user with the left hand hologram menu with the M.I.S.S.I.L.E.S. deployed with lock onto them.
-Settings
-	Drone Power
-		Remotely shuts down all Alpha Drones in the area (Prime Unit only)
-	Parenting Bullets
-		Causes energy blasts from the Buster’s Blaster mode and the Minigun to parent themselves under the slot they hit, allowing for special interaction with certain objects.
-	Toolshelves
-		Toggles the Drone’s toolshelves on/off
-	Global UI
-		Toggles whether or not the HUD, Quick Menu, Emote Menu, default grab lasers, and Context Menu are visible to non-Pilot users.
-	Local Gravity
-		Toggles whether or not the drone respects the Local Gravity world variable.
-  
+##### Utility
+###### Data Anchor
+Anchors the main processor and Data Anchor so Protoflux and projectile templates don't move with the Drone while unpacked
+###### Legs
+Toggles whether or not the legs should deploy while walking in normal gravity.
+###### Retract Arms
+Manually retracts arms into the torso.
+###### Retract Screen
+Manually retracts the screen into the head
+###### Attach
+Reparents self to a user (raycasted selection from left hand), or back to home slot if no one is in sight. The Drone will copy the host user’s RustyTalkingLights if applicable.
+###### Clear Screen
+Removes anything snapped to the screen's surface, ex. pen strokes
+##### Modularity
+###### Toggle
+Toggles whether or not the Drone's arms, hands, and head are grabbable by anyone. The screen is always grabbable by trusted users, the hands and arms are grabbable by any trusted user except the pilot, and the head is only grabbable with modularity enabled.
+###### Recall Parts
+Any detached body parts are flown back to their sockets.
+###### Repopulate Parts
+Automatically replenishes any missing screens, arms, hands, legs, and/or feet
+##### Bitbot
+###### Return
+Calls Bitbot back to the drones shoulder if he's in camera mode
+###### Hide
+Retracts/deploys all currently held bitbots
+###### Get Core
+Sends Bitbot off to get the power core
+###### Flashlight
+Bitbot emits light from his eye. Light comes from Drone's chest when Bitbot is retracted and eye while in Bitbot mode.
+###### Audio
+Toggles whether or not the Drone’s audio input and output are centered on Bitbot.
+##### Cloud
+###### Bitbot Tool
+Spawns a Bitbot Multitool.
+###### Bitbot Blueprinter
+Spawns a Bitbot Blueprinter
+###### Railgun
+Activates turret mode, head guns, and missile pods, then deploys the Rusty Particle Lance
+###### Hand
+Spawns a Rusty Hand
+###### Arm
+Spawns a Rusty Arm
+###### Power Core
+Spawns a Rusty Power Core
+###### Claw
+Spawns a Rusty Claw
+###### URL Setter
+Spawns the cloud variable setter clipboard
+##### Right Hand
+###### Sword
+Swinging into a user deals knockback
+###### Shield
+Blocks raycasts and has a character collider. Hold trigger to paint a barrier in the air.
+###### Buster
+Hold radial and move along the Gunshift to switch modes. Blaster mode pulses a laser shot. Thruster mode can be used to fly and has analog strength, full click both thrusters to boost. Repulsor mode applies instant knockback to characters in a shotgun-like cone. Charge mode can fire pellet projectiles or be held to accumulate a large blast. Beam mode fires an energy beam with analog strength, full click to overdrive.
+###### Multitool
+Protoflux and Developer tools, double press context button to switch modes. Hold left grip and double press context to switch between Pen and Material tools. Pen mode causes a color pallet to deploy on the opposite hand and uses the thumb as a size knob. Dequip the tool to revert as grip canceling is disabled for this feature.
+###### Tether
+Allows grabbing and throwing of users. Click trigger while pointing at someone and touching secondary to set them as the target. Hold trigger to pull them in and hold them in place.
+###### Grapple
+Click and hold trigger to fire the hook along the targeting laser. While attached to a point, the line keeps the pilot’s momentum around a point. Release trigger to recall the hand. Use forward/backward on the joystick to reel in/out the length of the line.
+###### Flashlight
+Emits light from the palm
+##### Left Hand
+Identical to right hand
+##### Modes
+###### Rocket
+Transforms drone into Rocket Mode. Steer with the joystick, pitch and roll via head movement. Left trigger to boost. Hold left trigger to steadily increase top speed. Right trigger to deploy belly-mounted minigun. Right grip to retract. Left trigger while touching right touchpad to deploy head guns, left grip to retract. Hold right context menu button for one second to emit a sky twinkle. Double jump to hotswap to Bike Mode.
+###### Bike
+Transforms drone into Bike Mode. Steer with the joystick, left trigger to boost. Double jump to hotswap to Rocket Mode.
+###### Turret
+Combine the power core, minigun, and both busters into a front mounted gatling gun with forcefield barricade. Hold right trigger to spin up and fire.
+###### Compact
+The drone folds up into its head. In walk mode, a tread deploys. Click left trigger to shrink to Bitbot Mode.
+###### Head Guns
+Deploys cranial blaster panels. Aim and shoot with left controller. Firing speed slows and sound changes in Bitbot Mode.
+###### Missile Pods
+Deploys shoulder mounted rocket launchers. Aim with the right hand. Touch left secondary and click trigger to lock target based on the left targeting laser. Hold left trigger to fire. Targeting a user with the left hand hologram menu with the M.I.S.S.I.L.E.S. deployed with lock onto them.
+##### Settings
+###### Drone Power
+Remotely shuts down all Alpha Drones in the area (Prime Unit only)
+###### Parenting Bullets
+Causes energy blasts from the Buster’s Blaster mode and the Minigun to parent themselves under the slot they hit, allowing for special interaction with certain objects.
+###### Toolshelves
+Toggles the Drone’s toolshelves on/off
+###### Global UI
+Toggles whether or not the HUD, Quick Menu, Emote Menu, default grab lasers, and Context Menu are visible to non-Pilot users.
+###### Local Gravity
+Toggles whether or not the drone respects the Local Gravity world variable.
+
+---   
 #### Emotes
 Emote menu is opened by pressing either touchpad. No tool must be held in the clicked hand. Control the cursor with it and click again to toggle an emote. Click the center to reset them all. Touch the other touchpad while the menu is open to switch to the second set of options.
 
 ###### Up
-	Happy or Blissful
+Happy or Blissful
 ###### Up right
-	Blush or Loading
+Blush or Loading
 ###### Right
-	Brow raise or Closed
+Brow raise or Closed
 ###### Down right
-	Sad or X Eyes
+Sad or X Eyes
 ###### Down
-	Deadpan or AWOOGA Shatter
+Deadpan or AWOOGA Shatter
 ###### Down left
-	Angry or Reticle
+Angry or Reticle
 ###### Left
-	Wink or Heart Eyes
+Wink or Heart Eyes
 ###### Up left
-	Wide eyes or Small eyes
+Wide eyes or Small eyes
 #### Suit Mode
 Use the right hand to high five someone while holding left grip and touching the left touchpad to engage.
 
