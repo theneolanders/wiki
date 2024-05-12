@@ -1,5 +1,5 @@
 [[- User Manual Info -]]
-
+# Snappers
 The Rusty Drone utilizes multiple different snapper tags for its modularity functions. The following documentation serves as both a record of these systems and a guide on how to interface with them.
 ## RustyScreen
 The "RustyScreen" tag is used for goggles and glasses, almost always covering the eyes.
@@ -18,6 +18,8 @@ RustyArm Snappers can read the following parent values
 | ArmPoint   | Slot      | The slot the onboard IK will point the upper arm at                                        |
 ## RustyHand
 If used, the RustyHand tag should be located on the end of a RustyArm oriented such that the fingers point along the positive Z-axis (this should result in the palm being at the "bottom). The origin of the hand should be positioned at the wrist's pivot point.
+#### Parent Values
+RustyHand Snappers can read the following parent values
 
 | Tag       | Data Type | Function                                                              |
 | --------- | --------- | --------------------------------------------------------------------- |
