@@ -536,7 +536,7 @@
 - Removed Sloppy’s eyes from snappers
 - Added Grapple finger animations for both hands
 - Added Cannon animation to left hand
-### 1.30
+### 1.30.5
 
 - Updated Changelog
 - Modified scale on hexagons on back of both hands to match literally every other hexagon produced by Rusty Manufacturing

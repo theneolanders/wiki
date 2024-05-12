@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documentation/Rusty Drone User Manual/Changelog.md",
+                "file": "Documentation/Rusty Drone User Manual/Roadmap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1587f4f4af8055d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Documentation/Snapper Systems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7d96648c33869f75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Documentation/Rusty Drone User Manual/Drone Modularity.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documentation/Rusty Drone User Manual/Changelog.md",
+                "file": "Documentation/Rusty Drone User Manual/Drone Modularity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documentation/Rusty Drone User Manual/Changelog.md",
+                "file": "Documentation/Rusty Drone User Manual/Drone Modularity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documentation/Rusty Drone User Manual/Changelog.md"
+                "file": "Documentation/Rusty Drone User Manual/Drone Modularity.md"
               }
             }
           }
@@ -145,13 +170,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7df2fa40ac1bda66",
+  "active": "7d96648c33869f75",
   "lastOpenFiles": [
+    "Documentation/Rusty Drone User Manual/- User Manual Info -.md",
+    "Media/info/OpenWithGithubApp.png",
+    "Documentation/Rusty Drone User Manual/Drone Modularity.md",
+    "Documentation/Snapper Systems.md",
+    "Documentation/Rusty Drone User Manual/Changelog.md",
+    "Documentation/Rusty Drone User Manual/Roadmap.md",
     "Documentation/Rusty Drone User Manual/Feature Guide.md",
     "Documentation/Rusty Drone User Manual/Known Issues.md",
-    "Documentation/Rusty Drone User Manual/Roadmap.md",
-    "Documentation/Rusty Drone User Manual/Changelog.md",
-    "Documentation/Rusty Drone User Manual/- User Manual Info -.md",
     "Neolander Information/Rustybot.md",
     "Neolander Information/The Neolanders.md",
     "Lore/Rustybot Lore/Rustybot.md",
@@ -161,7 +189,6 @@
     "Index.md",
     "Lore/alizard Lore/Thesianite.md",
     "Lore/alizard Lore/Events/A Lizard First Contact.md",
-    "Media/info/OpenWithGithubApp.png",
     "Lore/Rustybot Lore/Quindol System.md",
     "Lore/Rustybot Lore/Quindlet.md",
     "Lore/Rustybot Lore/Andromeda Transfer Incident.md",
@@ -172,9 +199,6 @@
     "Lore/alizard Lore/Thesians.md",
     "Lore/alizard Lore/events/A Lizard First Contact.md",
     "Lore/alizard Lore/Zard.md",
-    "Lore/Amplified Lore/The Swarm.md",
-    "Lore/Amplified Lore/Yurigans.md",
-    "Lore/Amplified Lore/Yuris.md",
     "Lore/Chroma Lore",
     "Lore/alizard Lore/events",
     "Media/info",

@@ -60,7 +60,6 @@
 ### HANDS
 
 - Shield sounds for colliding and sword hit
-- Re-add charge shot
 - Finish the Gunshift
 - Holding secondary should rotate shields forward
 ### SCREEN
