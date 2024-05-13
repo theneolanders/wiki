@@ -3,7 +3,7 @@ Founded by [[Lore/Rustybot Lore/Rustybot#Previously Known As Toby Tsur|Toby Tsur
 Prior to [[Andromeda Transfer Incident#The Rusty Exodus|The Rusty Exodus]], Rusty Manufacturing focused on the advancement of spaceborn automation. The company was most notable for adopting [[Faster Than Light Technology|Quantum Entangled Communication]] technology in 2168, just two years after it was developed. This adoption led to the creation of [[Rusty Manufacturing#The Datanet|The Datanet]].
 
 ---
-## Notable Technology
+# Notable Technology
 
 ### Drones
 A Drone is any Rusty Manufacturing unit capable of being controlled by a [[Rusty Manufacturing#Pilots|Pilot]]. Drones range from Bitbots to Alpha Drones and can have a wide variety of functionality, but are primarily used for the automation of manual labor.
@@ -12,7 +12,7 @@ A Drone is any Rusty Manufacturing unit capable of being controlled by a [[Rusty
 Alpha Drones are equipped with multiple [[The Multiverse#Underspace|Underspace]] Harvester Cores, Microfabricators, and countless weapon systems. These drones are capable of self repair and indefinite uptime. Pilots in these units usually lead exploration missions and expansion initiatives.
 
 > [!NOTE] The Prime Unit
-> While a Prime Unit is often referred to as a separate type of drone, this distinction is only a form of utility to denote which Alpha Drone is currently being inhabited by [[Lore/Rustybot Lore/Rustybot]]. There's no physical change in the structure of the drone.
+> While a Prime Unit is often referred to as a separate type of drone, this distinction is only a form of utility to denote which Alpha Drone is currently being inhabited by [[Lore/Rustybot Lore/Rustybot|Rustybot]]. There's no physical change in the structure of the drone.
 
 #### Beta Drones
 Beta Drones are often assigned to an individual production facility. They have limited combat capabilities but extensive sensor suites.
@@ -29,8 +29,7 @@ In a certain sense, Dataspace can be thought of as the brain behind the company,
 ### Underspace Harvester Cores
 haha infinite energy go brrrr
 ### Pilots
-A Rusty Pilot is an individual consciousness created by duplicating [[Lore/Rustybot Lore/Rustybot]]'s personality composition. Their motivations are tweaked such that they will find maximum fulfillment by performing their designated task to perfection, thus ensuring maximum efficiency of all workers.
-
+A Rusty Pilot is an individual consciousness created by duplicating [[Lore/Rustybot Lore/Rustybot|Rustybot]]'s personality composition. Their motivations are tweaked such that they will find maximum fulfillment by performing their designated task to perfection, thus ensuring maximum efficiency of all workers.
 ### The Datanet
 An early version of Dataspace, The Datanet is a now-defunct extension of the internet using breakthrough [[Faster Than Light Technology]]. 
 

@@ -9,6 +9,6 @@ The trauma experienced by Toby in this event is thought to be the most important
 ---
 ## The Rusty Exodus
 
-The Rusty Exodus is a period of roughly 16 hours in February of 2171 immediately following [[Lore/Rustybot Lore/Rustybot]]'s awakening where he decommissioned all [[Rusty Manufacturing]] assets in the Sol system before cutting communications with Earth entirely.
+The Rusty Exodus is a period of roughly 16 hours in February of 2171 immediately following [[Lore/Rustybot Lore/Rustybot|Rustybot]]'s awakening where he decommissioned all [[Rusty Manufacturing]] assets in the Sol system before cutting communications with Earth entirely.
 
 Due to earth's reliance on Rusty Manufacturing for raw materials and the upkeep of the [[Rusty Manufacturing#The Datanet|The Datanet]], the exodus caused near-total societal collapse on an unprecedented scale.

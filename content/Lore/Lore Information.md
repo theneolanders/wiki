@@ -21,7 +21,7 @@ Rusty Manufacturing adopts [[Faster Than Light Technology|QEC]] tech and release
 ### 2170
 The [[Andromeda Transfer Incident]].
 ### 2171
-[[Lore/Rustybot Lore/Rustybot]] emerges from his forced hibernation and subsequently conducts [[Andromeda Transfer Incident#The Rusty Exodus|The Rusty Exodus]].
+[[Lore/Rustybot Lore/Rustybot|Rustybot]] emerges from his forced hibernation and subsequently conducts [[Andromeda Transfer Incident#The Rusty Exodus|The Rusty Exodus]].
 ### 2175
 [[The Swarm]] finds [[The Primary Timeline|Earth]] and begins assisting in recovery.
 ### 2194

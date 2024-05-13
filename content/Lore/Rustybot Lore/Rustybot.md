@@ -10,7 +10,7 @@ Birth: 2135-07-06
 Rustybot is a digital human consciousness originating from [[The Primary Timeline]] who inhabits a technologically advanced robotic body. He is the CEO of [[Rusty Manufacturing]] and one of the founding members of  [[The Ringleaders]].
 
 ---
-## Previously Known As Toby Tsur
+# Previously Known As Toby Tsur
 
 Born as a biological human in the year 2135, Toby Tsur was the son of [[Lore/Rustybot Lore/Rustybot#Rodney Tsur|Rodney Tsur]] and [[Lore/Rustybot Lore/Rustybot#Melody Tsur|Melody Tsur]]. He was fascinated with space travel, robotics, and automation from a very young age. This lead him to become increasingly cybernetic until the age of 25, when he underwent a final procedure to become fully mechanical.
 
@@ -29,3 +29,11 @@ Toby would eventually take on his chosen name, Rustybot, following the [[Androme
 Rodney Tsur was a programmer and digital rights activist in the mid 22nd century.
 
 Rodney married [[Melody Tsur]] (previously Melody Bontly) in 2130. He later fathered [[Lore/Rustybot Lore/Rustybot#Previously Known As Toby Tsur|Toby Tsur]] in 2135
+
+---
+# Personality
+Before the Andromeda Incident Toby Tsur was known for being an extremely caring individual. He was described as "one of the most humble super geniuses I've ever met" by an interviewer shortly after Rusty Manufacturing's announcement of the [[Quindol System|Quindol]] expedition. An extremely intelligent individual trained in many fields and beloved by society at large, he was very careful about never letting it go to his head. Even as the CEO of one of the most successful companies in history he only paid himself enough to get by, devoting the rest of Rusty Manufacturing's funds to developments that would benefit humanity as a whole.
+
+In stark contrast to his previous self, Rustybot's most notable character trait is his ego. The Andromeda Incident shattered his trust in humanity. Not just in the moral nature of people but in their competence. As such, he begins to believe himself to be the only individual in the universe capable of driving scientific progress. Importantly, this lack of trust causes him to close up emotionally and develop an abundance of weaponry and defense technology despite coming across no external threatening presences in his new home galaxy.
+
+Over the course of the Ringleaders story, Rustybot is forced to reconsider how he handles diplomatic relations with both Earth and the other members of the council. Meeting [[The Swarm]] is the first time in many years where he can't simply ignore or destroy a perceived problem. When the two of them eventually build [[The Ring]], he is presented with evidence that other beings are entirely capable of being intelligent and useful. 

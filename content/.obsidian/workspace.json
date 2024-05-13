@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documentation/Rusty Drone User Manual/- User Manual Info -.md",
+                "file": "Lore/Rustybot Lore/Rustybot.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documentation/Rusty Drone User Manual/- User Manual Info -.md",
+                "file": "Lore/Rustybot Lore/Rustybot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documentation/Rusty Drone User Manual/- User Manual Info -.md",
+                "file": "Lore/Rustybot Lore/Rustybot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documentation/Rusty Drone User Manual/- User Manual Info -.md"
+                "file": "Lore/Rustybot Lore/Rustybot.md"
               }
             }
           }
@@ -172,6 +172,18 @@
   },
   "active": "7d96648c33869f75",
   "lastOpenFiles": [
+    "Lore/Ringleader Lore/The Ring.md",
+    "Lore/Rustybot Lore/Rustybot.md",
+    "Lore/Ringleader Lore/The Ring Steward.md",
+    "Lore/Ringleader Lore/The Ringleaders.md",
+    "Lore/Rustybot Lore/The Primary Timeline.md",
+    "Lore/Ringleader Lore/The Multiverse.md",
+    "Lore/Rustybot Lore/Rusty Manufacturing.md",
+    "Lore/Lore Information.md",
+    "Lore/Ringleader Lore/First Contact.md",
+    "Lore/Rustybot Lore/Andromeda Transfer Incident.md",
+    "Documentation/Rusty Drone User Manual/- User Manual Info -.md",
+    "2023-11-03 01.59.07.jpg",
     "Documentation/Rusty Drone User Manual/Drone Modularity.md",
     "Media/Documentation Media/Rusty Drone.webp",
     "Media/Documentation Media/2024-01-28 20.21.48 (2).webp",
@@ -184,11 +196,9 @@
     "Media/Documentation Media/Rusty IK Diagram.png.0.pdnSave",
     "Media/Documentation Media/2023-11-03 01.59.07.jpg",
     "Media/Documentation Media/Rusty IK Diagram.md",
-    "2023-11-03 01.59.07.jpg",
     "Media/Documentation Media",
     "Lore/alizard Lore/Thesianite.md",
     "Neolander Information/Rustybot.md",
-    "Documentation/Rusty Drone User Manual/- User Manual Info -.md",
     "Lore/Portalmaster18 Lore/The Splinter Anomaly.md",
     "Media/info/OpenWithGithubApp.png",
     "Documentation/Rusty Drone User Manual/Changelog.md",
@@ -196,20 +206,11 @@
     "Documentation/Rusty Drone User Manual/Feature Guide.md",
     "Documentation/Rusty Drone User Manual/Known Issues.md",
     "Neolander Information/The Neolanders.md",
-    "Lore/Rustybot Lore/Rustybot.md",
-    "Lore/Lore Information.md",
     "Documentation/How to contribute.md",
     "Documentation/Rusty Drone User Manual",
     "Index.md",
     "Lore/alizard Lore/Events/A Lizard First Contact.md",
     "Lore/Rustybot Lore/Quindol System.md",
-    "Lore/Rustybot Lore/Quindlet.md",
-    "Lore/Rustybot Lore/Andromeda Transfer Incident.md",
-    "Lore/Rustybot Lore/Rodney Tsur.md",
-    "Lore/Ringleader Lore/Humanity.md",
-    "Lore/Ringleader Lore/The Multiverse.md",
-    "Lore/Ringleader Lore/The Ringleaders.md",
-    "Lore/alizard Lore/Thesians.md",
     "Lore/Chroma Lore",
     "Lore/alizard Lore/events",
     "Media/info",
