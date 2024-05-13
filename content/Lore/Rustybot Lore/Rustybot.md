@@ -4,6 +4,7 @@ Position: "[[The Ringleaders|Ringleader Co-Founder]]"
 Birth: 2135-07-06
 ---
 *This page is for Rustybot the Ringleader (a fictional character). For Rustybot the Neolander (a real life human), see [[Neolander Information/Rustybot|Rustybot]]*
+
 >[!NOTE] Quote
 >"Lasers solve literally every problem."
 
@@ -28,14 +29,14 @@ Toby would eventually take on his chosen name, Rustybot, following the [[Androme
 
 Rodney Tsur was a programmer and digital rights activist in the mid 22nd century.
 
-Rodney married [[Melody Tsur]] (previously Melody Bontly) in 2130. He later fathered [[Lore/Rustybot Lore/Rustybot#Previously Known As Toby Tsur|Toby Tsur]] in 2135
+Rodney married [[Melody Tsur]] (previously Melody Bontly) in 2130. He later fathered Toby Tsur in 2135
 
 ---
 # Personality
 Before the Andromeda Incident Toby Tsur was known for being an extremely caring individual. He was described as "one of the most humble super geniuses I've ever met" by an interviewer shortly after Rusty Manufacturing's announcement of the [[Quindol System|Quindol]] expedition. An extremely intelligent individual trained in many fields and beloved by society at large, he was very careful about never letting it go to his head. Even as the CEO of one of the most successful companies in history he only paid himself enough to get by, devoting the rest of Rusty Manufacturing's funds to developments that would benefit humanity as a whole.
 
-In stark contrast to his previous self, Rustybot's most notable character trait is his ego. The Andromeda Incident shattered his trust in humanity. Not just in the moral nature of people but in their competence. As such, he begins to believe himself to be the only individual in the universe capable of driving scientific progress. Importantly, this lack of trust causes him to close up emotionally and develop an abundance of weaponry and defense technology despite coming across no external threatening presences in his new home galaxy.
+In stark contrast to his previous self, Rustybot's most notable character trait is his ego. The Andromeda Incident shattered his trust in humanity. Not just in the moral nature of people but in their competence. As such, he begins to believe himself to be the only individual in the universe capable of driving scientific progress. This lack of trust causes him to close up emotionally and develop an abundance of weaponry and defense technology despite coming across no external threatening presences in his new home galaxy.
 
 Over the course of the Ringleaders story, Rustybot is forced to reconsider how he handles diplomatic relations with both Earth and the other members of the council. Meeting [[The Swarm]] is the first time in many years where he can't simply ignore or destroy a perceived problem. When the two of them eventually build [[The Ring]], he is presented with evidence that other beings are entirely capable of being intelligent and useful.
 
-Initially snarky and dismissive of the other members, Rustybot softens significantly as The Ringleaders become less of an obligation and more of a found family to him. The Swarm is especially critical in this journey with their precise pokes and prods regarding Rusty's behaviour. Despite his repeated outbursts when his own faults are brought to light, his natural desire to analyze every situation down to the last detail cause Rusty to consider what his actions look like from the outside.
+Initially snarky and dismissive of the other members, Rustybot's demeanor softens significantly as The Ringleaders become less of an obligation and more of a found family to him. The Swarm is especially critical in this journey with their precise pokes and prods regarding Rusty's behaviour. Despite his repeated outbursts when his own faults are brought to light, his natural desire to analyze every situation down to the last detail does cause Rusty to consider what his actions look like from the outside.
