@@ -1,0 +1,1 @@
+The Thesianite Empire is a collection of kingdoms that spans across the six biomes of the [[The Thesian Timeline|Thesian Timeline]], this empire was created by the creators of [[Thesians]].
