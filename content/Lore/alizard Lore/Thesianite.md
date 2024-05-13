@@ -2,7 +2,6 @@
 aliases:
   - Thesianite Quartz
 ---
-# Thesianite Quartz
 ![[LizardRock_Sample37.webp]]
 
 Thesianite Quartz or commonly just referred to as Thesianite is a type of crystal that pulls energy from [[The Multiverse#Underspace|Underspace]].
