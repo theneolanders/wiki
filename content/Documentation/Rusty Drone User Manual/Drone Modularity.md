@@ -11,6 +11,14 @@ Detachable heads are a staple characteristic of Neolander interactions.
 A generic hat snapper tag. Origins should be on the surface of the head (generally the bottom of a hat or inside of a helmet).
 ## RustyPowerCore
 In order to function correctly, power cores must have the "RustyPowerCore" dynamic variable space and the "RustyPowerCore/PowerSupply" dynamic variable of type float, where the value is any positive number (0 being no supply, 100 being full power, and greater than 100 being overcharged). 
+#### Parent Values
+RustyPowerCore Snappers can read the following parent values
+
+| Tag              | Data Type | Function                                                                                   |
+| ---------------- | --------- | ------------------------------------------------------------------------------------------ |
+| LeftConnection   | Slot      | If detected, a line of plasma will flicker on                                              |
+| RightConnection  | Slot      | If detected, a line of plasma will flicker on                                              |
+| CenterConnection | Slot      | If detected, a line of plasma will flicker on                                              |
 ## RustyArm
 This tag is the most in-depth in terms of required systems to function. Slots with a RustyArm Snapper are to be oriented such that the positive Z-axis is facing away from what it is attached to and positioned such that the origin of the object is the attachment point.
 #### Parent Values
