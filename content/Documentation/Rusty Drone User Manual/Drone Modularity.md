@@ -14,11 +14,11 @@ In order to function correctly, power cores must have the "RustyPowerCore" dynam
 #### Parent Values
 RustyPowerCore Snappers can read the following parent values
 
-| Tag              | Data Type | Function                                                                                   |
-| ---------------- | --------- | ------------------------------------------------------------------------------------------ |
-| LeftConnection   | Slot      | If detected, a line of plasma will flicker on                                              |
-| RightConnection  | Slot      | If detected, a line of plasma will flicker on                                              |
-| CenterConnection | Slot      | If detected, a line of plasma will flicker on                                              |
+| Tag              | Data Type | Function                                                                                         |
+| ---------------- | --------- | ------------------------------------------------------------------------------------------------ |
+| LeftConnection   | Slot      | If detected, a line of plasma will flicker on from the core's left port to the designated slot   |
+| RightConnection  | Slot      | If detected, a line of plasma will flicker on from the core's right port to the designated slot  |
+| CenterConnection | Slot      | If detected, a line of plasma will flicker on from the core's middle port to the designated slot |
 ## RustyArm
 This tag is the most in-depth in terms of required systems to function. Slots with a RustyArm Snapper are to be oriented such that the positive Z-axis is facing away from what it is attached to and positioned such that the origin of the object is the attachment point.
 #### Parent Values
