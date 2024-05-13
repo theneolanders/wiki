@@ -49,5 +49,4 @@ Though he is initially snarky and dismissive of the other members, Rustybot's de
 # Trivia
 - Nobody knows why Toby Tsur picked the name Rustybot
 - Rustybot's visual design is heavily inspired by EVE from Wall-e
-- The shape of Rusty's head is a Rectified Rhombicuboctahedron
-- 
+- The shape of Rusty's head is a Rectified Rhombicuboctahedron, though it's more commonly referred to as a bevel cube or bevel box
