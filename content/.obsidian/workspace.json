@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documentation/Rusty Drone User Manual/Drone Modularity.md",
+                "file": "Documentation/Rusty Drone User Manual/- User Manual Info -.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documentation/Rusty Drone User Manual/Drone Modularity.md",
+                "file": "Documentation/Rusty Drone User Manual/- User Manual Info -.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documentation/Rusty Drone User Manual/Drone Modularity.md",
+                "file": "Documentation/Rusty Drone User Manual/- User Manual Info -.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documentation/Rusty Drone User Manual/Drone Modularity.md"
+                "file": "Documentation/Rusty Drone User Manual/- User Manual Info -.md"
               }
             }
           }
@@ -172,8 +172,10 @@
   },
   "active": "7d96648c33869f75",
   "lastOpenFiles": [
-    "Documentation/Snapper Systems.md",
     "Documentation/Rusty Drone User Manual/Drone Modularity.md",
+    "Media/Documentation Media/Rusty Drone.webp",
+    "Media/Documentation Media/2024-01-28 20.21.48 (2).webp",
+    "Documentation/Snapper Systems.md",
     "Media/Documentation Media/RustyZard Modularity.webp",
     "Media/Documentation Media/2024-04-23 04.32.17.webp",
     "Media/Documentation Media/Rusty IK Diagram.png",
@@ -213,7 +215,6 @@
     "Media/info",
     "Media",
     "Documentation",
-    "media/info/OpenWithGithubApp.png",
     "media/info",
     "media"
   ]

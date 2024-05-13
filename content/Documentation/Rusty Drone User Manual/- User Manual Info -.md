@@ -1,5 +1,7 @@
 The Rusty Drone (AKA the Prime Unit) is an avatar and set of systems built and programmed by [[Neolander Information/Rustybot|Rustybot]] in the VR platform [Resonite.](https://resonite.com/)
 
+![[Rusty Drone.webp]]
+
 [[Changelog]]
 [[Drone Modularity]]
 [[Feature Guide]]
