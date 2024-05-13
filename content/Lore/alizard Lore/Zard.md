@@ -2,7 +2,7 @@
 aliases:
   - A Lizard
 ---
-Lizard or "Zard" is a small blue and white [[Thesians|Thesian]], they are apart of The [[The Ringleaders||Ringleaders]] group.
+Lizard or "Zard" is a small blue and white [[Thesians|Thesian]], they are apart of The [[The Ringleaders|Ringleaders]] group.
 # Abilities
 ## Thesianite Quartz production
 Naturally Zard has the ability to produce [[Thesianite]] Quartz on any part of their body.
