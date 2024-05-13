@@ -1,2 +1,2 @@
 # The Neolanders Knowledge Vault
-http://www.theneolanders.com/neolanders-wiki/
+https://www.theneolanders.com/neolanders-wiki/
