@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Amplified Lore/The Swarm.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore/Amplified Lore/The Swarm.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lore/Amplified Lore/The Swarm.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore/Amplified Lore/The Swarm.md"
+                "file": "index.md"
               }
             }
           }
@@ -160,15 +160,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "98b059270c504811",
+  "active": "cf4fa06ea19066e3",
   "lastOpenFiles": [
+    "Lore/Amplified Lore/The Swarm.md",
+    "documentation/Untitled.md",
     "Lore/Ringleader Lore/The Ringleaders.md",
     "Lore/Ringleader Lore/Faster Than Light Technology.md",
     "Lore/Ringleader Lore/First Contact.md",
     "Lore/Ringleader Lore/The Ring Steward.md",
     "Lore/Ringleader Lore/The Ring.md",
     "Lore/Ringleader Lore/The Multiverse.md",
-    "Lore/Amplified Lore/The Swarm.md",
     "Lore/Rustybot Lore/Rustybot.md",
     "Lore/Rustybot Lore/Andromeda Transfer Incident.md",
     "Lore/Narrative Chronology.canvas",
@@ -196,14 +197,13 @@
     "Lore/alizard Lore/Locations/The Thesianite Empire.md",
     "Lore/alizard Lore/Locations/The Thesian Timeline.md",
     "Lore/alizard Lore/Locations",
-    "Lore/alizard Lore/Events and History/The Thesian Ego Death.md",
     "Lore/alizard Lore/Events and History",
     "Lore/Spiketickett Lore",
     "Lore/Portalmaster18 Lore",
     "Documentation/Rusty Drone User Manual",
     "Documentation",
-    "media/lore/alizard/LizardRock_Sample37.webp",
-    "media/info/OpenWithGithubApp.png",
+    "Media/lore/alizard/LizardRock_Sample37.webp",
+    "Media/Info/OpenWithGithubApp.png",
     "Media/info/OpenWithGithubApp.png"
   ]
 }
