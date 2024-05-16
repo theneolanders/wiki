@@ -1101,3 +1101,5 @@
 - Hand flashlights now have sound and the palm hex extrudes out while active
 - Shoulder panels no longer have seams on the inside
 - Chest hull now has a separate lower panel
+- Adjusted hand positions in turret mode
+- 

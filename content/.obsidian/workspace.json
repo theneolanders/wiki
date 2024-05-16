@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Rustybot Lore/Rustybot.md",
+                "file": "Documentation/Rusty Drone User Manual/Changelog.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore/Rustybot Lore/Rustybot.md",
+                "file": "Documentation/Rusty Drone User Manual/Changelog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lore/Rustybot Lore/Rustybot.md",
+                "file": "Documentation/Rusty Drone User Manual/Changelog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore/Rustybot Lore/Rustybot.md"
+                "file": "Documentation/Rusty Drone User Manual/Changelog.md"
               }
             }
           }
@@ -172,6 +172,7 @@
   },
   "active": "7d96648c33869f75",
   "lastOpenFiles": [
+    "Lore/Rustybot Lore/Rustybot.md",
     "Neolander Information/Rustybot.md",
     "Documentation/Rusty Drone User Manual/Drone Modularity.md",
     "Documentation/Rusty Drone User Manual/Known Issues.md",
@@ -182,7 +183,6 @@
     "Lore/Lore Information.md",
     "Lore/Narrative Chronology.canvas",
     "Neolander Information/The Neolanders.md",
-    "Lore/Rustybot Lore/Rustybot.md",
     "Lore/Ringleader Lore/The Ringleaders.md",
     "Lore/Ringleader Lore/The Ring.md",
     "Lore/Ringleader Lore/The Ring Steward.md",
