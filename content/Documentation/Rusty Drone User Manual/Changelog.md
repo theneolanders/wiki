@@ -1105,4 +1105,3 @@
 - Added spotlight to thruster mode
 - Added point light to beam hit effect
 - Fixed main thruster particle trail creating large flashes when climbing due to user root position mismatch
-- 
