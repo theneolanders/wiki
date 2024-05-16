@@ -25,8 +25,10 @@ The [[Andromeda Transfer Incident]].
 ### 2175
 [[The Swarm]] finds [[The Primary Timeline|Earth]] and begins assisting in recovery.
 ### 2194
-[[First Contact]] between Rustybot and The Swarm occurs.
+[[First contact]] between Rustybot and The Swarm occurs.
 ### 2199
 [[The Ring]] is constructed along with [[The Ring Steward]].
 ### 2200
 [[Jack Jensen]] travels to [[The Primary Timeline]] and [[The Ringleaders]] are officially formed.
+### 2202
+[[A Lizard First Contact|First contact]] between [[Zard]] and The Ringleaders.

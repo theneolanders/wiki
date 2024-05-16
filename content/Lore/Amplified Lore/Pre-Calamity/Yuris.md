@@ -1,0 +1,1 @@
+Yuris (Your-Riss) is a star located in the outer Milky-Way Galaxy in [[The Primary Timeline]]. It is a blue giant, and is currently the core of a **[Dyson Sphere](https://en.wikipedia.org/wiki/Dyson_sphere)** created by **[[The Swarm]]** as a monument to [[The Zenitaf Calamity]] and the lives lost.
