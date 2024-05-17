@@ -1,8 +1,1 @@
-Engineered
-Nuclear
-Ecological
-Redistribution
-General
-Implementation
-
-or, Energi, was the first very successful experiment of [[Samuel Kurt]], so much infact, it's what helped startup his company [[Mantra Innovators]], and is one of the main sources of energy used for most of his time alive.
+Engineered Nuclear Ecological Redistribution General Implementation, or ENERGI, was of the couple first very successful experiments of [[Samuel Kurt]], so much infact, it's what boosted [[Mantra Innovators|Mantra Innovators']] progress ten-fold.

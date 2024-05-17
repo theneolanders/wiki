@@ -1,4 +1,4 @@
-The splinter anomaly is a "generic" event that can happen around the multiverse.
+Splinter events when afflicted with this anomaly are what happens when psionic-based Underspace fluctuations briefly synchronize two or more timelines, causing two or more [[strands]] to endure the below listed [[The Splinter Anomaly#Splinter Effects|effects]].
 ___
 This event is caused by encountering a weak point in the [[The Multiverse#Lower|the lower membrane]] of a universe, typically in a universe similar to the rules of [[The Secondary Timeline]].
 
@@ -18,5 +18,5 @@ ___
 
 Those known with this anomaly are
 
-Samuel Kurt
+[[Samuel Kurt]]
 [[Sarah Kelly]]
