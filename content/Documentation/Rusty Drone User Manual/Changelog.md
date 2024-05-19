@@ -1105,3 +1105,17 @@
 - Added spotlight to thruster mode
 - Added point light to beam hit effect
 - Fixed main thruster particle trail creating large flashes when climbing due to user root position mismatch
+- Added scale, queued packets, and ping to HUD extras
+- Overhauled G.R.A.P.P.L.E. functionality
+- Yanking on the line with the attached hand will momentarily dampen lateral movement and pull the drone towards the hooked point
+- Users can now be pulled
+- Adjusted reeling speed
+- Added reeling sound
+- Beam visual reacts to the line being taught
+- Fixed being blind when shutdown with no screen attached
+- Fixed eyes flickering on bootup
+- Fixed DOS blinker flickering on bootup
+- Removed old changelog from screen
+- Eye meshes now disable when shutdown
+- Gizmo and anchor space cleanup are now faster and more reliable
+- DRM circuit now locally drives the persistence of parts to prevent unauthorized saving
