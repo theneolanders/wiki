@@ -1,6 +1,8 @@
-Rusty Manufacturing was founded by [[Lore/Rustybot Lore/Rustybot#Previously Known As Toby Tsur|Toby Tsur]] in the year 2172, Rusty Manufacturing is a corp.
+Rusty Manufacturing was founded by [[Rustybot]] in the year 2172 as a way to slip through a legal loophole and regain communication with Earth following his termination from [[Flow]] two years prior. 
 
-Rusty Manufacturing focuses on the advancement of spaceborn automation. The company is notable for its extragalactic nature, being the first and only human corporation based in Andromeda.
+Rusty Manufacturing is notable for its extragalactic nature, being the first and only human corporation based in Andromeda. It is also the only known company currently in operation to have zero employees.
+
+Rusty Manufacturing focuses on the advancement of spaceborn automation, laser technology,
 
 ---
 # Notable Technology
@@ -40,6 +42,6 @@ Once the first Beta Drone was built and its Pilot connected, Rusty Manufacturing
 
 ---
 # Dataspace
-Dataspace (not to be confused with [[Rusty Manufacturing#The Datanet|The Datanet]]), is a digital representation of Rusty Manufacturing's systems. Rather than being a single simulated environment, Dataspace is the culmination of RM's computational power. Every server hub, research facility, production complex, and drone is directly connected via [[Faster Than Light Technology#Quantum Entangled Communication|QEC]] circuitry. The result is a web of information and calculations flowing to and from every piece of equipment the company produces simultaneously.
+Dataspace (not to be confused with [[Flow#The Datanet|The Datanet]]), is a digital representation of Rusty Manufacturing's systems. Rather than being a single simulated environment, Dataspace is the culmination of RM's computational power. Every server hub, research facility, production complex, and drone is directly connected via [[Faster Than Light Technology#Quantum Entangled Communication|QEC]] circuitry. The result is a web of information and calculations flowing to and from every piece of equipment the company produces simultaneously.
 
 In a certain sense, Dataspace can be thought of as the brain behind the company, forming [[Rusty Manufacturing|Rusty Prime]].

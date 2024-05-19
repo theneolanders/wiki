@@ -1,13 +1,13 @@
 [[- Scene Index -]]
 
-[[Scene 4 - Hat in Hand|Previous]]
+[[Scene 3 - R&D|Previous]]
 
-[[Scene 6 -|Next]]
+[[Scene 5 - Misc (needs organizing)|Next]]
 
 ---
 **Toby Tsur**
 
-**Rusty Manufacturing Departure Station, Lunar Orbit, Sol, Milky Way**
+**Flow Intergalactic IQT Departure Station, Lunar Orbit, Sol, Milky Way**
 
 **June 14th, 2170**
 

@@ -4,7 +4,7 @@ By 2121, Flow was a multinational logistics conglomerate that specialized in rep
 
 ---
 # The Datanet
-The Datanet is a now-defunct extension of the internet using breakthrough [[Faster Than Light Technology]]. 
+The Datanet is an extension of the internet created using breakthrough [[Faster Than Light Technology]]. 
 
 Toby Tsur developed the Datanet for the betterment of humanity while working for [[Flow]], and user's enjoyed open access to it's services for no cost. This led to mass adoption of the system, to the point of nearly two thirds of earth's information traffic being routed through Flow's servers.
 

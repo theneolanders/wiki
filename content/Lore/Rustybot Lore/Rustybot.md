@@ -26,14 +26,16 @@ Toby would eventually take on his chosen name, Rustybot, following the [[Androme
 > [!NOTE] Quote
 > "Whether a human was born of a womb or intertwining datasets is irrelevant." - Rodney Tsur, 2132
 
-Rodney Tsur was a programmer and digital rights activist in the mid 22nd century.
+Rodney Tsur was a programmer, roboticist, and digital rights activist in the mid 22nd century.
 
-Rodney married [[Melody Tsur]] (previously Melody Bontly) in 2130. He later fathered Toby Tsur in 2135
+Rodney married Melody Tsur (previously Melody Bontly) in 2130. He later fathered Toby Tsur in 2135.
 #### Melody Tsur
 > [!NOTE] Quote
 > "Of *course* I don't think we're alone in the universe. We have each other." - Melody Tsur, 2137
 
-Melody Tsur was an astrophysicist, exobiologist, and
+Melody Tsur was an astrophysicist, exobiologist, and astronaut in the mid 22nd century.
+
+Melody married Rodney Tsur in 2130. She later gave birth to Toby Tsur in 2135.
 
 ---
 # Personality
