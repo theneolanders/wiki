@@ -1,6 +1,6 @@
-Founded by [[Lore/Rustybot Lore/Rustybot#Previously Known As Toby Tsur|Toby Tsur]] in the year 2164, Rusty Manufacturing is a corporation from Earth.
+Rusty Manufacturing was founded by [[Lore/Rustybot Lore/Rustybot#Previously Known As Toby Tsur|Toby Tsur]] in the year 2172, Rusty Manufacturing is a corp.
 
-Prior to [[Andromeda Transfer Incident#The Rusty Exodus|The Rusty Exodus]], Rusty Manufacturing focused on the advancement of spaceborn automation. The company was most notable for adopting [[Faster Than Light Technology|Quantum Entangled Communication (QEC)]] technology in 2168, just two years after it was developed. This adoption led to the creation of [[Rusty Manufacturing#The Datanet|The Datanet]].
+Rusty Manufacturing focuses on the advancement of spaceborn automation. The company is notable for its extragalactic nature, being the first and only human corporation based in Andromeda.
 
 ---
 # Notable Technology
@@ -43,9 +43,3 @@ Once the first Beta Drone was built and its Pilot connected, Rusty Manufacturing
 Dataspace (not to be confused with [[Rusty Manufacturing#The Datanet|The Datanet]]), is a digital representation of Rusty Manufacturing's systems. Rather than being a single simulated environment, Dataspace is the culmination of RM's computational power. Every server hub, research facility, production complex, and drone is directly connected via [[Faster Than Light Technology#Quantum Entangled Communication|QEC]] circuitry. The result is a web of information and calculations flowing to and from every piece of equipment the company produces simultaneously.
 
 In a certain sense, Dataspace can be thought of as the brain behind the company, forming [[Rusty Manufacturing|Rusty Prime]].
-### The Datanet
-An early version of Dataspace, The Datanet is a now-defunct extension of the internet using breakthrough [[Faster Than Light Technology]]. 
-
-Rusty Manufacturing developed the Datanet for the betterment of humanity, and user's enjoyed open access to it's services for no cost. This led to mass adoption of the system, to the point of nearly two thirds of earth's information traffic being routed through RM servers.
-
-As a result of the [[Andromeda Transfer Incident]], the Datanet would be shut down, causing mass collapse of digital infrastructure known as [[Andromeda Transfer Incident#The Rusty Exodus|The Rusty Exodus]].

@@ -19,10 +19,7 @@ Born as a biological human in the year 2135, Toby Tsur was the son of [[Lore/Rus
 
 Toby excelled in his schooling, graduating all mandatory learning initiatives by the age of 16 before spending the rest of his adolescence and early adulthood working for [[Flow]].
 
-At the age of 29, Toby would found the company [[Rusty Manufacturing]].
-
 Toby would eventually take on his chosen name, Rustybot, following the [[Andromeda Transfer Incident]].
-
 ### Parents
 
 #### Rodney Tsur
@@ -32,6 +29,11 @@ Toby would eventually take on his chosen name, Rustybot, following the [[Androme
 Rodney Tsur was a programmer and digital rights activist in the mid 22nd century.
 
 Rodney married [[Melody Tsur]] (previously Melody Bontly) in 2130. He later fathered Toby Tsur in 2135
+#### Melody Tsur
+> [!NOTE] Quote
+> "Of *course* I don't think we're alone in the universe. We have each other." - Melody Tsur, 2137
+
+Melody Tsur was an astrophysicist, exobiologist, and
 
 ---
 # Personality

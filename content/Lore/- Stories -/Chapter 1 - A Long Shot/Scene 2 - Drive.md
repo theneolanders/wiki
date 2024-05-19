@@ -8,7 +8,7 @@
 
 **Toby Tsur**
 
-**Dakotah, Earth**
+**Dakota, Earth**
 
 **July 6th, 2168**
 
