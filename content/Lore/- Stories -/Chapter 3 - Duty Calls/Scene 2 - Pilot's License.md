@@ -2,7 +2,7 @@
 
 [[Scene 1 - Primitive|Previous]]
 
-[[Scene 1 - Primitive|Next]]
+[[Scene 3 - All By Myselves|Next]]
 
 ---
 
