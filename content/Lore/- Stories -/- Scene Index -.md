@@ -9,7 +9,7 @@ Toby's early life
 The Andromeda Incident
 ##### Scenes
 [[Scene 1 - Marbles|Marbles]]
-
+[[Scene 2 - R&D|R&D]]
 # Chapter 2: Lost and Found
 ##### Start
 Dr. Isaac Grant
@@ -26,7 +26,7 @@ The Swarm leaves Earth to find Rustybot personally
 
 # Chapter 4: First Contact
 ##### Start
-Rustybot and The Swarm meeting
+Rustybot frantically preparing for a meeting with The Swarm
 ##### End
 Beginning construction of The Ring
 ##### Scenes

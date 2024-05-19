@@ -6,7 +6,6 @@ This timeline is unique in that it has a nearly non-permeable [[The Multiverse#U
 ## History
 
 Humans in the primary timeline followed a course identical to real-life humanity until the year 2027, when a major breakthrough in statistical learning models results in the formation of the first general artificial intelligence.
-
 #### True AI
 Digital life in the Primeline was conceptualized as early as the 1900s, and the first truly sapient AI came into existence in the year 2027 following advances in recursive statistical models. This development led to an explosion in funding for digital consciousness research that resulted in nearly two million digital minds created by the year 2033.
 

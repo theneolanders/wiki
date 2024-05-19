@@ -1,6 +1,6 @@
 [[- Scene Index -]]
 
-[[Next]]
+[[Scene 2 - R&D|Next]]
 
 ---
 **Melody Tsur**

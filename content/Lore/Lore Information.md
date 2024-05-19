@@ -25,7 +25,7 @@ The [[Andromeda Transfer Incident]].
 ### 2175
 [[The Swarm]] finds [[The Primary Timeline|Earth]] and begins assisting in recovery.
 ### 2194
-[[First contact]] between Rustybot and The Swarm occurs.
+First contact between Rustybot and The Swarm occurs.
 ### 2199
 [[The Ring]] is constructed along with [[The Ring Steward]].
 ### 2200
