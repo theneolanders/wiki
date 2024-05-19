@@ -6,7 +6,7 @@ In late 2018, Rustybot ([[Neolander Information/Rustybot|the person]], not [[Lor
 
 ---
 # Scenes
-For access to the written Ringleaders narrative, please see 
+For access to the written Ringleaders narrative, please see [[- Scene Index -|the scene index.]]
 
 ---
 # Series Of Events
