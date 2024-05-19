@@ -1,6 +1,6 @@
 [[- Scene Index -]]
+
 [[Next]]
-[[Previous]]
 
 ---
 **Melody Tsur**

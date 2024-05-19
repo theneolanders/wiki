@@ -1,0 +1,3 @@
+Underspace is a zero-dimensional point of infinite energy that forms the foundation of The Multiverse. It is separated from three dimensional spacetime by what is known as the Lower Membrane.
+
+As a universe ages, it pulls energy from Underspace to fuel its expansion. In most cases, the lower membrane is permeable enough to allow energy to flow "up" from Underspace and affect the base properties of that universe. This influence is the cause of [[The Multiverse#Physical Laws|non-standard physics]].

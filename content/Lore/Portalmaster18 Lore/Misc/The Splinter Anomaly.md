@@ -2,7 +2,7 @@ Splinter events when afflicted with this anomaly are what happens when psionic-b
 ___
 This event is caused by encountering a weak point in the [[The Multiverse#Lower|the lower membrane]] of a universe, typically in a universe similar to the rules of [[The Secondary Timeline]].
 
-This specific weak point that appears across universes creates what could be described as a "splinter" in someone's spiritual energy, linking two or more people across [[The Multiverse#Underspace|underspace]] through [[Psionics]].
+This specific weak point that appears across universes creates what could be described as a "splinter" in someone's spiritual energy, linking two or more people across [[Underspace]] through [[Psionics]].
 ___
 # Splinter Effects
 

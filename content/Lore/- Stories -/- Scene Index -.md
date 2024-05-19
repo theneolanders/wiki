@@ -2,38 +2,52 @@
 
 ---
 
-# Chapter 1: Toby Tsur
+# Chapter 1: A Long Shot
 ##### Start
 Toby's early life
 ##### End
-Andromeda incident
+The Andromeda Incident
 ##### Scenes
-[[Marbles]]
+[[Scene 1 - Marbles|Marbles]]
 
-# Chapter 2: From Yuris To Earth
+# Chapter 2: Lost and Found
 ##### Start
 Dr. Isaac Grant
 ##### End
-The Swarm leaves Earth to find Rustybot
+The Swarm falling into a role of Earth's guardian
 ##### Scenes
 
-# Chapter 3: First Contact
+# Chapter 3: Duty Calls
 ##### Start
-Rustybot meeting The Swarm
+Rustybot ramping up production, The Swarm playing damage control
+##### End
+The Swarm leaves Earth to find Rustybot personally
+##### Scenes
+
+# Chapter 4: First Contact
+##### Start
+Rustybot and The Swarm meeting
 ##### End
 Beginning construction of The Ring
 ##### Scenes
 
-# Chapter 4: Breach
+# Chapter 5: Breach
 ##### Start
-Building the Ring Steward
+Bringing the Ring Steward online
 ##### End
 Sending Jack Jensen home
 ##### Scenes
 
-# Chapter 5: First Contact
+# Chapter 6: Tension
 ##### Start
-Rustybot meeting The Swarm
+Rustybot and The Swarm attempting to spy on Tavish Augmetitech
 ##### End
-Beginning construction of The Ring
+Rustybot and The Swarm defend against Jack and Tavish Augmetitech and/or help Jack defeat a threat to his Earth
+##### Scenes
+
+# Chapter 7: Truce
+##### Start
+Establishing The Ringleaders as an official entity and having Jack join
+##### End
+Sam Kurt sends a greeting
 ##### Scenes

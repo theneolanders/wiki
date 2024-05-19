@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documentation/Rusty Drone User Manual/Changelog.md",
+                "file": "Lore/Ringleader Lore/The Multiverse.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a7805a8b280c77bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore/Ringleader Lore/The Multiverse.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documentation/Rusty Drone User Manual/Changelog.md",
+                "file": "Lore/Ringleader Lore/The Multiverse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documentation/Rusty Drone User Manual/Changelog.md",
+                "file": "Lore/Ringleader Lore/The Multiverse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documentation/Rusty Drone User Manual/Changelog.md"
+                "file": "Lore/Ringleader Lore/The Multiverse.md"
               }
             }
           }
@@ -170,44 +182,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7d96648c33869f75",
+  "active": "a7805a8b280c77bc",
   "lastOpenFiles": [
+    "Lore/Ringleader Lore/Underspace.md",
+    "Lore/Ringleader Lore/The Multiverse.md",
+    "Lore/Portalmaster18 Lore/Misc/The Splinter Anomaly.md",
+    "Lore/alizard Lore/Thesianite.md",
+    "Lore/Rustybot Lore/The Primary Timeline.md",
+    "Lore/Rustybot Lore/Rusty Manufacturing.md",
+    "Lore/Ringleader Lore/Overspace.md",
+    "Lore/- Stories -/- Scene Index -.md",
+    "Lore/- Stories -/Chapter 1/Scene 1 - Marbles.md",
+    "Lore/- Stories -/Chapter 1",
+    "Neolander Information/The Neolanders.md",
+    "Neolander Information/Portalmaster18.md",
+    "Lore/Lore Information.md",
+    "Documentation/Rusty Drone User Manual/Changelog.md",
+    "Documentation/Rusty Drone User Manual/- User Manual Info -.md",
+    "Neolander Information/Rustybot.md",
+    "Neolander Information/Lonia.md",
+    "Lore/Portalmaster18 Lore/People/Unit 19.md",
+    "Lore/Portalmaster18 Lore/People/Sarah Kelly.md",
+    "Lore/Portalmaster18 Lore/People/Samuel Kurt.md",
+    "Lore/Portalmaster18 Lore/People",
+    "Lore/Portalmaster18 Lore/Misc/Congregation of the Dead Earth.md",
+    "Lore/Portalmaster18 Lore/Misc",
+    "Lore/Portalmaster18 Lore/Mantra Tech/Mantra-Innovators AI Experiments.md",
+    "Lore/Portalmaster18 Lore/Mantra Tech/E.N.E.R.G.I.md",
+    "Lore/Portalmaster18 Lore/Mantra Tech",
+    "Lore/Portalmaster18 Lore/Locations/Menos System.md",
+    "Lore/Portalmaster18 Lore/Locations/Mantra Innovators.md",
+    "Lore/Portalmaster18 Lore/Locations/Kelly's Timeline.md",
+    "Lore/Portalmaster18 Lore/Locations/Beynos.md",
+    "Lore/Portalmaster18 Lore/Locations",
+    "Lore/Lonia Lore/Places",
+    "Lore/Lonia Lore/Miscellaneous",
+    "Lore/Lonia Lore/Characters",
     "Media/Info/OpenWithGithubApp.png",
     "Media/Info",
-    "Lore/alizard Lore/Events/A Lizard First Contact.md",
-    "Lore/alizard Lore/Events/The Thesian Ego Death.md",
     "Lore/alizard Lore/Events",
-    "Lore/Amplified Lore/Yurigan Technology/Polyfold Nanites.md",
-    "Lore/Amplified Lore/Pre-Calamity/Yurigan Corporations/Iris.md",
-    "Lore/Amplified Lore/Pre-Calamity/Yurigan Corporations/Amplicorp.md",
-    "Lore/Amplified Lore/Pre-Calamity/Yuris.md",
-    "Lore/Amplified Lore/Pre-Calamity/Zenitaf.md",
-    "Lore/Amplified Lore/Pre-Calamity/Yurigans.md",
-    "Lore/Amplified Lore/Pre-Calamity/Yurigan Corporations",
-    "Lore/Amplified Lore/Pre-Calamity/Isaac Grant.md",
-    "Lore/Amplified Lore/Pre-Calamity",
     "Media/info/OpenWithGithubApp.png",
-    "Media/info",
-    "Lore/alizard Lore/Events and History/The Thesian Ego Death.md",
-    "Lore/alizard Lore/Events and History/A Lizard First Contact.md",
-    "Lore/alizard Lore/Events and History",
-    "Lore/Amplified Lore/Zenitaf.md",
-    "Lore/Amplified Lore/Yuris.md",
-    "Lore/Amplified Lore/Yurigans.md",
-    "Lore/Amplified Lore/Yurigan Technology/Polyfold.md",
-    "Lore/Amplified Lore/Amplicorp.md",
     "Media/lore/alizard/LizardRock_Sample37.webp",
-    "Media/lore/alizard",
-    "Media/lore",
-    "Lore/Rustybot Lore/Rustybot.md",
-    "Neolander Information/Rustybot.md",
-    "Documentation/Rusty Drone User Manual/Drone Modularity.md",
-    "Documentation/Rusty Drone User Manual/Known Issues.md",
-    "Lore/alizard Lore/Zard.md",
-    "Lore/alizard Lore/Thesians.md",
-    "Lore/alizard Lore/Thesianite.md",
-    "Lore/alizard Lore/Thesian Timeline.md",
-    "Lore/Lore Information.md",
     "Lore/Narrative Chronology.canvas",
     "2023-11-03 01.59.07.jpg",
     "Media/Documentation Media/Rusty Drone.webp",
@@ -215,8 +230,6 @@
     "Media/Documentation Media/RustyZard Modularity.webp",
     "Media/Documentation Media/2024-04-23 04.32.17.webp",
     "Media/Documentation Media/Rusty IK Diagram.png",
-    "Media/Lore/alizard/LizardRock_Sample37.webp",
-    "Media/Documentation Media/Rusty IK Diagram.png.0.pdnSave",
-    "Media/Documentation Media"
+    "Media/Lore/alizard/LizardRock_Sample37.webp"
   ]
 }
