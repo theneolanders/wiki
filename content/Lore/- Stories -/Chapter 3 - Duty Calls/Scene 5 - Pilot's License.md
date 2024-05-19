@@ -1,8 +1,8 @@
 [[- Scene Index -]]
 
-[[Next]]
-
 [[Previous]]
+
+[[Next]]
 
 ---
 
