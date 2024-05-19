@@ -1,8 +1,8 @@
 [[- Scene Index -]]
 
-[[Previous]]
+[[Scene 5 - Gone Dark (needs organizing)|Previous]]
 
-[[Next]]
+[[Scene 2 - Pilot's License|Next]]
 
 ---
 **Rustybot**

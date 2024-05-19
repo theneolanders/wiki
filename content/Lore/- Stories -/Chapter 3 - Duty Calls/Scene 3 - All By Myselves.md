@@ -1,6 +1,6 @@
 [[- Scene Index -]]
 
-[[Previous]]
+[[Scene 2 - Pilot's License|Previous]]
 
 [[Next]]
 

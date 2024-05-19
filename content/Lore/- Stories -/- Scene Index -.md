@@ -10,9 +10,13 @@ The Andromeda Incident
 ##### Scenes
 [[Scene 1 - Marbles|Marbles]]
 
-[[Scene 2 - Drive|R&D]]
+[[Scene 2 - Drive|Drive]]
 
-[[Scene 3 - R&D]]
+[[Scene 3 - R&D|R&D]]
+
+[[Scene 4 - A Galaxy Far, Far Away|A Galaxy Far, Far Away]]
+
+[[Scene 5 - Gone Dark (needs organizing)|Gone Dark]]
 
 # Chapter 2: Lost and Found
 ##### Start
@@ -28,12 +32,20 @@ Rustybot ramping up production, The Swarm playing damage control
 The Swarm leaves Earth to find Rustybot personally
 ##### Scenes
 
+[[Scene 1 - Primitive|Primitive]]
+
+[[Scene 2 - Pilot's License|Pilot's License]]
+
+[[Scene 3 - All By Myselves|All By Myselves]]
+
 # Chapter 4: First Contact
 ##### Start
 Rustybot frantically preparing for a meeting with The Swarm
 ##### End
 Beginning construction of The Ring
 ##### Scenes
+
+[[Scene 1 - First Contact|First Contact]]
 
 # Chapter 5: Breach
 ##### Start

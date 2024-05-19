@@ -2,7 +2,7 @@
 
 [[Scene 4 - A Galaxy Far, Far Away|Previous]]
 
-[[Next]]
+[[Scene 1 - Primitive|Next]]
 
 ---
 

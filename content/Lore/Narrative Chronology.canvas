@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"dacb4cd7c8c16cd7","type":"file","file":"Lore/- Stories -/Chapter 4 - First Contact/First Contact.md","x":-240,"y":-1360,"width":400,"height":400},
+		{"id":"dacb4cd7c8c16cd7","type":"file","file":"Lore/- Stories -/Chapter 4 - First Contact/Scene 1 - First Contact.md","x":-240,"y":-1360,"width":400,"height":400},
 		{"id":"4615c4f5507bbf95","type":"file","file":"Lore/Ringleader Lore/The Ring.md","x":280,"y":-1360,"width":400,"height":400},
 		{"id":"821bcbecb614871a","type":"file","file":"Lore/Ringleader Lore/The Ring Steward.md","x":280,"y":-840,"width":400,"height":400},
 		{"id":"6f273015d2e7a375","type":"text","text":"# 2199","x":405,"y":-1440,"width":151,"height":60},
