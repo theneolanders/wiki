@@ -1,8 +1,8 @@
 [[- Scene Index -]]
 
-[[Scene 4 -|Previous]]
+[[Scene 4 - Hat in Hand|Previous]]
 
-[[Next]]
+[[Scene 6 -|Next]]
 
 ---
 **Toby Tsur**

@@ -9,7 +9,11 @@ Toby's early life
 The Andromeda Incident
 ##### Scenes
 [[Scene 1 - Marbles|Marbles]]
-[[Scene 2 - R&D|R&D]]
+
+[[Scene 2 - Drive|R&D]]
+
+[[Scene 3 - R&D]]
+
 # Chapter 2: Lost and Found
 ##### Start
 Dr. Isaac Grant

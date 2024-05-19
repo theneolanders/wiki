@@ -1,14 +1,13 @@
 [[- Scene Index -]]
 
-[[Scene 1 - Marbles|Previous]]
+[[Scene 2 - Drive|Previous]]
 
-[[Scene 3 -|Next]]
+[[Scene 4 - Hat in Hand|Next]]
 
 ---
-
 **Toby Tsur**
 
-**Dakotah, Earth, Milky Way**
+**Dakotah, Earth**
 
 **July 6th, 2168**
 

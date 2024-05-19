@@ -1,11 +1,11 @@
 [[- Scene Index -]]
 
-[[Scene 2 - R&D|Next]]
+[[Scene 2 - Drive|Next]]
 
 ---
 **Melody Tsur**
 
-**Dakotah, Earth, Milky Way**
+**Dakotah, Earth**
 
 **March 19th, 2142**
 
