@@ -1,0 +1,1 @@
+The planet [[Lumina]] was born on.
