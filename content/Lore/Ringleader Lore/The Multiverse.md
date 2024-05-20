@@ -1,23 +1,11 @@
 The story of [[The Ringleaders]] takes place within The Multiverse. Each timeline represents a path history might have taken. Following the logic that "everything that can happen, will happen", the Ringleaders' multiverse has at least one universe for every possible event.
 
-More literally, The Multiverse is composed of Underspace, Overspace, and The Timelines.
-
----
-## Underspace
-
-Underspace is a zero-dimensional point of infinite energy that forms the foundation of The Multiverse. It is separated from three dimensional spacetime by what is known as the Lower Membrane.
-
-As a universe ages, it pulls energy from Underspace to fuel its expansion. In most cases, the lower membrane is permeable enough to allow energy to flow "up" from Underspace and affect the base properties of that universe. This influence is the cause of [[The Multiverse#Physical Laws|non-standard physics]].
-
----
-## Overspace
-
-Overspace is a fifth dimensional filament that houses every possible timeline within it. Paradoxically, it is defined as being a place where existence itself cannot occur. A universe is then defined as an exemption from this rule where existence *can* occur. Anything not contained by an [[The Multiverse#Universal Membranes|upper membrane]] counts as Overspace, though the term "outside" is slightly misleading when assigned to a concept beyond spacetime.
+More literally, The Multiverse is composed of [[Underspace]], [[Overspace]], and The Timelines.
 
 ---
 ## The Timelines
 
-A Timeline (A.K.A. a universe) is a fourth dimensional object within which all forms of comprehendible existence take place. They are composed of a lower membrane, upper membrane, and one or more interiors.
+A Timeline (A.K.A. a universe) is a fourth dimensional object within which all forms of comprehendible existence take place. Each is composed of a lower membrane, upper membrane, and one or more interiors.
 
 The interior of a universe is where all physical existence takes place. Three dimensional spacetime, matter, and physical forces all exist within this structure. Notably, a universe is not necessarily limited to a single interior. One of the more frequent examples of this phenomenon is the idea that a second version of the universe exists parallel to the inhabited one which can be used to travel from point to point [[Faster Than Light Technology|faster than light]]. This concept is often referred to as "subspace" in sci-fi terms, but can also be compared to something like [The Nether](https://minecraft.wiki/w/The_Nether), or even [The Quantum Realm](https://marvelcinematicuniverse.fandom.com/wiki/Quantum_Realm).
 
@@ -33,6 +21,8 @@ The upper membrane can be thought of as the more typical "edge of the universe".
 The lower membrane is what separates a timeline from the infinite energy of Underspace. While Underspace itself is a single point, the lower membrane is spread across a universe in such a way that it allows the energy to flow in from any location (assuming sufficient permeability).
 #### Permeability
 How permeable each membrane is determines the behavior of the universe it encompasses. Under classical circumstances, neither membrane is at all permeable. This results in a universe that cannot be escaped from (as the upper membrane disallows egress) and has no magic, entropy reversal, or [[The Multiverse#True Magic|chaos force]] (as the lower membrane does not allow for the intake of energy).
+
+Without sufficient permeability, a universe will eventually experience [heat death.](https://en.wikipedia.org/wiki/Heat_death_of_the_universe) 
 
 ---
 ## Physical Laws

@@ -6,7 +6,7 @@ In late 2018, Rustybot ([[Neolander Information/Rustybot|the person]], not [[Lor
 
 ---
 # Scenes
-For access to the written Ringleaders narrative, please see 
+For access to the written Ringleaders narrative, please see [[- Scene Index -|the scene index.]]
 
 ---
 # Series Of Events
@@ -15,17 +15,19 @@ See [[Narrative Chronology.canvas|The Narrative Chronology]] for a visualization
 ### 2135
 The story begins on [[The Primary Timeline|Earth]] with the birth of [[Lore/Rustybot Lore/Rustybot#Previously Known As Toby Tsur|Toby Tsur]].
 ### 2164
-Toby founds [[Rusty Manufacturing]].
+Earth develops [[Faster Than Light Technology|Quantum Entangled Communication]].
 ### 2168
-Rusty Manufacturing adopts [[Faster Than Light Technology|QEC]] tech and releases [[Rusty Manufacturing#The Datanet|The Datanet]] to the public.
+[[Flow]] adopts QEC tech and releases [[Rusty Manufacturing#The Datanet|The Datanet]] to the public.
 ### 2170
 The [[Andromeda Transfer Incident]].
 ### 2171
-[[Lore/Rustybot Lore/Rustybot|Rustybot]] emerges from his forced hibernation and subsequently conducts [[Andromeda Transfer Incident#The Rusty Exodus|The Rusty Exodus]].
+[[Lore/Rustybot Lore/Rustybot|Rustybot]] emerges from his forced hibernation and makes planetfall on [[Quindol System|Quindlet]].
+### 2172
+Rustybot founds [[Rusty Manufacturing]].
 ### 2175
 [[The Swarm]] finds [[The Primary Timeline|Earth]] and begins assisting in recovery.
 ### 2194
-[[First contact]] between Rustybot and The Swarm occurs.
+First contact between Rustybot and The Swarm occurs.
 ### 2199
 [[The Ring]] is constructed along with [[The Ring Steward]].
 ### 2200

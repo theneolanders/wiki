@@ -1,0 +1,1 @@
+The origin planet of [[Ninko]]'s species.

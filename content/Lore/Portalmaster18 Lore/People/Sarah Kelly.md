@@ -1,0 +1,1 @@
+Funny haha strand of Samuel (this is unfinished :<)

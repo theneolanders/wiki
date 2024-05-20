@@ -15,7 +15,7 @@ Samuel is born onto the planet Beynos in the year 2171, and from a young age he 
 By age twenty, he would uncover information about the [[Congregation of the Dead Earth]], and became a form of political figure for all such information to be outsourced to the public, and with such information eventually released, would begin Mantra Innovators and it's technological advancements.
 
 ##### Splinter Anomaly
-At the age of twenty two, during his first trip on space travel, he would encounter a weak point in the universe's [[The Multiverse#Lower|the lower membrane]], causing him to be affected with [[The Splinter Anomaly]], this would cause him to add onto his already immense intelligence and abilities to further progress his planet's technology.
+At the age of twenty two, during his first trip on space travel, he would encounter a weak point in the universe's [[The Multiverse#Lower|lower membrane]], causing him to be affected with [[The Splinter Anomaly]], this would cause him to add onto his already immense intelligence and abilities to further progress his planet's technology.
 
 ##### End of Success
 At the age of thirty in the year 2201, he is extremely successful, nearly single handedly making up for multiple hundreds of years in technological developments, the only unfinished side project being the idea of projecting himself into some form of machine due to his degrading health due to [[E.N.E.R.G.I|ENERGI poisoning]]. This would be impossible as far as he could see due to a pure lack in resources and time.
@@ -38,3 +38,4 @@ He doubts himself along every step of all processes in creation or day to day ac
 # Trivia
 * Mantra Innovator's first ever ideas were inspired by Aperture Science from the game Portal 2
 * Samuel had no idea "Mantra" was a real word upon founding his company, and is pronounced "MAN-tra"
+* His full name is Samuel Jay Kurt, he was never fond of his middle name though.

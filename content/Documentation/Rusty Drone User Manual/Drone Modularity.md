@@ -32,6 +32,8 @@ RustyArm Snappers can read the following parent values
 | Chirality  | Bool      | Determines chirality of the attached hand (if applicable). True for right, False for left. |
 | WristPoint | Slot      | The slot the onboard IK will attempt to match the position of                              |
 | ArmPoint   | Slot      | The slot the onboard IK will point the upper arm at                                        |
+| PartType*  | String    | Indicates what type of SnapTarget the part is attached to                                  |
+*\*PartType has support for "Eye", "Arm", "Leg", "Hand", "Foot", and "Neck"*
 #### Inverse Kinematics
 Two slots are necessary for the arm to move properly. Both should be parented under the avatar's hand proxy. WristPoint is the slot whose position the wrist should pivot around (the tip of the blue arrow), while ArmPoint is the slot whose position guides the upper arm (the purple ball at the tip of the green arrow).
 
@@ -50,3 +52,5 @@ RustyHand Snappers can read the following parent values
 | Deployed  | Bool      | If the arm has a retraction state, this controls it                   |
 | Grabbable | Bool      | Whether or not the part can be grabbed.                               |
 | Chirality | Bool      | Determines chirality (if applicable). True for right, False for left. |
+| PartType* | String    | Indicates what type of SnapTarget the part is attached to             |
+*\*PartType has support for "Eye", "Arm", "Leg", "Hand", "Foot", and "Neck"*
