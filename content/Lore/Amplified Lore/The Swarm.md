@@ -14,3 +14,25 @@ The swarm struggles with their identity, split between the billions of memories 
 The Swarm has sworn to ensure the safety of [[The Primary Timeline]]'s Earth, having discovered Earth shortly after [[Andromeda Transfer Incident#The Rusty Exodus|The Rusty Exodus]] and helped them rebuild from both the initial effects, and fulfilled their original purpose for their creation on [[Zenitaf]], helping terra-form and cleanse the Earth of pollution and environmental damage.
 
 After forming [[The Ringleaders]] with [[Lore/Rustybot Lore/Rustybot|Rustybot]] they also act as the primary PR director of the organization.
+
+### Physical Properties
+The Swarm is made up of advanced cell-like [[Polyfold Nanites]]. They can function as a loose swarm of nanites, but generally have a core avatar where they direct the majority of their focus, which is more efficient and more effective for interacting with the world. This avatar has a bio-mechanical design. Borrowing from human physiology, but highly optimized and reworked internally to increase efficiency and simplicity.
+
+## Abilities
+
+### Matter Manipulation
+The Swarm can use their nanites to disassemble and reassemble matter.
+This has many applications, including, but not limited to:
+- Precision Surgery and Repair
+- Advanced Chemistry
+	- Creating materials that are normally very difficult to create by traditional methods, such as graphine, londselite, etc
+- Terra-forming
+
+### Omnipresence
+The swarm can fill a large space with their nanites to manifest in and monitor any point their nanites can occupy.
+
+### Omni-adaptability
+Given preparation time the Swarm can refactor themselves based on their environment to function among a variety of hazards.
+### Amorphism
+Being entirely made of individually controlled nanites allows for The Swarm to take any shape, or exist without a defined shape.
+
