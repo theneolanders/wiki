@@ -1,0 +1,1 @@
+Amplicorp was one of the major [[Yurigans|Yurigan]] corporations on [[Zenitaf]]. They specialized in nanotech and advanced [[Hardlight]]. They were also the creators of the [[Polyfold Nanites]] that led to [[The Zenitaf Calamity]].

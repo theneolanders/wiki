@@ -1,1 +1,0 @@
-The Polyfold Project was a top secret nanotech project at **[[Amplicorp]]**, intended to enable easy terraforming to allow for the reshaping of [[Zenitaf]] and the reversal of damage done to the planet by [[Yurigans]].

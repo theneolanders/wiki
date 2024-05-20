@@ -1,1 +1,0 @@
-The second planet in the [[Quindol]] system, Quindlet is an earth-like rocky body covered in 62% saltwater oceans, and host to a variety of plant-like [[Extraterrestrial Life]].

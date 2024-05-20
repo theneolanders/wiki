@@ -1,0 +1,3 @@
+The planet beynos overall is a difficult place that life managed to live on, made of lots of purple rock, dark dirts, and very hard metals.
+
+Only after a couple of decades after the [[Congregation of the Dead Earth]] colony arrived to the planet, it was drained of it's main resources that could easily be found and afterwards was working off of solar energy, and the decades more worth of energy that the colony brought with it, working down the planet to it's bare dirt and purple rock... that is, until [[Samuel Kurt]] entered the picture, and managed to make a variety of changes that would change the course of more than just the planet.

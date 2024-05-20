@@ -1,0 +1,1 @@
+A diplomat and field agent for [[Tavish Augmetitech]]. He joins [[The Ringleaders]] following the events of [[Second Contact]].

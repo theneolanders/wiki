@@ -1,0 +1,1 @@
+The Menos System is a system with not much going on for it in most places, orbiting asteroids, lone moons and a couple planets here and there, overall bare for what could be considered it's own "system". In there lies the only outliar in form of the planet [[Beynos]].
