@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Chroma Lore/Oonga Boonga.md",
+                "file": "Lore/Chroma Lore/Character Brainstorming.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "58045e6687bb2313",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore/Chroma Lore/Character Brainstorming.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5bdc5c47acc68f8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore/Chroma Lore/Chroma's Origins.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore/Chroma Lore/Oonga Boonga.md",
+                "file": "Lore/Chroma Lore/Chroma's Origins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lore/Chroma Lore/Oonga Boonga.md",
+                "file": "Lore/Chroma Lore/Chroma's Origins.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore/Chroma Lore/Oonga Boonga.md"
+                "file": "Lore/Chroma Lore/Chroma's Origins.md"
               }
             }
           }
@@ -146,14 +171,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0edaca6f5fca2b48",
+  "active": "5bdc5c47acc68f8c",
   "lastOpenFiles": [
+    "Lore/Chroma Lore/Character Brainstorming.md",
+    "Lore/Chroma Lore/Chroma's Origins.md",
+    "Lore/Chroma Lore/First Contact.md",
+    "Lore/alizard Lore/Zard.md",
+    "Lore/Amplified Lore/Zenitaf.md",
+    "Lore/Amplified Lore/Yuris.md",
+    "Lore/Amplified Lore/Yurigans.md",
+    "Lore/Amplified Lore/Yurigan Technology/Yurigan AIs.md",
+    "Lore/Amplified Lore/Yurigan Technology/Polyfold.md",
+    "Lore/Amplified Lore/Yurigan Technology/Hardlight.md",
+    "Lore/Amplified Lore/Yurigan Technology",
+    "Lore/Amplified Lore/Events/The Zenitaf Calamity.md",
+    "Lore/Amplified Lore/Events",
+    "Lore/Amplified Lore/Amplicorp.md",
     "Lore/Ringleader Lore/The Ringleaders.md",
     "Lore/Ringleader Lore/The Primary Timeline.md",
     "Lore/Ringleader Lore/The Multiverse.md",
     "Lore/Ringleader Lore/Humanity.md",
     "Lore/Ringleader Lore/Faster Than Light Technology.md",
-    "Lore/Chroma Lore/Oonga Boonga.md",
     "Lore/Rustybot Lore/Andromeda Transfer Incident.md",
     "Lore/Rustybot Lore/The Rusty Exodus.md",
     "Lore/Rustybot Lore/The Datanet.md",
@@ -163,27 +201,15 @@
     "Lore/Rustybot Lore/Dataspace.md",
     "Lore/Rustybot Lore/Drones.md",
     "Lore/Rustybot Lore/Pilots.md",
-    "Lore/Rustybot Lore/Quindlet.md",
-    "Lore/Rustybot Lore/Bitbots.md",
-    "Lore/alizard Lore/events/A Lizard First Contact.md",
     "Lore/Chroma Lore",
-    "Lore/alizard Lore/Thesianite.md",
     "Lore/alizard Lore/events",
-    "Neolander Information/The Neolanders.md",
-    "Neolander Information/Lore Information.md",
-    "Index.md",
     "Media/info/OpenWithGithubApp.png",
-    "documentation/How to contribute.md",
     "Media/info",
     "Media",
-    "Documentation/How to contribute.md",
     "Documentation",
     "media/info/OpenWithGithubApp.png",
     "media/info",
     "media",
-    "documentation",
-    "lore/Lore.md",
-    "lore/The Ringleaders.md",
-    "lore"
+    "documentation"
   ]
 }

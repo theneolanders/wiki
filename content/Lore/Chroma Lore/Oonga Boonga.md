@@ -1,1 +1,0 @@
-Smash rocks, make fire
