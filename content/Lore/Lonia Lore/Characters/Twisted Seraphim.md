@@ -1,6 +1,7 @@
 ---
 Home: "[[The Secondary Timeline]]"
 ---
+![[TwistedSeraphimLogo.png|150]]
 The **Twisted Seraphim** is a criminal organization wholly focused on profiting from large-scale thefts. It is made up of five members: four are heavily augmented women from [[The Secondary Timeline|the secondary timeline]], and the fifth is [[Lumina]], their former leader, who is currently estranged from the group.
 This shakeup was caused by her unwilling recruitment by [[Tavish Augmetitech]].
 
@@ -24,8 +25,9 @@ Uses implants originally intended for construction workers, now repurposed for t
 ### Lily
 Works double-duty for the gang, assembling explosives and maintaining their weapons in her free time. 
 ##### Personality
-##### Appearance
 
+##### Appearance
+Lily has light-purple hair with red tips. She wears a pair of protective goggles on her forehead with green lenses. Her skin is tea green, and her eyes have black sclera with blue diamond-shaped irises. A large respirator is permanently affixed to her face. Her neck and lower torso have been heavily armored to protect her toxin immunity system. She wears a specially-cut shirt with shoulder straps with "TOXIC" written on them, meant to accommodate her implants. She has black rubber gloves with green biohazard symbols, fastening belts, palms, and finger pads. Below her torso armor, she has a thick belt with many buttons- to hold up a large pair of black shorts with green Xs on each leg. The shorts have many buttoned pockets for the sake of storage. The shorts are taped down to her legs to ensure they do not get caught on anything. She wears a pair of white platform boots with a toxic liquid visible inside the soles.
 ##### Powers
 Uses her expertise to create explosives and chemical weapons used in the gang's schemes. Her body has been modified to be immune to the toxins she uses in her weaponry- to the point that she breathes toxic gas through her rebreather instead of air. 
 ### Violet 
@@ -33,6 +35,6 @@ Analytical and level headed, she handles planning the heists; while breaking int
 ##### Personality
 As the most composed member of the gang, she often finds how the others work somewhat frustrating. This is primarily due to a difference in morals- she avoids violence wherever she can. But even despite that conflict of interest, she knows leaving the gang would only make things end worse.
 ##### Appearance
-
+Violet has long deep blue hair with bangs, and her skin is fully white. In her hair, she has two pairs of earphones that are directly implanted into her head. Her right eye is similar to the other members' eyes, having a black sclera and a blue iris. But her left eye is wholly different, replaced with a device sporting multiple types of cameras and a bright pink indicator light in the center. The rest of her face is covered by a black neck gaiter with the Twisted Seraphim logo. The gaiter seamlessly flows into a cropped long-sleeve shirt with a two-triangle logo on the left shoulder. On the forearms of the shirt, she has two bracers studded with buttons and hologram projectors. Below the shirt, she wears a clear blue plastic dress with two white belts around her chest and hips. Underneath that, she wears a white leotard as a base layer. She wears gray leggings with black knee-high socks on top. She wears white high-heels with sharp tips and power-button logos at the front of the ankle.
 ##### Powers
 Often operating from a distance, she uses her skills to infiltrate the networks of her targets and make things simpler for the gang. When she is operating in the field, she has a variety of tools at her disposal contained within the bracers on her arms. The main ones of note are holographic projectors for displaying digital information, tools to break into systems, and cables for connecting to them. 
