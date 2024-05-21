@@ -14,7 +14,7 @@ Alcea has curly fire-engine red hair, with a black tiara atop her head. Beyond t
 ##### Powers
 As the only true [[Psionics|psionic]] of the group, she has the ability to manipulate the blood within people's bodies, including her own. Because of this ability, she rarely uses weapons, instead resorting to melee when necessary.
 ### Leia
-
+As a one-woman wrecking crew, she often forges a path for the others- often in a very chaotic fashion. 
 ##### Personality
 Mischievous, condescending and laid-back overall, Leia does things only if she feels like it. At times, she becomes overly energetic with no rhyme or reason. She has little regard for others' wishes and will violate their privacy as she pleases.
 ##### Appearance
@@ -22,12 +22,17 @@ Leia has striped black and yellow ribbon cables for hair that are tied into a od
 ##### Powers
 Uses implants originally intended for construction workers, now repurposed for their absurd toughness. Her left arm can transform into multiple different tools, but the one she uses most commonly is a massive spiral drill for hard surfaces. Her boots are fitted with rockets, allowing her to fly and dive absurdly quickly.
 ### Lily
+Works double-duty for the gang, assembling explosives and maintaining their weapons in her free time. 
+##### Personality
+##### Appearance
 
-##### Appearance 
 ##### Powers
 Uses her expertise to create explosives and chemical weapons used in the gang's schemes. Her body has been modified to be immune to the toxins she uses in her weaponry- to the point that she breathes toxic gas through her rebreather instead of air. 
 ### Violet 
-
+Analytical and level headed, she handles planning the heists; while breaking into digital networks to make sure things go exactly as she planned.
+##### Personality
+As the most composed member of the gang, she often finds how the others work somewhat frustrating. This is primarily due to a difference in morals- she avoids violence wherever she can. But even despite that conflict of interest, she knows leaving the gang would only make things end worse.
 ##### Appearance
+
 ##### Powers
-Often operating from a distance, she uses her skills to infiltrate the networks of her targets and make things simpler for the gang. When she is operating in the field, she has a variety of tools at her disposal contained within the bracers on her arms. The main ones of note are holographic projectors for displaying digital information, tools to break into systems, and cables for connecting to them.
+Often operating from a distance, she uses her skills to infiltrate the networks of her targets and make things simpler for the gang. When she is operating in the field, she has a variety of tools at her disposal contained within the bracers on her arms. The main ones of note are holographic projectors for displaying digital information, tools to break into systems, and cables for connecting to them. 
