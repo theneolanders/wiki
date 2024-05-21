@@ -1,4 +1,4 @@
-Within the fabric of Overspace lie's endless pockets of varying realities. It is not uncommon that these realities live out there existence unaware of each other's presence contained in the upper dimension. It is through this ignorance in which hungry entities, born of resource starved realities, can take their advantage.
+Within the fabric of Overspace lies endless pockets of varying realities. It is not uncommon that these realities live out there existence unaware of each other's presence contained in the upper dimension. It is through this ignorance in which hungry entities, born of resource starved realities, can take their advantage.
 
 Chroyane was a reality nearing it's end. No one knows when the new gods came into being but the consequences of ignoring their request was never a subtilty. Never was a voice heard from the deities but it was clear what satiated their appetite. Sacrifice.
 
