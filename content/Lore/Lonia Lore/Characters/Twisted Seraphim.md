@@ -25,7 +25,7 @@ Uses implants originally intended for construction workers, now repurposed for t
 ### Lily
 Works double-duty for the gang, assembling explosives and maintaining their weapons in her free time. 
 ##### Personality
-
+Her exposure to the chemicals she breathes has made her disposition rather deranged. It is due in part to this that she commonly underestimates the strength of her abilities, causing significantly more damage than planned. Outside of work, she is playful and often teases the other members- although she does care about them, especially doing her best to serve Alcea.
 ##### Appearance
 Lily has light-purple hair with red tips. She wears a pair of protective goggles on her forehead with green lenses. Her skin is tea green, and her eyes have black sclera with blue diamond-shaped irises. A large respirator is permanently affixed to her face. Her neck and lower torso have been heavily armored to protect her toxin immunity system. She wears a specially-cut shirt with shoulder straps with "TOXIC" written on them, meant to accommodate her implants. She has black rubber gloves with green biohazard symbols, fastening belts, palms, and finger pads. Below her torso armor, she has a thick belt with many buttons- to hold up a large pair of black shorts with green Xs on each leg. The shorts have many buttoned pockets for the sake of storage. The shorts are taped down to her legs to ensure they do not get caught on anything. She wears a pair of white platform boots with a toxic liquid visible inside the soles.
 ##### Powers
