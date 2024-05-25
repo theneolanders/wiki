@@ -40,3 +40,14 @@ Unlike Samuel, Unit 19 acts a lot less formal, and leans more into his own emoti
 He would start out pretty inconsistent, trying out dumb phrases or nicknames for himself or other people, and generally try to present himself as more approachable, as it would be something he would feel important to him. He has lots of trouble learning newer information at first, like information gets stuck in his head and unable to process, but he would get past all of this and these blocks of his mind with time.
 
 He would work with himself and The Ringleaders to gain a much more better sense of self, and he ends up generally being much more carefree than Samuel was in his lifetime, and it'll lead to his future being much brighter, and being helpful to those around him instead of those around him helping him.
+
+# Physical Description
+
+##### Processing 
+The building housing Unit 19's functionality is very wide, with five different floors of storage for components making him up, and a basement that goes on another two floors.
+
+##### Physical body
+The robotic body that Unit 19 connects to using [[Faster Than Light Technology#Quantum Entangled Communication|QEC]] is described as having a rectangular head with a smooth top, three mechanical eyes directly in front of a screen all useful for displaying information or displaying emotions visually.
+Different parts of the body have red strips of [[Animium]] visible along parts of the body in case of QEC disconnection.
+
+The rest of the body has a simple construction that is mostly rectangular or bevled, most if not all of the insides being made expressly for sensory input and interaction in a physical space. Most parts are floating so some physical limits are not limiting, but they can lock up to physical joints when needed for low-power mode, or more physical strength.

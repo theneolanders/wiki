@@ -65,5 +65,5 @@ Rustybot and The Swarm defend against Jack and Tavish Augmetitech and/or help Ja
 ##### Start
 Establishing The Ringleaders as an official entity and having Jack join
 ##### End
-Sam Kurt sends a greeting
+The Swarm finds Samuel Kurt
 ##### Scenes

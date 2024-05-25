@@ -33,6 +33,14 @@ He is a very strong minded person, to him every single experience regardless of 
 
 He doubts himself along every step of all processes in creation or day to day actions, not because he's scared or worried he's doing something wrong, but in the search to think that he could be doing something better, to him there's always something to improve upon in any field of research, or in oneself, it's simply a matter of crossing the barrier's of the mind.
 
+# Physical Description
+
+Samuel has fluffy and messy brown hair that he doesn't bother fixing, he used to have uniquely colored bright blue eyes, but is replaced with his blue metallic goggles that are his eyes, that of which display digital eyes for emoting visually.
+
+Samuel generally makes an effort to keep a very consistent style of clothing, always keeping his lab coat on due to usually always working on something, a simple t-shirt with his company's logo right on the front which is two white hollowed circles overlapping in the middle typically accompanied with a black or gray background. He wears thick pants, mostly consisting of denim or leather.
+
+He has artificial mechanical arms that change in quality throughout his life as he improves them, all of which consist of the blue and bronze metals typically used with his creations
+
 ---
 
 # Trivia
