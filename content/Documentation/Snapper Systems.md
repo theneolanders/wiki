@@ -10,5 +10,5 @@ RingThing snaptargets are commonly found in or on eyes, antennae tips, and item 
 For a more in-depth look into the Rusty Drone's snapper functions, see [[Drone Modularity|the Drone Modularity section of the user manual.]]
 ## RustyScreen
 The "RustyScreen" tag is used for goggles and glasses, almost always covering the eyes.
-## RustyArm
-This tag is the most in-depth in terms of required systems
+## NeolanderArm
+This tag is the most in-depth in terms of required systems. See [[Drone Modularity#RustyArm|the RustyArm documentation]] for more details, as NeolanderArm uses all the same functions.
