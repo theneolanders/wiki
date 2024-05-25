@@ -1,0 +1,2 @@
+This timeline is a universe that [[Sarah Kelly]] resides.
+It [[The Multiverse#Divergence|diverged]] a while early in it's history from [[The Secondary Timeline]], where the [[Congregation of the Dead Earth]] never managed to take off into space, and instead crash landed. This entire failure of this event caused a massive butterfly event where history took a different turn for the majority of people within it.
