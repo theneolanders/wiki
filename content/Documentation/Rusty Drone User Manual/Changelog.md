@@ -1132,4 +1132,9 @@
 - Fixed being unable to speak before the LITE screen has been replaced
 - Finger dots no longer attempt to reparent when a synced arm is attached to another user
 - Main thruster particle trail now activates in rocket mode while more than 100m from the local viewpoint
+- Main thruster particle trail now only activates when further than 20m from local viewpoint in addition to moving faster than 10m/s
 - Added NeolanderArm snapper tags to arm and leg SnapTargets
+- Added NeolanderHand snapper tags to modular arms
+- Arms and hands are now RingThings
+- Updated arm snapper on the head to be compatible with current systems
+- Hand snappers on the arms now have the PartType parent value string
