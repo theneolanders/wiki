@@ -1128,3 +1128,8 @@
 - Minigun laser shots are now upgraded to be the same as blaster mode
 - Bitbot snapper is now smoothed rather than Bitbot himself
 - Added the PartType string parentvalue to arm and leg snappers
+- Added auto reel mode to G.R.A.P.P.L.E. activated by holding trigger
+- Fixed being unable to speak before the LITE screen has been replaced
+- Finger dots no longer attempt to reparent when a synced arm is attached to another user
+- Main thruster particle trail now activates in rocket mode while more than 100m from the local viewpoint
+- Added NeolanderArm snapper tags to arm and leg SnapTargets

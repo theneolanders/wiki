@@ -95,7 +95,7 @@ Protoflux and Developer tools, double press context button to switch modes. Hold
 ###### Tether
 Allows grabbing and throwing of users. Click trigger while pointing at someone and touching secondary to set them as the target. Hold trigger to pull them in and hold them in place.
 ###### Grapple
-Click and hold trigger to fire the hook along the targeting laser. While attached to a point, the line keeps the pilot’s momentum around a point. Release trigger to recall the hand. Use forward/backward on the joystick to reel in/out the length of the line.
+Click and hold trigger to fire the hook along the targeting laser. While attached to a point, the line keeps the pilot’s momentum around a point. Release trigger to recall the hook. Use forward/backward on the joystick to reel in/out the length of the line. Hold trigger at full strength to use auto reeling. Physically yank on the line to be pulled in that direction with a slight velocity cancel. Latching onto a user allows the G.R.A.P.P.L.E. to function like a spring attached to both parties.
 ###### Flashlight
 Emits light from the palm
 ### Left Hand
