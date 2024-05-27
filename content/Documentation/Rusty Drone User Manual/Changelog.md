@@ -1138,3 +1138,4 @@
 - Arms and hands are now RingThings
 - Updated arm snapper on the head to be compatible with current systems
 - Hand snappers on the arms now have the PartType parent value string
+- Cloud spawning is now done through the black magic node rather than an invisible touchbutton
