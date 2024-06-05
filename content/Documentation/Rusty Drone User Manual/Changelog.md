@@ -1141,3 +1141,6 @@
 - Cloud spawning is now done through the black magic node rather than an invisible touchbutton
 - Added facet anchor to left hand
 - Moved unused facet panels out of the way by attaching them to the head
+- Adjusted G.R.A.P.P.L.E. mechanics to give a vertical shove when yanking
+- Tether now properly responds to talking lights
+- Updated trusted user list
