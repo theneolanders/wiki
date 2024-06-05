@@ -1141,3 +1141,23 @@
 - Cloud spawning is now done through the black magic node rather than an invisible touchbutton
 - Added facet anchor to left hand
 - Moved unused facet panels out of the way by attaching them to the head
+- Adjusted G.R.A.P.P.L.E. mechanics to give a vertical shove when yanking
+- Tether now properly responds to talking lights
+- Updated trusted user list
+### 3.9
+- Cloud variables are no longer cached as dynamic variables on bootup, instead the cloud variable reading components are used
+- Fixed left palm menu being able to open multiple times
+- Fixed left palm menu camera display
+- Moved screen voice output forward slightly
+- Fixed Alpha Bitbot voice output
+- Alpha Bitbot is now fully modular
+- Alpha Bitbot now populates on boot
+- Moved Railgun to the Modes submenu
+- Simplified Bitbot's Railgun animation
+- Arms, claws, and hands are now duplicated from a single cloudspawned instance instead of being spawned multiple times
+- Repopulating parts now happens all at once instead of in sequence
+- Updated locomotion module sprite
+- Fixed locomotion module applying force while the pilot is in an anchor or has a different module selected
+- Emote menu is now stored on the screen to save load time and allow controlling multiple at once
+- Ejecting parts is now handled on the drone
+- Removed part ejecting circuit from hand, arm, and claw
