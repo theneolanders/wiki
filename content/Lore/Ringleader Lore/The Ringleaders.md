@@ -8,7 +8,7 @@ The Ringleaders council is the official title of the group as recognized by huma
 - [[Dezzet]]
 - [[Finch]]
 - [[Frank Jones]]
-- [[Jack Jensen]]
+- [[Jackson 'Jack' Jensen]]
 - [[Kerr-Splat]]
 - [[Lumina]]
 - [[Nimeeko]]

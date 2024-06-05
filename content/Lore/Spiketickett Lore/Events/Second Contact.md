@@ -1,0 +1,1 @@
+When [[Jackson 'Jack' Jensen]] is sent on a mission to [[The Primary Timeline]], he finds himself on a version of Earth that doesn't have any innate [[Psionics|psionic abilities]].

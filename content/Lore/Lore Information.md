@@ -31,7 +31,7 @@ First contact between Rustybot and The Swarm occurs.
 ### 2199
 [[The Ring]] is constructed along with [[The Ring Steward]].
 ### 2200
-[[Jack Jensen]] travels to [[The Primary Timeline]] and [[The Ringleaders]] are officially formed.
+[[Jackson 'Jack' Jensen]] travels to [[The Primary Timeline]] and [[The Ringleaders]] are officially formed.
 
 [[Lumina]] is later introduced to the Ringleaders by Jack Jensen.
 ### 2202

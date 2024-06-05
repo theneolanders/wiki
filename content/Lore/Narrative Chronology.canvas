@@ -4,7 +4,7 @@
 		{"id":"4615c4f5507bbf95","type":"file","file":"content/Lore/Ringleader Lore/The Ring.md","x":280,"y":-1360,"width":400,"height":400},
 		{"id":"821bcbecb614871a","type":"file","file":"content/Lore/Ringleader Lore/The Ring Steward.md","x":280,"y":-840,"width":400,"height":400},
 		{"id":"6f273015d2e7a375","type":"text","text":"# 2199","x":405,"y":-1440,"width":151,"height":60},
-		{"id":"ba3b1c33361d5a6b","type":"file","file":"content/Lore/Spiketickett Lore/Second Contact.md","x":800,"y":-1360,"width":400,"height":400},
+		{"id":"ba3b1c33361d5a6b","type":"file","file":"content/Lore/Spiketickett Lore/Events/Second Contact.md","x":800,"y":-1360,"width":400,"height":400},
 		{"id":"9c465a4be232be01","type":"text","text":"# 2184","x":-110,"y":-920,"width":140,"height":60},
 		{"id":"b856cf64fabba67f","type":"file","file":"content/Lore/Amplified Lore/Pre-Calamity/Zenitaf.md","x":-1880,"y":-840,"width":400,"height":400},
 		{"id":"6fc6f7c96dc114ed","type":"file","file":"content/Lore/Amplified Lore/Events/The Zenitaf Calamity.md","x":-1360,"y":-840,"width":400,"height":400},
@@ -28,8 +28,8 @@
 		{"id":"7ccd69ec86218e46","type":"file","file":"content/Lore/Lonia Lore/Events/Lumina's Ultimatum (Rewritten).md","x":1279,"y":-2320,"width":400,"height":400},
 		{"id":"1040ae3a7b01b1c0","type":"file","file":"content/Lore/alizard Lore/Zard.md","x":1760,"y":-2320,"width":400,"height":400},
 		{"id":"209973dee41a3148","type":"file","file":"content/Lore/alizard Lore/Thesians.md","x":1760,"y":-2800,"width":400,"height":400},
-		{"id":"d6cbaf9ace4e225a","type":"file","file":"content/Lore/Spiketickett Lore/Jack Jensen.md","x":800,"y":-2800,"width":400,"height":400},
-		{"id":"596552d3580556df","type":"file","file":"content/Lore/Spiketickett Lore/The Secondary Timeline.md","x":1280,"y":-3280,"width":400,"height":400},
+		{"id":"d6cbaf9ace4e225a","type":"file","file":"content/Lore/Spiketickett Lore/Characters/Tavish Augmetitech/Jackson 'Jack' Jensen.md","x":800,"y":-2800,"width":400,"height":400},
+		{"id":"596552d3580556df","type":"file","file":"content/Lore/Spiketickett Lore/Miscellaneous/The Secondary Timeline.md","x":1280,"y":-3280,"width":400,"height":400},
 		{"id":"47a335bda7982f55","type":"text","text":"# 2200","x":1160,"y":-920,"width":151,"height":60}
 	],
 	"edges":[

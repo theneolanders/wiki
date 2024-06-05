@@ -1,0 +1,1 @@
+Psionics are a physical manifestation of the [[Soul]] in the [[The Secondary Timeline]]. They primarily come about as a result of trauma to the body- both physical and mental. However, they present very rarely in the population because of their
