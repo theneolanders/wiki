@@ -2,6 +2,7 @@
 > [!NOTE] Quote
 > "Success is irrelevant, the results are always so ***interesting.***"
 
+![[Samuel Kurt PNG.png]]
 Samuel Kurt is a human originating in [[The Secondary Timeline]] on the planet [[Beynos]], he is the founder of [[Mantra Innovators]], and a short-lived previous member of [[The Ringleaders]].
 
 (all years provided are in line with [[The Primary Timeline]], not in line with the dates in the secondary timeline, nor the dates on the planet beynos)
