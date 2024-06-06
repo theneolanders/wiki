@@ -1,5 +1,5 @@
 > [!NOTE] Quote
-> "I was so used to my limited liftspan, and now I have what is practically eternity ahead of me, it's pretty overwhelming."
+> "I was so used to my limited lifespan, and now I have what is practically eternity ahead of me, it's pretty overwhelming."
 
 Unit 19 is the very first fully digital consciousness constructed in [[The Secondary Timeline]], finalized and created by [[Samuel Kurt]], [[Sarah Kelly]], and a select few of [[The Ringleaders]].
 
@@ -21,7 +21,7 @@ At the end of the day, it would be closer to a reincarnation, Unit 19 merely hav
 ##### Adjustments
 Unit 19 would take a long while on his own just getting adjusted to his new digital form, the processing of information of all kinds perfectly simulating that of a human body, and simultaneously being extremely different to anything he's ever felt before.
 
-He would overgo many dilemmas and personal issues, reaching out to other true AI that he knew of for assistance on such matters, such as [[neolanders-wiki/content/Lore/Rustybot Lore/Rustybot|Rustybot]], [[The Swarm]], or [[The Ring Steward]]. Only one of those options previously were a human beforehand, but he would take what he could get.
+He would overgo many dilemmas and personal issues, reaching out to other true AI that he knew of for assistance on such matters, such as [[Rustybot]], [[The Swarm]], or [[The Ring Steward]]. Only one of those options previously were a human beforehand, but he would take what he could get.
 
 For most of his documented life on this site, he would be doing his best to figure out who he is, and how he feels about himself and who he used to be, and what to do with himself now that he has a long way ahead of him.
 

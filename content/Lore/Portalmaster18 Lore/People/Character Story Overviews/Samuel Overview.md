@@ -2,7 +2,7 @@ A general story overview of [[Samuel Kurt]], all dates listed are the dates with
 # Early Life
 #### Year 589 - Year 601
 ---
-Samuel Kurt, in comparison to his future, his childhood would be simple, being bored onto [[New Terra City]].
+Samuel Kurt, in comparison to his future, his childhood would be simple, being born onto [[New Terra City]].
 
 At an early age of 3 years old, his parents passed away due to simply not being in good health, and Samuel was passed around in foster homes as he attended a variety of schools, tending to switch homes just out of unfortunate circumstances they might happen to find themselves in. This inconsistency of a place to call home would lead Samuel to the only thing he could manage to find consistently, fiction.
 
