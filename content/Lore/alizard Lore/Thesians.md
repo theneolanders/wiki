@@ -3,7 +3,7 @@ Thesians are the imperfect fragments of the original Perfect Thesian. Thesians n
 ## Replication
 Thesians naturally try to replicate creatures that surround them, more intelligent Thesians will create a body based on their personality.
 ## Underspace connection
-Thesians can draw energy from underspace through their [[Thesianite]].
+Thesians can draw energy from [[Underspace]] through their Thesianite.
 # History
 ## The origin of Thesians
 Thesians were originally created in a [[The Thesian Timeline|timeline far far]] away from the [[The Primary Timeline|Primary Timeline]].
