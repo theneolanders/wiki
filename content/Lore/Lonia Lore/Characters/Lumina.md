@@ -5,8 +5,9 @@ Creator: "[[Lonia]]"
 ---
 ![[lumina.jpg|300]]
 
-| Home     | [[Earth-B12\|Finland, Earth B12]] |
+|          |                                   |
 | -------- | --------------------------------- |
+| Home     | [[Earth-B12\|Finland, Earth B12]] |
 | Position | [[Celestial Witch]]               |
 | Birthday | June 8th                          |
 | Creator  | [[Lonia]]                         |
