@@ -1,0 +1,5 @@
+**Cal Seaamm** is the official mascot of [[Tavish Augmetitech]], found in commercials, on merchandise, and most importantly, educational content for children. Designed as a dapper human skeleton with the latest augmentations, he was first introduced in 2356 in a bid to covertly introduce Tavish into schools' science curriculums. Most famously, physical versions of him (with removable implants) were provided to classrooms for the purpose of teaching anatomy.
+
+The timing of Cal's introduction was no mistake- as humanity began settling among the stars, the concept of standardized schooling fell apart as each planet slowly found its own way of doing things. Corporations large and small attempted to fill this vacuum with marketing, and Tavish's attempt is one that is still successful to this day.
+
+This continued success was a result of Tavish's further expansion of Cal Seaamm to a larger demographic- from teaching schoolchildren, to being hip with teenagers, then to filling adults with nostalgia. This cycle has continued up to the current day, with many redesigns over the years to suit the era. 
