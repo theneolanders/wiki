@@ -15,12 +15,12 @@ Samuel is born onto the planet Beynos in the year 2171, and from a young age he 
 By age twenty, he would uncover information about the [[Congregation of the Dead Earth]], and became a form of political figure for all such information to be outsourced to the public, and with such information eventually released, would begin Mantra Innovators and it's technological advancements.
 
 ##### Splinter Anomaly
-At the age of twenty two, during his first trip on space travel, he would encounter a weak point in the universe's [[The Multiverse#Lower|lower membrane]], causing him to be affected with [[The Splinter Anomaly]], this would cause him to add onto his already immense intelligence and abilities to further progress his planet's technology.
+At the age of twenty three, during his first trip on space travel, he would encounter a weak point in the universe's [[The Multiverse#Lower|lower membrane]], causing him to be affected with [[The Splinter Anomaly]], this would cause him to add onto his already immense intelligence and abilities to further progress his planet's technology.
 
 ##### End of Success
-At the age of thirty in the year 2201, he is extremely successful, nearly single handedly making up for multiple hundreds of years in technological developments, the only unfinished side project being the idea of projecting himself into some form of machine due to his degrading health due to [[E.N.E.R.G.I|ENERGI poisoning]]. This would be impossible as far as he could see due to a pure lack in resources and time.
+At the age of thirty three in the year 2201, he is extremely successful, nearly single handedly making up for multiple hundreds of years in technological developments, the only unfinished side project being the idea of projecting himself into some form of machine due to his degrading health due to [[E.N.E.R.G.I|ENERGI poisoning]]. This would be impossible as far as he could see due to a pure lack in resources and time.
 
-Until a year later when Samuel would have his first contact with [[The Swarm]] visiting his planet in beynos.
+Soon enough, Samuel would have his first contact with [[The Swarm]] visiting his planet in beynos.
 
 A few more years later would be his death, but then his resurrection or much closer to reincarnation in form of [[Unit 19]].
 
