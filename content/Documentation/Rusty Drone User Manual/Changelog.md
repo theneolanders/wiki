@@ -1161,3 +1161,4 @@
 - Emote menu is now stored on the screen to save load time and allow controlling multiple at once
 - Ejecting parts is now handled on the drone
 - Removed part ejecting circuit from hand, arm, and claw
+- Face camera now respects UI visibility variable
