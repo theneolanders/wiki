@@ -1162,3 +1162,5 @@
 - Ejecting parts is now handled on the drone
 - Removed part ejecting circuit from hand, arm, and claw
 - Face camera now respects UI visibility variable
+- Any attached part can now be ejected
+- Recall now ends projectile motion on ejected parts

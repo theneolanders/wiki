@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "79d23c0e7394192f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Documentation/Rusty Drone User Manual/Changelog.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documentation/Interactive Systems.md",
+                "file": "Documentation/Rusty Drone User Manual/Changelog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documentation/Interactive Systems.md",
+                "file": "Documentation/Rusty Drone User Manual/Changelog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documentation/Interactive Systems.md"
+                "file": "Documentation/Rusty Drone User Manual/Changelog.md"
               }
             }
           }
@@ -146,7 +159,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0edaca6f5fca2b48",
+  "active": "79d23c0e7394192f",
   "lastOpenFiles": [
     "Documentation/Rusty Drone User Manual/Drone Modularity.md",
     "Documentation/Rusty Drone User Manual/Changelog.md",
