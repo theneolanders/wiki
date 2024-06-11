@@ -1,7 +1,6 @@
 ---
 aliases:
   - Polyfold (character)
-  - Amplified
 ---
 The Swarm, also known by their project name [[Polyfold Nanites|Polyfold (Technology)]], is a nanobot swarm created by a [Gray Goo Event](https://en.wikipedia.org/wiki/Gray_goo) on the alien planet [[Zenitaf]]. In an event referred to as [[The Zenitaf Calamity]], The Swarm was born from the collective memories and data of every biological and artificial being on the planet, because the nanites that constitute them were initially programmed to harvest the data of all objects consumed for archival purposes.
 
