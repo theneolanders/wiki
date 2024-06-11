@@ -1164,3 +1164,4 @@
 - Face camera now respects UI visibility variable
 - Any attached part can now be ejected
 - Recall now ends projectile motion on ejected parts
+- Reworked torso leaning procedural animation to be more stable
