@@ -15,4 +15,3 @@ Zard is heavily focused on individual freedom.
 Zard's identity came into existence long after [[The Thesian Ego Death]], they were formed out of many different Thesian fragments. 
 # Trivia
 - Zard's ears are decorative 
-- Little guy
