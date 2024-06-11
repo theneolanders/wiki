@@ -48,6 +48,8 @@ Manually retracts the screen into the head
 Reparents self to a user (raycasted selection from left hand), or back to home slot if no one is in sight. The Drone will copy the host user’s RustyTalkingLights if applicable.
 ###### Clear Screen
 Removes anything snapped to the screen's surface, ex. pen strokes
+###### Flashlight
+Bitbot emits light from his eye. Light comes from Drone's chest when Bitbot is retracted and eye while in Bitbot mode.
 ### Modularity
 ###### Toggle
 Toggles whether or not the Drone's arms, hands, and head are grabbable by anyone. The screen is always grabbable by trusted users, the hands and arms are grabbable by any trusted user except the pilot, and the head is only grabbable with modularity enabled.
@@ -55,15 +57,15 @@ Toggles whether or not the Drone's arms, hands, and head are grabbable by anyone
 Any detached body parts are flown back to their sockets.
 ###### Repopulate Parts
 Automatically replenishes any missing screens, arms, hands, legs, and/or feet
+###### Eject
+Forcibly releases parts from modular snappers and causes them to behave like projectiles
 ### Bitbot
 ###### Return
-Calls Bitbot back to the drones shoulder if he's in camera mode
+Calls Bitbot back to the drone's shoulder if he's in camera mode
 ###### Hide
-Retracts/deploys all currently held bitbots
+Retracts/deploys all currently held Bitbots
 ###### Get Core
 Sends Bitbot off to get the power core
-###### Flashlight
-Bitbot emits light from his eye. Light comes from Drone's chest when Bitbot is retracted and eye while in Bitbot mode.
 ###### Audio
 Toggles whether or not the Drone’s audio input and output are centered on Bitbot.
 ### Cloud
@@ -71,8 +73,8 @@ Toggles whether or not the Drone’s audio input and output are centered on Bitb
 Spawns a Bitbot Multitool.
 ###### Bitbot Blueprinter
 Spawns a Bitbot Blueprinter
-###### Railgun
-Activates turret mode, head guns, and missile pods, then deploys the Rusty Particle Lance
+###### Alpha Bitbot
+Spawns an Alpha Bitbot
 ###### Hand
 Spawns a Rusty Hand
 ###### Arm
@@ -113,6 +115,8 @@ The drone folds up into its head. In walk mode, a tread deploys. Click left trig
 Deploys cranial blaster panels. Aim and shoot with left controller. Firing speed slows and sound changes in Bitbot Mode.
 ###### Missile Pods
 Deploys shoulder mounted rocket launchers. Aim with the right hand. Touch left secondary and click trigger to lock target based on the left targeting laser. Hold left trigger to fire. Targeting a user with the left hand hologram menu with the M.I.S.S.I.L.E.S. deployed with lock onto them.
+###### Railgun
+Activates turret mode, head guns, and missile pods, then deploys the Rusty Particle Lance
 ### Settings
 ###### Drone Power
 Remotely shuts down all Alpha Drones in the area (Prime Unit only)
@@ -124,6 +128,8 @@ Toggles the Drone’s toolshelves on/off
 Toggles whether or not the HUD, Quick Menu, Emote Menu, default grab lasers, and Context Menu are visible to non-Pilot users.
 ###### Local Gravity
 Toggles whether or not the drone respects the Local Gravity world variable.
+###### Nametag
+Manually toggles the nametag and icon badges
 
 ---   
 ## Emotes
