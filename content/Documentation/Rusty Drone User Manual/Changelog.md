@@ -1166,3 +1166,6 @@
 - Recall now ends projectile motion on ejected parts
 - Added PartType parentvalues to RingThing eye snappers
 - Reworked torso leaning procedural animation to be more stable
+- G.R.A.P.P.L.E. point light is now based on plasma color instead of talking lights
+- G.R.A.P.P.L.E. hook now has grab release
+- Repulser blast now has hex loops along the visual
