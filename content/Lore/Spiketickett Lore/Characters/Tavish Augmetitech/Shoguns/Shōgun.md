@@ -1,0 +1,2 @@
+The **Shōgun** is a unique role to the [[Tavish Augmetitech]] corporation, named for the military rulers of Japan which answered to the Emperor. In the same way, Tavish's Shōgun can be considered the right-hand-man to [[Leena Tuonen]], being equal in rank to the [[Cerebral Order]]. 
+[[Saitō Yoshimichi]] and [[Jackson 'Jack' Jensen]] have both held this role.
