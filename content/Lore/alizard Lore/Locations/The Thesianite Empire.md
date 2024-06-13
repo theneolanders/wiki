@@ -10,3 +10,5 @@ The Dukes rule the five other sectors of The Thesianite Empire and are directly 
 The Lords own the land inside the six sectors and obey The Dukes and The King.
 ## The Serfs
 The Serfs are servants to The Lords and exchange labor to food and housing.
+## The Thesians
+Thesians are commonly used as tools and laborers.
