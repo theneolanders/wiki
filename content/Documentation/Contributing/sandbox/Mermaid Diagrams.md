@@ -1,12 +1,10 @@
 
 ```mermaid
-sequenceDiagram
-    Alice->>+John: Hello John, how are you?
-    Alice->>+John: John, can you hear me?
-    John-->>-Alice: Hi Alice, I can hear you!
-    John-->>-Alice: I feel great!
-```
+timeline
+    2002 : A-won't you take me to
+    2004 : Funkytown?
+         : Won't you take me to
+    2005 : Funkytown?!!!
+    2006 : Spinning Fish
 
-# FUNKY TOWN
-## TAKE ME TO 
-### FUNKY TOWN
+```
