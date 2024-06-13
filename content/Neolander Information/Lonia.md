@@ -1,3 +1,7 @@
+---
+tags:
+  - User
+---
 *This page is for Lonia, the Neolander. For her character's lore, see [[Lumina]].*
 
 Lonia is a visual artist that loves creating many characters with complex designs. 
