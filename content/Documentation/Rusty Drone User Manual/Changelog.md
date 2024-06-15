@@ -1169,3 +1169,4 @@
 - G.R.A.P.P.L.E. point light is now based on plasma color instead of talking lights
 - G.R.A.P.P.L.E. hook now has grab release
 - Repulser blast now has hex loops along the visual
+- Updated finger joint meshes to remove nearly 3k polygons
