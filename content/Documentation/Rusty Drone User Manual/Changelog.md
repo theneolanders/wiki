@@ -1170,3 +1170,4 @@
 - G.R.A.P.P.L.E. hook now has grab release
 - Repulser blast now has hex loops along the visual
 - Updated finger joint meshes to remove nearly 3k polygons
+- Antenna rotations now use the dynamic variable in preparation for full head modularity
