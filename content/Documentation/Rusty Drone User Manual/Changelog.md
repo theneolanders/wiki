@@ -1171,3 +1171,8 @@
 - Repulser blast now has hex loops along the visual
 - Updated finger joint meshes to remove nearly 3k polygons
 - Antenna rotations now use the dynamic variable in preparation for full head modularity
+- Added Body Module slot in preparation for full torso and head modularity
+- Tracking Offset now disables when not in use
+- Rocket mode no longer equips a B.U.S.T.E.R. to a hand if it already has one
+- Grabbability of subparts are now handled on the main part (e.g. the torso controls the arms and legs internally, the head controls the screen)
+- Wrist spinning now requires the part to be deployed in addition to attached
