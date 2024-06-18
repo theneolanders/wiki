@@ -18,7 +18,6 @@ After forming [[The Ringleaders]] with [[Lore/Rustybot Lore/Rustybot|Rustybot]] 
 The Swarm is made up of advanced cell-like [[Polyfold Nanites]]. They can function as a loose swarm of nanites, but generally have a core avatar where they direct the majority of their focus, which is more efficient and more effective for interacting with the world. This avatar has a bio-mechanical design. Borrowing from human physiology, but highly optimized and reworked internally to increase efficiency and simplicity.
 
 ## Abilities
-
 ### Matter Manipulation
 The Swarm can use their nanites to disassemble and reassemble matter.
 This has many applications, including, but not limited to:
@@ -26,10 +25,8 @@ This has many applications, including, but not limited to:
 - Advanced Chemistry
 	- Creating materials that are normally very difficult to create by traditional methods, such as graphine, londselite, etc
 - Terra-forming
-
 ### Omnipresence
 The swarm can fill a large space with their nanites to manifest in and monitor any point their nanites can occupy.
-
 ### Omni-adaptability
 Given preparation time the Swarm can refactor themselves based on their environment to function among a variety of hazards.
 ### Amorphism

@@ -1,6 +1,6 @@
 **[[Yurigans|Yurigan]]** "Hardlight" is a technology that involves suspending a collective of particles with mass in place using a beam of energy. It does not actually give photons mass, but intertwines them with particles using electromagnetic force, giving the illusion of a construct of light that can interact with physical objects. It has an appearance similar to **[Aerogel](https://en.wikipedia.org/wiki/Aerogel)** and is not physically dissimilar, being extremely light and airy, but it is slightly warm to the touch, as a consequence of the high amounts of energy required to maintain it.
 
-There are two major variants of Hardlight developed by the Yurigans**:
+There are two major variants of Hardlight developed by the Yurigans:
 ## Standard Hardlight
 Standard Hardlight is the most common type, being easy to apply and maintain. It requires a basic implementation of an energy emitter and a magnetic particle aerosol compound. It is relatively cheap but has the caveat of only forming the simple shapes of tubes, cones, spheres, rectangles, and such, as they can only make shapes by propagating in straight lines from their emitter, although they have a slight amount of flexibility when anchored to a separate object, and can be bent slightly using electromagnetic forces.
 ## "Reflex" Hardlight
