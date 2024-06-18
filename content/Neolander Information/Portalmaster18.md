@@ -2,7 +2,7 @@
 tags:
   - User
 ---
-> [!NOTE] NOTE
+> [!NOTE]
 > *This page is for the user Portalmaster18 who is a Neolander, she is not a fictional character of any kind.*
 
 --- 
