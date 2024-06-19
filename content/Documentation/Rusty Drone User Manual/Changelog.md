@@ -1176,3 +1176,6 @@
 - Rocket mode no longer equips a B.U.S.T.E.R. to a hand if it already has one
 - Grabbability of subparts are now handled on the main part (e.g. the torso controls the arms and legs internally, the head controls the screen)
 - Wrist spinning now requires the part to be deployed in addition to attached
+- Added support for body modules to part receiving
+- Body modules can now override default head and torso
+- Default head and torso are now reset on boot
