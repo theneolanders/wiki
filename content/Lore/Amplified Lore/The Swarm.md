@@ -1,7 +1,6 @@
 ---
 aliases:
   - Polyfold (character)
-  - Amplified
 ---
 The Swarm, also known by their project name [[Polyfold Nanites|Polyfold (Technology)]], is a nanobot swarm created by a [Gray Goo Event](https://en.wikipedia.org/wiki/Gray_goo) on the alien planet [[Zenitaf]]. In an event referred to as [[The Zenitaf Calamity]], The Swarm was born from the collective memories and data of every biological and artificial being on the planet, because the nanites that constitute them were initially programmed to harvest the data of all objects consumed for archival purposes.
 
@@ -19,7 +18,6 @@ After forming [[The Ringleaders]] with [[Lore/Rustybot Lore/Rustybot|Rustybot]] 
 The Swarm is made up of advanced cell-like [[Polyfold Nanites]]. They can function as a loose swarm of nanites, but generally have a core avatar where they direct the majority of their focus, which is more efficient and more effective for interacting with the world. This avatar has a bio-mechanical design. Borrowing from human physiology, but highly optimized and reworked internally to increase efficiency and simplicity.
 
 ## Abilities
-
 ### Matter Manipulation
 The Swarm can use their nanites to disassemble and reassemble matter.
 This has many applications, including, but not limited to:
@@ -27,10 +25,8 @@ This has many applications, including, but not limited to:
 - Advanced Chemistry
 	- Creating materials that are normally very difficult to create by traditional methods, such as graphine, londselite, etc
 - Terra-forming
-
 ### Omnipresence
 The swarm can fill a large space with their nanites to manifest in and monitor any point their nanites can occupy.
-
 ### Omni-adaptability
 Given preparation time the Swarm can refactor themselves based on their environment to function among a variety of hazards.
 ### Amorphism

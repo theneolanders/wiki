@@ -1,0 +1,1 @@
+**Yaldabaoth** is a massive entity located deep within the planet [[Thanatos IV]]. It is most closely related to the mycelium of Earth, however it has grown to a size so absurdly large it has developed the capacity for independent, sapient thought. This size also makes its [[Psionics|psionic capabilities]] beyond any reasonable measurement.

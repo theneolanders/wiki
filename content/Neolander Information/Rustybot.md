@@ -1,4 +1,9 @@
-*This page is for Rustybot the Neolander (a real life human). For Rustybot the Ringleader (a fictional character), see [[Lore/Rustybot Lore/Rustybot|Rustybot]]*
+---
+tags:
+  - User
+---
+>[!NOTE]
+>This page is for Rustybot the Neolander (a real life human). For Rustybot the Ringleader (a fictional character), see [[Lore/Rustybot Lore/Rustybot|Rustybot]]
 
 Rustybot is a programmer and technical animator who primarily develops content for the VR platform [Resonite.](https://www.resonite.com) He is know for his consistent visual style and sci-fi robotic creations.
 #### VR Content

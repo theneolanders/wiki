@@ -1161,3 +1161,18 @@
 - Emote menu is now stored on the screen to save load time and allow controlling multiple at once
 - Ejecting parts is now handled on the drone
 - Removed part ejecting circuit from hand, arm, and claw
+- Face camera now respects UI visibility variable
+- Any attached part can now be ejected
+- Recall now ends projectile motion on ejected parts
+- Added PartType parentvalues to RingThing eye snappers
+- Reworked torso leaning procedural animation to be more stable
+- G.R.A.P.P.L.E. point light is now based on plasma color instead of talking lights
+- G.R.A.P.P.L.E. hook now has grab release
+- Repulser blast now has hex loops along the visual
+- Updated finger joint meshes to remove nearly 3k polygons
+- Antenna rotations now use the dynamic variable in preparation for full head modularity
+- Added Body Module slot in preparation for full torso and head modularity
+- Tracking Offset now disables when not in use
+- Rocket mode no longer equips a B.U.S.T.E.R. to a hand if it already has one
+- Grabbability of subparts are now handled on the main part (e.g. the torso controls the arms and legs internally, the head controls the screen)
+- Wrist spinning now requires the part to be deployed in addition to attached
