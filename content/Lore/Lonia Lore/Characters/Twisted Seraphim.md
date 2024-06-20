@@ -2,6 +2,7 @@
 Home: "[[The Secondary Timeline]]"
 ---
 ![[TwistedSeraphimLogo.png|150]]
+
 The **Twisted Seraphim** is a criminal organization wholly focused on profiting from large-scale thefts. It is made up of five members: four are heavily augmented women from [[The Secondary Timeline|the secondary timeline]], and the fifth is [[Lumina]], their former leader, who is currently estranged from the group.
 This shakeup was caused by her unwilling recruitment by [[Tavish Augmetitech]].
 
