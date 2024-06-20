@@ -67,3 +67,5 @@ Establishing The Ringleaders as an official entity and having Jack join
 ##### End
 The Swarm finds Samuel Kurt
 ##### Scenes
+
+[[Scene X - Fortunate Birdie|Fortunate Birdie]]
