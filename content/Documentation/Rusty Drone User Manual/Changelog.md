@@ -1179,3 +1179,6 @@
 - Added support for body modules to part receiving
 - Body modules can now override default head and torso
 - Default head and torso are now reset on boot
+- Ear and Visor buttons are now on the root of the head
+- Added User/IsOnGround variable
+- Legs no longer retract on ResetRustybot dynpulse if a body module is connected
