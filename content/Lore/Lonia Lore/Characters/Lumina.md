@@ -3,7 +3,7 @@ Home: "[[Earth-B12|Finland, Earth B12]]"
 Position: "[[Celestial Witch]]"
 Creator: "[[Lonia]]"
 ---
-![[LuminaDuoRender1.png]]
+![[LuminaDuoRender1.png | 400]]
 
 |          |                                   |
 | -------- | --------------------------------- |
@@ -15,7 +15,7 @@ Creator: "[[Lonia]]"
 Originally born as a human in Finland on [[Earth-B12]]. Later, she became a [[Celestial Witch]], ended up in [[The Secondary Timeline|the secondary timeline]], became the leader of the [[Twisted Seraphim]] gang, and then was kidnapped by [[Tavish Augmetitech]]. During her time at Tavish, she became acquainted with [[Jackson 'Jack' Jensen]].
 
 --- 
-#### Personality
+#### Personalit
 Lumina is a risk taker, often gambling with her life for the possibility of reward. In conversation, she is highly talkative and will often make witty remarks at others' expense. She has a hard time staying still, always requiring physical or mental stimulation to keep herself engaged.
 #### Appearances
 
