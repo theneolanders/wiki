@@ -1,5 +1,7 @@
 **Uncharted Interstellar Space**
+
 **Milky-Way Galaxy**
+
 **Secondary Timeline**
 
 The Swarm floats through empty space, scanning the properties of nearby celestial bodies.
@@ -27,7 +29,9 @@ They warp as close to the most populated planet as they safely can and begin sca
 They begin sweeping the whole city, looking for any answers. The only consistent thing, one name, one logo, Mantra Innovators.
 
 **Mantra Headquarters**
+
 **New Terra City**
+
 **Beynos**
 
 Samuel is laying his back along an elevated platform, and using his digital interface he scans through the wiring of Terra’s biggest generators that recently went offline. It’s one that has been upgraded time and time again, but due to being before Samuel’s time, is always finicky to deal with.
