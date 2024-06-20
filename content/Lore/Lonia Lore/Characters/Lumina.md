@@ -3,7 +3,7 @@ Home: "[[Earth-B12|Finland, Earth B12]]"
 Position: "[[Celestial Witch]]"
 Creator: "[[Lonia]]"
 ---
-![[lumina.jpg|300]]
+![[LuminaDuoRender1.png]]
 
 |          |                                   |
 | -------- | --------------------------------- |
@@ -17,7 +17,7 @@ Originally born as a human in Finland on [[Earth-B12]]. Later, she became a [[Ce
 --- 
 #### Personality
 Lumina is a risk taker, often gambling with her life for the possibility of reward. In conversation, she is highly talkative and will often make witty remarks at others' expense. She has a hard time staying still, always requiring physical or mental stimulation to keep herself engaged.
-#### Appearance 
+#### Appearances
 
 #### Abilities
 As the chosen avatar of Ninko, Lumina has been bestowed Ninko's unique dominion over visible light. Clever usage of this power enables her to perform many feats that may not be immediately obvious. This includes, but is not limited to:  
