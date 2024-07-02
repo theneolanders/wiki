@@ -1184,10 +1184,11 @@
 - Legs no longer retract on ResetRustybot dynpulse if a body module is connected
 - Antenna can no longer be pulled while drone is shut down
 - Added dynamic variable space to drone head
+- Adjusted shoulder panel positions
 - Changed dynamic variable space of feet to RustyClaw so all dynspace names now match the tag of the object
 - Moved head grabbability control to the head itself
 - Part recall is now handled by a central while loop instead of each part tweening itself
 - Improved part recall animation
 - Part recall now has visual lasers
 - Part Ejector now cancels when recall is activated
-- Fixed foot recall lasers instancing when synced foot is null
+- Fixed recall lasers instancing when synced part is null
