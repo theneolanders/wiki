@@ -1192,3 +1192,5 @@
 - Part recall now has visual lasers
 - Part Ejector now cancels when recall is activated
 - Fixed recall lasers instancing when synced part is null
+- Turned Nametag text into a dynamic variable field
+- nametag text now resets on reboot
