@@ -2,7 +2,7 @@ Rusty Manufacturing was founded by [[Rustybot]] in the year 2172 as a way to sli
 
 Rusty Manufacturing is notable for its extragalactic nature, being the first and only human corporation based in Andromeda. It is also the only known company currently in operation to have zero employees.
 
-Rusty Manufacturing focuses on the advancement of spaceborn automation, laser technology,
+In the modern day, Rusty Manufacturing focuses on the advancement of spaceborn automation and laser technology.
 
 ---
 # Notable Technology
@@ -10,7 +10,7 @@ Rusty Manufacturing focuses on the advancement of spaceborn automation, laser te
 ### Drones
 A Drone is any Rusty Manufacturing unit capable of being controlled by a [[Rusty Manufacturing#Pilots|Pilot]]. Drones range from Bitbots to Alpha Drones and can have a wide variety of functionality, but are primarily used for the automation of manual labor.
 
-A Rusty Drone does not house the Pilot's consciousness on board. Instead, the Pilot controls its body through QEC from the comfort of [[Dataspace]].
+A Rusty Drone does not house the Pilot's consciousness on board. Instead, the Pilot controls its body through QEC from the comfort of [[Rusty Manufacturing#Dataspace|Dataspace]].
 
 #### Alpha Drones
 Alpha Drones are equipped with multiple [[Underspace]] Harvester Cores, Microfabricators, and countless weapon systems. These drones are capable of self repair and indefinite uptime. Pilots in these units usually lead exploration missions and expansion initiatives by using their capabilities to perform the duties of a [Von Neumann Probe.](https://en.wikipedia.org/wiki/Self-replicating_spacecraft)
