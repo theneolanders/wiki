@@ -1193,4 +1193,6 @@
 - Part Ejector now cancels when recall is activated
 - Fixed recall lasers instancing when synced part is null
 - Turned Nametag text into a dynamic variable field
-- nametag text now resets on reboot
+- Nametag text now resets on reboot
+- Power supply calculation can now be overridden by body modules
+- High five effect is now a circle emitter and oriented based on the slap direction
