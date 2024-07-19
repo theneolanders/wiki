@@ -1196,3 +1196,8 @@
 - Nametag text now resets on reboot
 - Power supply calculation can now be overridden by body modules
 - High five effect is now a circle emitter and oriented based on the slap direction
+- Began reworking leg stepping behaviour
+- Removed old foot transforms circuit
+- Stepping will eventually be an async while loop where each foot follows a bezier curve path while animating
+- Modified screen and eye stencil materials to function more correctly
+- Loading animation is now properly inset into the display volume
