@@ -1,1 +1,1 @@
-The Quartz Clock is a magictech machine located in The Thesian Timeline.
+The Quartz Clock is a magictech machine located in [[The Thesian Timeline]].
