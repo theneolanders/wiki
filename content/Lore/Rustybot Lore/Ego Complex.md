@@ -1,0 +1,1 @@
+Deep in the greatest voids of the universe lies a fortress containing the unbroken consciousness of [[Lore/Rustybot Lore/Rustybot|Rustybot]]. Protected by the pinnacle of [[Rusty Manufacturing]]'s defense technologies, this vigilant bastion of central intelligence is the last line of defense against potential threats before all is lost.
