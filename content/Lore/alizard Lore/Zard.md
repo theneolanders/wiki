@@ -12,6 +12,6 @@ Due to the goopy nature of their body, Zard can stretch and morph their body wit
 Zard is heavily focused on individual freedom.
 # History
 ## Creation
-Zard's identity came into existence long after [[The Thesian Ego Death]], they were formed out of many different Thesian fragments. 
+Zard's identity came into existence long after [[The Thesian Ego Death]], they were formed out of many different Thesian fragments in the year 2196 for the Primary TImeline.
 # Trivia
 - Zard's ears are decorative 
