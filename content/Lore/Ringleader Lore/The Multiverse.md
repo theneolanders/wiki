@@ -20,7 +20,7 @@ The upper membrane can be thought of as the more typical "edge of the universe".
 #### Lower
 The lower membrane is what separates a timeline from the infinite energy of Underspace. While Underspace itself is a single point, the lower membrane is spread across a universe in such a way that it allows the energy to flow in from any location (assuming sufficient permeability).
 #### Permeability
-How permeable each membrane is determines the behavior of the universe it encompasses. Under classical circumstances, neither membrane is at all permeable. This results in a universe that cannot be escaped from (as the upper membrane disallows egress) and has no magic, entropy reversal, or [[The Multiverse#True Magic|chaos force]] (as the lower membrane does not allow for the intake of energy).
+How permeable each membrane is determines the behavior of the universe it encompasses. Under classical circumstances, neither membrane is at all permeable. This results in a universe that cannot be escaped from (as the upper membrane disallows egress) and has no magic, entropy reversal, or [[The Multiverse#True Magic|chaos force]] (as the lower membrane does not allow for the intake of energy). As they cannot be detected and nothing can pass their threshold, universes with perfect membranes are entirely theoretical, but generally hypothesized to both exist, and actually represent the vast majority of the multiverse.
 
 Without sufficient permeability, a universe will eventually experience [heat death.](https://en.wikipedia.org/wiki/Heat_death_of_the_universe) 
 
@@ -34,18 +34,18 @@ Barring a few exceptions, any properties of a universe that fall outside the rea
 ---
 ## Magic As Alternative Physics
 
-When a character or setting uses a set of rules that is incongruent with typical physics, it is often referred to as magic. This is primarily because the story takes place from the perspective of [[The Primary Timeline]], where breaking the laws of physics is not possible without outside influence. It is important to note, however, that from the perspective of other universes these rules hold the same weight and power as "traditional" physics.
+When a character or setting uses a set of rules that is incongruent with typical physics, it is often referred to as magic. The model of "typical" physics is [[The Primary Timeline]], as it has a remarkably stability while still being permeable enough to interact with the multiverse, But this doesn't necessarily make the physics of other timelines "incorrect."
 
-[[Psionics]] in [[The Secondary Timeline]] are an example of this phenomenon. The consciousness field has clear rules and parameters through which it can be interacted. Though these forces are not present in the Primeline, they are still able to be understood and analyzed. Thus, the difference between alternative physics and True Magic can be defined as whether or not internal consistency can be found.
+[[Psionics]] in [[The Secondary Timeline]] are an example of this phenomenon. The consciousness field has clear rules and parameters through which it can be interacted. Though these forces are not present in the Primeline, they are still able to be understood and analyzed. Thus, the difference between alternative physics and True Magic can be defined as whether or not internal consistency can be found, however, any procedures of alternative physics that conflict with the laws of thermodynamics are most likely pulling energy from Underspace, which is a form of True Magic.
 
 ---
 ## True Magic
 
-Also known as Chaos Force, True Magic is the raw power of Underspace being harnessed to bring a task to its least logical conclusion. Or at least, its most *interesting* conclusion.
+Also known as Chaos Force, True Magic is the raw power of Underspace, which is defined by its chaotic and unpredictable, but usually convenient properties. True Magic is sometimes believed to have a mind of its own, creating very specific outcomes that would be extremely unlikely to happen through pure chance, but any attempts to find a rhyme or reason to its behaviors are usually met with failure and further confusion.
 
-True Magic is what allows abilities such as toonforce or fourth wall breaks to be entirely diegetic. It is an acknowledgement that [[The Ringleaders]] exist in fiction and that the rules can be broken for the sake of entertainment. As such, the real purpose of Chaos Force is to foster character development, important events and entertaining interactions.
+Despite being referred to as "magic", True Magic is not entirely limited to timelines with arcane themes or permeable membranes. Despite being bound entirely by the laws of physics, [[Lore/Rustybot Lore/Rustybot|Rustybot]] is technically a user of Chaos Force due to his development of [[Rusty Manufacturing#Underspace Harvester Cores|Underspace Harvester Cores]], allowing him to exist on the same level as those from more loosely-bound universes.
 
-Importantly, True Magic is not limited to timelines with arcane themes or permeable membranes. Despite being bound entirely by the laws of physics, [[Lore/Rustybot Lore/Rustybot|Rustybot]] is technically a user of Chaos Force due to his development of [[Rusty Manufacturing#Underspace Harvester Cores|Underspace Harvester Cores]]. While they may not have the same trappings as other magical devices, the cores fall under True Magic because they serve important narrative purposes. The first and most obvious is that access to an unlimited power supply allows Rustybot to create more interesting technology. The second and more important reason is that breaching the Primeline's lower membrane caught the attention of  [[Tavish Augmetitech]], essentially kickstarting the rest of the story.
+As unfiltered True Magic is completely unpredictable to the level of being functionally useless and usually dangerous, most universes that naturally channel large amounts of True Magic have physical laws that facilitate the controlled use of True Magic.
 
 ---
 ## Divergence
@@ -53,3 +53,13 @@ Importantly, True Magic is not limited to timelines with arcane themes or permea
 Divergence is the process by which two timelines emerge from one after an impactful event. When a great new technology is discovered in one but not another, those timelines will drift apart. If a traveler from another universe makes contact, a new split will occur. 
 
 In a manner of speaking, timelines can "overlap" in a sort of superposition if they are similar enough. In a different manner of speaking, timelines can be created when a random event or outside influence causes two outcomes to be equally likely.
+
+---
+## Strands
+
+Strands are the forces that pull universes with similar concepts closer together. It allows universes that have vast divergences in probability to be traversed between via the concepts that make them similar. Strands increase the likelihood of discovering things like alternate versions of ones self or very similar events that occurred separately within completely different histories.
+
+---
+## The Singularity and The Cycle
+
+The Ringleaders Multiverse runs on the assumption that a 100% entropy system and a 0% entropy system are virtually indistinguishable, this creates a model of a universe where each timeline starts and ends in a singularity point representing a blank, homogenous state of existence. This singularity point is hypothesized to be one in the same with Underspace, essentially acting as a well of potential that all of existence draws upon. In a classical universe it will only retain a fixed amount of energy and will play out its existence from big-bang to heat-death in a closed loop, then return its potential to the singularity, but universes with permeable membranes can draw from Underspace and communicate with other permeable universes, allowing for some universes to exist outside of the standard cycle of the multiverse by gaining (or occasionally losing) more energy than they started out with. This allows universes to have a net gain of usable energy that allows them to persist indefinitely.

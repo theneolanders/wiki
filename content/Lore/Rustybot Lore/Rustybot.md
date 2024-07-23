@@ -3,7 +3,7 @@ Home: "[[The Primary Timeline]]"
 Position: "[[The Ringleaders|Ringleader Co-Founder]]"
 Birth: 2135-07-06
 ---
-*This page is for Rustybot the Ringleader (a fictional character). For Rustybot the Neolander (a real life human), see [[Neolander Information/Rustybot|Rustybot]]*
+*This page is for Rustybot the Ringleader (a fictional character). For Rustybot the Neolander (a real life human), see [[Rustybot (User)|Rustybot (User)]]*
 
 >[!NOTE] Quote
 >"Lasers solve literally every problem."

@@ -10,7 +10,7 @@ Birth: 2635-01-03
 | Birth    | January 3rd, 2635 |
 | Home     | [[Thanatos IV]]   |
 | Position | [[Shōgun]]        |
-| Creator  | [[Spiketickett]]  |
+| Creator  | [[Spiketickett (User)]]  |
 
 **Jackson 'Jack' Jensen**, known as the [[Shōgun]] to the ranks of [[Tavish Augmetitech]], is the current right-hand-man of [[Leena Tuonen]]. Born on the planet [[Thanatos IV]], he was positioned by his parents- both working for Tavish- to succeed them as an accountant. But this was not meant to be, and instead years of suffering hardened him into a trained killer for the corporation's interests.
 ## Biography
