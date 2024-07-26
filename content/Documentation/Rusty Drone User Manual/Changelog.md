@@ -1203,3 +1203,11 @@
 - Modified screen and eye stencil materials to function more correctly
 - Loading animation is now properly inset into the display volume
 - Reticle is now further inset into the display
+### 3.10
+- Legs now step far more consistently (still needs fine tuning to prevent tippy taps)
+- Eyes are now slightly less inset into the display
+- Eyes now have mesh faces on the back to appear both 3d and hollow
+- Fixed booting text material having the wrong priority value, causing it to fail to be visible
+- DOS blinker is now further inset into the display
+- Screen tapping now runs on an async while loop and falls inwards as it expands
+- Fixed reboot working incorrectly
