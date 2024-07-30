@@ -1211,3 +1211,8 @@
 - DOS blinker is now further inset into the display
 - Screen tapping now runs on an async while loop and falls inwards as it expands
 - Fixed reboot working incorrectly
+- Replaced reticle cover mesh back to the small version for now
+- Fixed torso leaning only working correctly when facing directly forward in the playspace
+- Torso rotation now takes head facing direction into account to offset the hand average points forwards, reducing awkward flipping
+- Mitigated part recall leaving lasers behind when no part exists to recall
+- Changed when part recall reparents the part to fix visual offsets during the animation
