@@ -52,13 +52,15 @@ Removes anything snapped to the screen's surface, ex. pen strokes
 Bitbot emits light from his eye. Light comes from Drone's chest when Bitbot is retracted and eye while in Bitbot mode.
 ### Modularity
 ###### Toggle
-Toggles whether or not the Drone's arms, hands, and head are grabbable by anyone. The screen is always grabbable by trusted users, the hands and arms are grabbable by any trusted user except the pilot, and the head is only grabbable with modularity enabled.
+Toggles whether or not the Drone's arms, hands, legs, feet, and head are grabbable by anyone. The screen is always grabbable by trusted users, the hands, arms, legs, and feet are grabbable by any trusted user except the pilot, and the head is only grabbable with modularity enabled.
 ###### Recall Parts
-Any detached body parts are flown back to their sockets.
+Any detached body parts are flown back to their sockets by plasma tethers.
 ###### Repopulate Parts
-Automatically replenishes any missing screens, arms, hands, legs, and/or feet
+Automatically replenishes any missing screens, arms, hands, legs, feet, and/or the Alpha Bitbot
 ###### Eject
 Forcibly releases parts from modular snappers and causes them to behave like projectiles
+###### DRM
+Activates Duplicate Rusty Mitigation to destroy all drone parts not connected to the unit
 ### Bitbot
 ###### Return
 Calls Bitbot back to the drone's shoulder if he's in camera mode
@@ -165,7 +167,8 @@ Use the right hand to high five someone while holding left grip and touching the
 - One Bitbot Multitool can idle at the right shoulder, and additional Bitbots will form a swarm behind the drone.
 - Entering broadcast mode in the Rusty Biomimicry Facility will display the Drone’s face on the hex panels.
 - Placing the screen on the face of a certain individual causes a unique effect.
-- Hands, arms, and power core are fully modular and can be duplicated or deleted without permanent damage
+- Hands, arms, legs, feet, screen, Alpha Bitbot, and power core are fully modular and can be duplicated or deleted without permanent damage
 - Hand functionality can be used by anyone holding it.
 - Bitbot or the chest hexagon projects grab lasers when laser grabbing or when physical grabbing without a hand attached/deployed
 - Either antenna can be cranked like a lever for a funny slot machine effect
+- Legs will auto-deploy in alternate gravity

@@ -60,17 +60,15 @@
 ### HANDS
 
 - Shield sounds for colliding and sword hit
-- Finish the Gunshift
 - Holding secondary should rotate shields forward
+- Launchable thrusters to attach to things and make them fly away
 ### SCREEN
 
 - Add connection prongs to backside
 - Add socket ports to head
 ### LEGS
 
-- Give stepping a higher distance tolerance if the caster isn't hitting for hanging off edges
-- Adjust how speed affects step length
-- Basically completely rework
+- Stop the tippy taps while standing still
 ### EXOSUIT
 
 - Add ability to swap arm control between wearer and pilot

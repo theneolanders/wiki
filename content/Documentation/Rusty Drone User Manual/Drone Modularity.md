@@ -52,5 +52,6 @@ RustyHand Snappers can read the following parent values
 | Deployed  | Bool      | If the arm has a retraction state, this controls it                   |
 | Grabbable | Bool      | Whether or not the part can be grabbed.                               |
 | Chirality | Bool      | Determines chirality (if applicable). True for right, False for left. |
+| Elbow     | Slot      | Drives the LookAt in the wrist joint                                  |
 | PartType* | String    | Indicates what type of SnapTarget the part is attached to             |
 *\*PartType has support for "Eye", "Arm", "Leg", "Hand", "Foot", and "Neck"*
