@@ -1216,3 +1216,5 @@
 - Torso rotation now takes head facing direction into account to offset the hand average points forwards, reducing awkward flipping
 - Mitigated part recall leaving lasers behind when no part exists to recall
 - Changed when part recall reparents the part to fix visual offsets during the animation
+- Updated torso leaning to cooperate better with rocket/bike mode
+- Modified the conditions for the chest thruster to activate in rocket mode
