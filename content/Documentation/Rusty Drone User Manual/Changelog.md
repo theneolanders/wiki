@@ -1218,3 +1218,7 @@
 - Changed when part recall reparents the part to fix visual offsets during the animation
 - Updated torso leaning to cooperate better with rocket/bike mode
 - Modified the conditions for the chest thruster to activate in rocket mode
+- Minigun is now fully modular, saving nearly 500 slots!
+- Fixed Shields positioning incorrectly in turret mode due to reading the wrong variable
+- Heavily optimized the new Minigun module
+- Optimized Buster module slightly
