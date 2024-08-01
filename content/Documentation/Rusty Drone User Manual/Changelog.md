@@ -1222,3 +1222,4 @@
 - Fixed Shields positioning incorrectly in turret mode due to reading the wrong variable
 - Heavily optimized the new Minigun module
 - Optimized Buster module slightly
+- Stepping is now handled by RaycastOnes instead of slots being driven
