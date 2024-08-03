@@ -1221,5 +1221,6 @@
 - Minigun is now fully modular, saving nearly 500 slots!
 - Fixed Shields positioning incorrectly in turret mode due to reading the wrong variable
 - Heavily optimized the new Minigun module
+- Minigun and Buster now both call laser shot projectiles from the drone rather than generating their own
 - Optimized Buster module slightly
 - Stepping is now handled by RaycastOnes instead of slots being driven
