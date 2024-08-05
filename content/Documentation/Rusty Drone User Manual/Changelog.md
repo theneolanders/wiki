@@ -1224,3 +1224,10 @@
 - Minigun and Buster now both call laser shot projectiles from the drone rather than generating their own
 - Optimized Buster module slightly
 - Stepping is now handled by RaycastOnes instead of slots being driven
+- Disabled a bunch of flux that can function while off
+- Updated HexLoop template in drone Dataspace
+- Buster module now uses updated HexLoop
+- Boosting now uses the updated HexLoop template
+- HexLoops now have a point light
+- Removed two HexLoops from repulsor
+- Charge shot now emits a HexLoop on hit
