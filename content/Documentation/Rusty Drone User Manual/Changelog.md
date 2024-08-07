@@ -1231,3 +1231,11 @@
 - HexLoops now have a point light
 - Removed two HexLoops from repulsor
 - Charge shot now emits a HexLoop on hit
+- Greatly compacted part receiving circuit using multiplexes to control flow paths
+- Added support for head modules
+- Converted railgun to a head module
+- Removed railgun animation circuitry from the drone, it's all handled on the module now
+- Improved railgun blast effect
+- Improved railgun animation
+- Optimized railgun visuals
+- Modified how Bitbot's plasma tethers work to increase reliability
