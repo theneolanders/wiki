@@ -17,11 +17,8 @@
 ### MODULARITY
 
 - Make head modular
-- Make Bitbot modular
 - Make legs modular (the system, the actual legs already are)
-- Make minigun modular
 - Figure out dynamic flux anchoring system
-- Locally drive persistence of parts as part of DRM (Duplicate Rusty Mitigation)
 ### DRONE CONTROL
 
 - Toggle for remote menu signaling (just put dynamic impulse target location through a conditional)
@@ -44,8 +41,6 @@
 ### RAILGUN MODE
 
 - Design proper stabilizers
-- Improve the blast effect
-- Integrate as a proper module
 ### BITBOT MODE
 
 - Allow turning into a tooltip
@@ -68,7 +63,7 @@
 - Add socket ports to head
 ### LEGS
 
-- Stop the tippy taps while standing still
+- Prevent weird stretching on activation and landing
 ### EXOSUIT
 
 - Add ability to swap arm control between wearer and pilot
