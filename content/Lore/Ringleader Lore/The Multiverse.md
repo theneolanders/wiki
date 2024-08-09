@@ -27,25 +27,25 @@ Without sufficient permeability, a universe will eventually experience [heat dea
 ---
 ## Physical Laws
 
-Each timeline in the multiverse has a base set of laws that govern their behavior. These laws are the ones we, [[Lore Information|in real life]], are familiar with. They include things like electromagnetism, gravity, and time.
+Each timeline in the multiverse has a base set of laws that govern their behavior. These laws are the ones we, [[Lore Information|in real life]], are familiar with. They include concepts such as electromagnetism, gravity, and time.
 
 Barring a few exceptions, any properties of a universe that fall outside the realm of proven science can be regarded as [[The Multiverse#Magic As Alternative Physics|alternative physics]].
 
 ---
 ## Magic As Alternative Physics
 
-When a character or setting uses a set of rules that is incongruent with typical physics, it is often referred to as magic. The model of "typical" physics is [[The Primary Timeline]], as it has a remarkably stability while still being permeable enough to interact with the multiverse, But this doesn't necessarily make the physics of other timelines "incorrect."
+When a character or setting uses a set of rules that is incongruent with typical physics, it is often referred to as magic. The model of "typical" physics is based on what is present in [[The Primary Timeline]], as it has remarkable stability while still being permeable enough to interact with the greater multiverse. This doesn't necessarily make the physics of other timelines "incorrect", just different.
 
-[[Psionics]] in [[The Secondary Timeline]] are an example of this phenomenon. The consciousness field has clear rules and parameters through which it can be interacted. Though these forces are not present in the Primeline, they are still able to be understood and analyzed. Thus, the difference between alternative physics and True Magic can be defined as whether or not internal consistency can be found, however, any procedures of alternative physics that conflict with the laws of thermodynamics are most likely pulling energy from Underspace, which is a form of True Magic.
+[[Psionics]] in [[The Secondary Timeline]] are an example of this phenomenon. The consciousness field has clear rules and parameters through which it can be interacted. Though these forces are not present in the Primeline, they are still able to be understood and analyzed. Thus, the difference between alternative physics and True Magic can be defined as whether or not internal consistency can be found. Note that any procedures of alternative physics that conflict with the laws of thermodynamics are most likely pulling energy from Underspace, which is a form of True Magic.
 
 ---
 ## True Magic
 
-Also known as Chaos Force, True Magic is the raw power of Underspace, which is defined by its chaotic and unpredictable, but usually convenient properties. True Magic is sometimes believed to have a mind of its own, creating very specific outcomes that would be extremely unlikely to happen through pure chance, but any attempts to find a rhyme or reason to its behaviors are usually met with failure and further confusion.
+Also known as Chaos Force, True Magic is the raw power of Underspace, which is defined by its chaotic and unpredictable (but usually convenient) properties. True Magic is sometimes believed to have a mind of its own, creating very specific outcomes that would be extremely unlikely to happen through pure chance, but attempts to find a rhyme or reason to its behaviors are usually met with failure and further confusion.
 
 Despite being referred to as "magic", True Magic is not entirely limited to timelines with arcane themes or permeable membranes. Despite being bound entirely by the laws of physics, [[Lore/Rustybot Lore/Rustybot|Rustybot]] is technically a user of Chaos Force due to his development of [[Rusty Manufacturing#Underspace Harvester Cores|Underspace Harvester Cores]], allowing him to exist on the same level as those from more loosely-bound universes.
 
-As unfiltered True Magic is completely unpredictable to the level of being functionally useless and usually dangerous, most universes that naturally channel large amounts of True Magic have physical laws that facilitate the controlled use of True Magic.
+As unfiltered True Magic is completely unpredictable to the level of being functionally useless and usually dangerous, most universes that naturally channel large amounts of True Magic have physical laws that facilitate its controlled use.
 
 ---
 ## Divergence
@@ -62,4 +62,4 @@ Strands are the forces that pull universes with similar concepts closer together
 ---
 ## The Singularity and The Cycle
 
-The Ringleaders Multiverse runs on the assumption that a 100% entropy system and a 0% entropy system are virtually indistinguishable, this creates a model of a universe where each timeline starts and ends in a singularity point representing a blank, homogenous state of existence. This singularity point is hypothesized to be one in the same with Underspace, essentially acting as a well of potential that all of existence draws upon. In a classical universe it will only retain a fixed amount of energy and will play out its existence from big-bang to heat-death in a closed loop, then return its potential to the singularity, but universes with permeable membranes can draw from Underspace and communicate with other permeable universes, allowing for some universes to exist outside of the standard cycle of the multiverse by gaining (or occasionally losing) more energy than they started out with. This allows universes to have a net gain of usable energy that allows them to persist indefinitely.
+The Ringleaders Multiverse runs on the assumption that a 100% entropy system and a 0% entropy system are virtually indistinguishable. This creates a model of a universe where each timeline starts and ends in a singularity point representing a blank, homogenous state of existence. This singularity point is hypothesized to be one in the same with Underspace, essentially acting as a well of potential that all of existence draws upon. In a classical universe it will only retain a fixed amount of energy and will play out its existence from big-bang to heat-death in a closed loop, then return its potential to the singularity, but universes with permeable membranes can draw from Underspace and communicate with other permeable universes, allowing for some universes to exist outside of the standard cycle of the multiverse by gaining (or occasionally losing) more energy than they started out with. This allows universes to have a net gain of usable energy that may see them persisting indefinitely.
