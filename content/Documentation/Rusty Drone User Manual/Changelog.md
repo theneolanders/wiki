@@ -1241,3 +1241,4 @@
 - Modified how Bitbot's plasma tethers work to increase reliability
 - Converted legs system to a torso module
 - Fixed a few bugs based on how legs are activated/deactivated
+- FPS counter and controller battery displays now use ValueTextDrivers instead of flux
