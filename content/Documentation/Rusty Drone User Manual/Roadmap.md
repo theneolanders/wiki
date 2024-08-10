@@ -12,6 +12,7 @@
 - Bubble shield
 - Some kind of teleportation system
 - Deployable zipline points
+- Display who pulled the lever using notification system when gambling occurs
 ### CLOUD SPAWNING
 
 ### MODULARITY
