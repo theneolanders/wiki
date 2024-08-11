@@ -1242,3 +1242,6 @@
 - Converted legs system to a torso module
 - Fixed a few bugs based on how legs are activated/deactivated
 - FPS counter and controller battery displays now use ValueTextDrivers instead of flux
+- Updated multitool DRM
+- Fixed legs not being grabbable due to broken reference from modularizing
+- Fixed right touch point variable being broken
