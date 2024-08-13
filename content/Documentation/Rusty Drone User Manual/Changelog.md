@@ -1245,3 +1245,4 @@
 - Updated multitool DRM
 - Fixed legs not being grabbable due to broken reference from modularizing
 - Fixed right touch point variable being broken
+- Updated how the user list is cycled through on the left hand menu
