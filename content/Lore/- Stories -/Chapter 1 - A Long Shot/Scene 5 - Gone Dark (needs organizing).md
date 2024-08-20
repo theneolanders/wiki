@@ -77,11 +77,13 @@ Production capability: Nada. But I can fix that.
 
 Ok, some sacrifices might have to be made. But if my plan works...
 
+```
 connection established
 
 transmitting...
 
 transmission complete
+```
 
 Time to get started.
 
