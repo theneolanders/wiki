@@ -10,7 +10,13 @@
 
 **Dakota, Earth**
 
-**July 6th, 2168**
+**September 22nd, 2162**
+
+Today's the day...
+
+I'm staring up at the entrance sign to *Flow Headquarters*! And I'm about to walk inside! **As an intern**!
+
+"Pick up the pace bud."
 
 Story beats:
 

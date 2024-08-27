@@ -9,6 +9,7 @@
 - The minigun sound driving doesn’t spool down correctly when retracting
 - Bitbot doesn't disappear quickly enough during rocket/bike/compact mode transformations
 - Dequipping suit mode doesn't reset hands
+- Recall lasers still appear when there's no part to recall, then get stuck until a successful attempt is made
 
 #### Sequence breaks
 - Turret mode doesn't mesh well with rocket/bike mode

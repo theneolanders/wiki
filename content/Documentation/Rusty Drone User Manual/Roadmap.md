@@ -18,7 +18,6 @@
 ### MODULARITY
 
 - Make head modular
-- Make legs modular (the system, the actual legs already are)
 - Figure out dynamic flux anchoring system
 ### DRONE CONTROL
 

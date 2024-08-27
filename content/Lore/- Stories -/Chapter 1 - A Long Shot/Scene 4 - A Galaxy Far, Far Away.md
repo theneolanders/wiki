@@ -33,7 +33,7 @@ I take the digital equivalent of a deep breath, then step into the view of the c
 
 I approach the dormant drone and begin my speech, “This journey represents the breaking of a barrier the likes of which have never been seen before. Andromeda is a distant place, so far removed from reality in our minds that even now I speak of it as if it were a single location. The truth is that it encompasses a galactic environment even more expansive than our own. One with more stars, more worlds, and more possibilities than we can conceive. My arrival will be a show of humanity’s ability to explore untold new reaches of our universe.”
 
-“It has been said that we do things not because they are easy, but because they are hard. I say, why allow them to be hard at all? In the blink of an eye, I will find myself amidst new horizons that were thought to be out of reach for centuries to come. I do it not because it is hard, but because it was, and through effort, spirit, and ingenuity, we made it easy. Thank you.”
+“It has been said that we do things not because they are easy, but because they are hard. I say, why allow them to be hard at all? In the blink of an eye, I will find myself amidst new horizons that were thought to be out of reach for centuries to come. I do it not because it is hard, but because it used to be, and through effort, spirit, and ingenuity, we *made* it easy. Thank you.”
 
 Silently grateful I didn’t flub up any lines, I sit in the chair to the light applause of the scientists present. One of them steps up beside me and reaches towards my primary drive port, which I unlock and allow to open. I lean back, falling into sensory deprivation as he removes the part of me that I inhabit.
 
@@ -55,6 +55,6 @@ I raise my hands and visually inspect my new palms, taking in the intricacies of
 
 Once again turning to the camera and waving, I drift towards the transfer chamber. By now there will be a narration of the process on the feed so I don’t need to say anything. All I have to do is focus on the task at hand.
 
-First: the transfer chamber needs a load to send to its destination. That’s me. Second: the chamber seals itself and depressurises. Sending air with me that will immediately dissipate into the vacuum of space would be a massive waste of energy. Third: both myself and the team double triple check the calibration of the target point to make sure I don’t get shot into the planet we want me in orbit around, or that I’m not left in interstellar space a galaxy away without even a warp drive. Fourth: I smile for the camera, I give a salute to the team, and I wave to my mom through two layers of glass.
+First: the transfer chamber needs a load to send to its destination. That’s me. Second: the chamber seals itself and depressurises. Sending air with me that will immediately dissipate into the vacuum of space would be a massive waste of energy. Third: both myself and the team double triple check the calibration of the target point to make sure I don’t end up inside the planet we want me in orbit around, or that I’m not left in interstellar space a galaxy away without even a warp drive. Fourth: I smile for the camera, I give a salute to the team, and I wave to my mom through two layers of glass.
 
 Fifth: I disappear.

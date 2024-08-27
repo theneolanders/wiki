@@ -14,6 +14,8 @@
 
 Sixth: I... Arrive? 
 
+...
+
 Where’s my sensory input? If everything went right, I should be able to see Quindlet right now.
 
 Running diagnostics, it seems there’s a protocol in place keeping my primary drive from interfacing with my body. At least, that’s my best guess. Not two seconds ago I was fully connected and now I can’t feel anything. Obviously, this makes no sense. That type of system is highly illegal if put in place on purpose, and no one would be stupid enough to make one by accident... Right?
