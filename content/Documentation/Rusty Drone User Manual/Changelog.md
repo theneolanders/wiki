@@ -1247,3 +1247,6 @@
 - Fixed right touch point variable being broken
 - Updated how the user list is cycled through on the left hand menu
 - Screen now repopulates slightly faster
+### 3.11
+- Slightly improved fingertip mesh
+- Slightly improved forearm extension mesh
