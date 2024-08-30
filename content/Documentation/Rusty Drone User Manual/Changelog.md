@@ -1250,3 +1250,5 @@
 ### 3.11
 - Slightly improved fingertip mesh
 - Slightly improved forearm extension mesh
+- Slightly improved thumbtip mesh and fingertips more
+- Added a variable override for disabling the nametag
