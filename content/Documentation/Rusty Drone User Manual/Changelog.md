@@ -1252,3 +1252,5 @@
 - Slightly improved forearm extension mesh
 - Slightly improved thumbtip mesh and fingertips more
 - Added a variable override for disabling the nametag
+- Added support for a Biped module
+- Adjusted torso leaning to prevent flipping out at high speeds
