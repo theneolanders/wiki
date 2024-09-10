@@ -20,7 +20,7 @@ As the only true [[Psionics|psionic]] of the group, she has the ability to manip
 
 ---
 
-### Leia
+### Leia Damini
 As a one-woman wrecking crew, she often forges a path for the others- often in a very chaotic fashion. 
 ##### Personality
 Mischievous, condescending and laid-back overall, Leia does things only if she feels like it. At times, she becomes overly energetic with no rhyme or reason. She has little regard for others' wishes and will violate their privacy as she pleases.
@@ -31,7 +31,7 @@ Uses implants originally intended for construction workers, now repurposed for t
 
 ---
 
-### Lily
+### Lily Fenn
 Works double-duty for the gang, assembling explosives and maintaining their weapons in her free time. 
 ##### Personality
 Her exposure to the chemicals she breathes has made her disposition rather deranged. It is due in part to this that she commonly underestimates the strength of her abilities, causing significantly more damage than planned. Outside of work, she is playful and often teases the other members- although she does care about them, especially doing her best to serve Alcea.
@@ -42,7 +42,7 @@ Uses her expertise to create explosives and chemical weapons used in the gang's 
 
 ---
 
-### Violet 
+### Violet Galano
 Analytical and level headed, she handles planning the heists; while breaking into digital networks to make sure things go exactly as she planned.
 ##### Personality
 As the most composed member of the gang, she often finds how the others work somewhat frustrating. This is primarily due to a difference in morals- she avoids violence wherever she can. But even despite that conflict of interest, she knows leaving the gang would only make things end worse.
