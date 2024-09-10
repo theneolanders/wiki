@@ -1254,3 +1254,6 @@
 - Added a variable override for disabling the nametag
 - Added support for a Biped module
 - Adjusted torso leaning to prevent flipping out at high speeds
+- Optimized some meshes
+- Locomotion module now uses data presets for walk/fly/bike modes
+- Rocket mode now uses a while loop instead of field hooking
