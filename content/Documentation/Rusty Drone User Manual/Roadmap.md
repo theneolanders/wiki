@@ -12,16 +12,13 @@
 - Bubble shield
 - Some kind of teleportation system
 - Deployable zipline points
+- Display who pulled the lever using notification system when gambling occurs
 ### CLOUD SPAWNING
 
 ### MODULARITY
 
 - Make head modular
-- Make Bitbot modular
-- Make legs modular (the system, the actual legs already are)
-- Make minigun modular
 - Figure out dynamic flux anchoring system
-- Locally drive persistence of parts as part of DRM (Duplicate Rusty Mitigation)
 ### DRONE CONTROL
 
 - Toggle for remote menu signaling (just put dynamic impulse target location through a conditional)
@@ -44,8 +41,6 @@
 ### RAILGUN MODE
 
 - Design proper stabilizers
-- Improve the blast effect
-- Integrate as a proper module
 ### BITBOT MODE
 
 - Allow turning into a tooltip
@@ -60,17 +55,15 @@
 ### HANDS
 
 - Shield sounds for colliding and sword hit
-- Finish the Gunshift
 - Holding secondary should rotate shields forward
+- Launchable thrusters to attach to things and make them fly away
 ### SCREEN
 
 - Add connection prongs to backside
 - Add socket ports to head
 ### LEGS
 
-- Give stepping a higher distance tolerance if the caster isn't hitting for hanging off edges
-- Adjust how speed affects step length
-- Basically completely rework
+- Prevent weird stretching on activation and landing
 ### EXOSUIT
 
 - Add ability to swap arm control between wearer and pilot

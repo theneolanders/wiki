@@ -1,6 +1,6 @@
 [[The Ringleaders]] is a fictional setting created by [[The Neolanders]]. The primary purpose of the narrative is to foster a creative environment where each member can write a representation of themselves into a cast of characters and explore the resulting interactions.
 
-In late 2018, Rustybot ([[Neolander Information/Rustybot|the person]], not [[Lore/Rustybot Lore/Rustybot|the character]]) wrote a short story to give some fictional backstory for his visual design style. Since that document, dozens of others have contributed ideas, characters, information, and scenes to that ever-expanding narrative world.
+In late 2018, Rustybot ([[Rustybot (User)|the person]], not [[Lore/Rustybot Lore/Rustybot|the character]]) wrote a short story to give some fictional backstory for his visual design style. Since that document, dozens of others have contributed ideas, characters, information, and scenes to that ever-expanding narrative world.
 
 [[The Multiverse|The Ringleaders Multiverse]] is deliberately set up in such a way that a given [[The Multiverse#The Timelines|timeline]] can have any rules the author desires and still be compatible with the rest of the story. At its core, the multiverse is intended to allow any character from any setting to interact with each other in a meaningful way.
 
@@ -36,3 +36,16 @@ First contact between Rustybot and The Swarm occurs.
 [[Lumina]] is later introduced to the Ringleaders after [[Leena Tuonen]] forced her to do a job involving them.
 ### 2202
 [[A Lizard First Contact|First contact]] between [[Zard]] and The Ringleaders.
+
+---
+# Narrative Mechanics
+
+## True Magic
+
+Also known as Chaos Force, True Magic is the raw power of Underspace being harnessed to bring a task to its least logical conclusion. Or at least, its most _interesting_ conclusion.
+
+True Magic is what allows abilities such as toonforce or fourth wall breaks to be entirely diegetic. It is an acknowledgement that [[The Ringleaders]] exist in fiction and that the rules can be broken for the sake of entertainment. As such, the real purpose of Chaos Force is to foster character development, important events and entertaining interactions.
+
+Importantly, True Magic is not limited to timelines with arcane themes or permeable membranes. Despite being bound entirely by the laws of physics, [[Lore/Rustybot Lore/Rustybot|Rustybot]] is technically a user of Chaos Force due to his development of [[Rusty Manufacturing#Underspace Harvester Cores|Underspace Harvester Cores]]. While they may not have the same trappings as other magical devices, the cores fall under True Magic because they serve important narrative purposes. The first and most obvious is that access to an unlimited power supply allows Rustybot to create more interesting technology. The second and more important reason is that breaching the Primeline’s lower membrane caught the attention of [[Tavish Augmetitech]], essentially kickstarting the rest of the story.
+
+## Strands

@@ -3,7 +3,7 @@ Home: "[[The Primary Timeline]]"
 Position: "[[The Ringleaders|Ringleader Co-Founder]]"
 Birth: 2135-07-06
 ---
-*This page is for Rustybot the Ringleader (a fictional character). For Rustybot the Neolander (a real life human), see [[Neolander Information/Rustybot|Rustybot]]*
+*This page is for Rustybot the Ringleader (a fictional character). For Rustybot the Neolander (a real life human), see [[Rustybot (User)|Rustybot (User)]]*
 
 >[!NOTE] Quote
 >"Lasers solve literally every problem."
@@ -41,7 +41,7 @@ Melody married Rodney Tsur in 2130. She later gave birth to Toby Tsur in 2135.
 # Personality
 Toby Tsur was known for being an extremely driven individual. He was described as being "happy to speak with me but clearly anxious to get back to work" by an interviewer shortly after Rusty Manufacturing's announcement of the [[Quindol System|Quindol]] expedition. An extremely intelligent scientist with PHDs in numerous technological fields, Toby strongly believed that constant improvement was his life's purpose. Even as the CEO of one of the most successful companies in history he only paid himself enough to get by, devoting the rest of Rusty Manufacturing's funds and his own time to developments that would benefit humanity as a whole.
 
-In stark contrast to his previous self, Rustybot's most notable character trait is his ego. The Andromeda Incident shattered his trust in humanity. Not just in the moral nature of people but in their competence. As such, he begins to believe himself to be the only individual in the universe capable of driving scientific progress. This shift in outlook causes his natural propensity for problem solving to refocus. With securing humanity's future no longer a personal priority, he instead does everything in his power to secure his own. As opposed to his life on Earth where he had a constant stream of issues to resolve or improve and barely enough time to tackle all of it, he now finds himself isolated and without a schedule.
+In stark contrast to his previous self, Rustybot's most notable character trait is his ego. The Andromeda Incident shattered his trust in humanity. Not just in the moral nature of people but in their competence. As such, he begins to believe himself to be the only individual in the universe capable of driving scientific progress. This shift in outlook causes his natural propensity for problem solving to refocus. With securing humanity's future no longer a personal priority, he instead does everything in his power to secure his own at all costs. As opposed to his life on Earth where he had a constant stream of issues to resolve or improve and barely enough time to tackle all of it, he now finds himself isolated and without a schedule.
 
 Rustybot develops an abundance of weaponry and defense technology during his isolation despite coming across no external threatening presences in his new home galaxy. His desire to protect himself and fear of being hurt again cause an overwhelming urge to expand his industry at an exponential rate. In a sense, the constant increase in manufacturing potential of Rusty Manufacturing is Rustybot attempting to satiate his newfound paranoia.
 

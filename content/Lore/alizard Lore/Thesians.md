@@ -1,4 +1,4 @@
-Thesians are the imperfect fragments of the original Perfect Thesian. Thesians naturally produce [[Thesianite]] from their back, head, and other parts of their body and are goopy in nature.
+Thesians are the imperfect fragments of the original Perfect Thesians. Thesians naturally produce [[Thesianite]] from their back, head, and other parts of their body and are goopy in nature.
 # Abilities 
 ## Replication
 Thesians naturally try to replicate creatures that surround them, more intelligent Thesians will create a body based on their personality.

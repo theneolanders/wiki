@@ -23,7 +23,7 @@ We stayed like that for probably a solid minute before Clyde clears his throat, 
 
 Before he feels the need to awkwardly explain himself, I chuckle and step in line with him for the rest of the walk to the transfer room. The whole thing will be publicly streamed of course, but for security reasons the actual process will occur in a sealed chamber underground.
 
-We entered, and I finally get to lay eyes on my new hull in person. The “Rustybot” drone model. An old joke name of mine that I think suits the industrial practicality of this visual style perfectly. It’s where the name for the company came from, so what better moment to use the term could there be than an intergalactic journey?
+We entered, and I finally get to lay eyes on my new hull in person. The “Rustybot” drone model. An old joke name of mine that I think suits the industrial practicality of this visual style perfectly.
 
 It sits docked to a support stand in the center of the room next to what resembles a dentist’s chair. A boxy, orange and grey metallic chassis with no lower body below the abdomen. Who needs legs in space, right? Instead, a set of hexagonal hover thrusters will allow me to safely descend during planetfall, with additional hexpads positioned strategically at various joints and surfaces for omnidirectional acceleration, stabilization, and heat dissipation.
 
@@ -33,7 +33,7 @@ I take the digital equivalent of a deep breath, then step into the view of the c
 
 I approach the dormant drone and begin my speech, “This journey represents the breaking of a barrier the likes of which have never been seen before. Andromeda is a distant place, so far removed from reality in our minds that even now I speak of it as if it were a single location. The truth is that it encompasses a galactic environment even more expansive than our own. One with more stars, more worlds, and more possibilities than we can conceive. My arrival will be a show of humanity’s ability to explore untold new reaches of our universe.”
 
-“It has been said that we do things not because they are easy, but because they are hard. I say, why allow them to be hard at all? In the blink of an eye, I will find myself amidst new horizons that were thought to be out of reach for centuries to come. I do it not because it is hard, but because it was, and through effort, spirit, and ingenuity, we made it easy. Thank you.”
+“It has been said that we do things not because they are easy, but because they are hard. I say, why allow them to be hard at all? In the blink of an eye, I will find myself amidst new horizons that were thought to be out of reach for centuries to come. I do it not because it is hard, but because it used to be, and through effort, spirit, and ingenuity, we *made* it easy. Thank you.”
 
 Silently grateful I didn’t flub up any lines, I sit in the chair to the light applause of the scientists present. One of them steps up beside me and reaches towards my primary drive port, which I unlock and allow to open. I lean back, falling into sensory deprivation as he removes the part of me that I inhabit.
 
@@ -55,6 +55,34 @@ I raise my hands and visually inspect my new palms, taking in the intricacies of
 
 Once again turning to the camera and waving, I drift towards the transfer chamber. By now there will be a narration of the process on the feed so I don’t need to say anything. All I have to do is focus on the task at hand.
 
-First: the transfer chamber needs a load to send to its destination. That’s me. Second: the chamber seals itself and depressurises. Sending air with me that will immediately dissipate into the vacuum of space would be a massive waste of energy. Third: both myself and the team double triple check the calibration of the target point to make sure I don’t get shot into the planet we want me in orbit around, or that I’m not left in interstellar space a galaxy away without even a warp drive. Fourth: I smile for the camera, I give a salute to the team, and I wave to my mom through two layers of glass.
+First: the transfer chamber needs a load to send to its destination. That’s me. Second: the chamber seals itself and depressurises. Sending air with me that will immediately dissipate into the vacuum of space would be a massive waste of energy. Third: both myself and the team double triple check the calibration of the target point to make sure I don’t end up inside the planet we want me in orbit around, or that I’m not left in interstellar space a galaxy away without even a warp drive. Fourth: I smile for the camera, I give a salute to the team, and I wave to my mom through two layers of glass.
 
 Fifth: I disappear.
+
+---
+
+**Toby Tsur**
+
+**Primary Drive, Unknown**
+
+**Unknown**
+
+Sixth: I... Arrive? 
+
+...
+
+Where’s my sensory input? If everything went right, I should be able to see Quindlet right now.
+
+Running diagnostics, it seems there’s a protocol in place keeping my primary drive from interfacing with my body. At least, that’s my best guess. Not two seconds ago I was fully connected and now I can’t feel anything. Obviously, this makes no sense. That type of system is highly illegal if put in place on purpose, and no one would be stupid enough to make one by accident... Right?
+
+No, of course not. I have faith in my fellow programmers. Maybe the jump jostled me hard enough to destroy my drone and only my drive remains. Implausible, but possible.
+
+I guess... I wait for rescue? Also implausible. Perhaps even more so.
+
+...
+
+Ok. So I can’t move, see, communicate, or modify my situation in any way. I can think... and uh... that’s it. Um. I guess I wait longer.
+
+...
+
+Uh oh.

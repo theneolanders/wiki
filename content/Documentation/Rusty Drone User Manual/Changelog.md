@@ -1182,3 +1182,78 @@
 - Ear and Visor buttons are now on the root of the head
 - Added User/IsOnGround variable
 - Legs no longer retract on ResetRustybot dynpulse if a body module is connected
+- Antenna can no longer be pulled while drone is shut down
+- Added dynamic variable space to drone head
+- Adjusted shoulder panel positions
+- Changed dynamic variable space of feet to RustyClaw so all dynspace names now match the tag of the object
+- Moved head grabbability control to the head itself
+- Part recall is now handled by a central while loop instead of each part tweening itself
+- Improved part recall animation
+- Part recall now has visual lasers
+- Part Ejector now cancels when recall is activated
+- Fixed recall lasers instancing when synced part is null
+- Turned Nametag text into a dynamic variable field
+- Nametag text now resets on reboot
+- Power supply calculation can now be overridden by body modules
+- High five effect is now a circle emitter and oriented based on the slap direction
+- Further improved torso leaning to behave more correctly
+- Began reworking leg stepping behaviour
+- Removed old foot transforms circuit
+- Stepping will eventually be an async while loop where each foot follows a bezier curve path while animating
+- Modified screen and eye stencil materials to function more correctly
+- Loading animation is now properly inset into the display volume
+- Reticle is now further inset into the display
+### 3.10
+- Legs now step far more consistently (still needs fine tuning to prevent tippy taps)
+- Eyes are now slightly less inset into the display
+- Eyes now have mesh faces on the back to appear both 3d and hollow
+- Fixed booting text material having the wrong priority value, causing it to fail to be visible
+- DOS blinker is now further inset into the display
+- Screen tapping now runs on an async while loop and falls inwards as it expands
+- Fixed reboot working incorrectly
+- Replaced reticle cover mesh back to the small version for now
+- Fixed torso leaning only working correctly when facing directly forward in the playspace
+- Torso rotation now takes head facing direction into account to offset the hand average points forwards, reducing awkward flipping
+- Mitigated part recall leaving lasers behind when no part exists to recall
+- Changed when part recall reparents the part to fix visual offsets during the animation
+- Updated torso leaning to cooperate better with rocket/bike mode
+- Modified the conditions for the chest thruster to activate in rocket mode
+- Minigun is now fully modular, saving nearly 500 slots!
+- Fixed Shields positioning incorrectly in turret mode due to reading the wrong variable
+- Heavily optimized the new Minigun module
+- Minigun and Buster now both call laser shot projectiles from the drone rather than generating their own
+- Optimized Buster module slightly
+- Stepping is now handled by RaycastOnes instead of slots being driven
+- Disabled a bunch of flux that can function while off
+- Updated HexLoop template in drone Dataspace
+- Buster module now uses updated HexLoop
+- Boosting now uses the updated HexLoop template
+- HexLoops now have a point light
+- Removed two HexLoops from repulsor
+- Charge shot now emits a HexLoop on hit
+- Greatly compacted part receiving circuit using multiplexes to control flow paths
+- Added support for head modules
+- Converted railgun to a head module
+- Removed railgun animation circuitry from the drone, it's all handled on the module now
+- Improved railgun blast effect
+- Improved railgun animation
+- Optimized railgun visuals
+- Modified how Bitbot's plasma tethers work to increase reliability
+- Converted legs system to a torso module
+- Fixed a few bugs based on how legs are activated/deactivated
+- FPS counter and controller battery displays now use ValueTextDrivers instead of flux
+- Updated multitool DRM
+- Fixed legs not being grabbable due to broken reference from modularizing
+- Fixed right touch point variable being broken
+- Updated how the user list is cycled through on the left hand menu
+- Screen now repopulates slightly faster
+### 3.11
+- Slightly improved fingertip mesh
+- Slightly improved forearm extension mesh
+- Slightly improved thumbtip mesh and fingertips more
+- Added a variable override for disabling the nametag
+- Added support for a Biped module
+- Adjusted torso leaning to prevent flipping out at high speeds
+- Optimized some meshes
+- Locomotion module now uses data presets for walk/fly/bike modes
+- Rocket mode now uses a while loop instead of field hooking

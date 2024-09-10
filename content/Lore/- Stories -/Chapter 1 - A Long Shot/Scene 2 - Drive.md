@@ -10,13 +10,12 @@
 
 **Dakota, Earth**
 
-**July 6th, 2168**
+**September 22nd, 2162**
 
-Story beats:
+Today's the day...
 
-Apprenticeship at Flow
+I'm staring up at the entrance sign to *Flow Headquarters*! And I'm about to walk inside! **As an intern**!
 
-Getting to know coworker
+"Pick up the pace bud," I turn to see my guide smiling at me and gesturing at the front door, "You don't want to be late for your first day because you were too busy gawking at the gates."
 
-surpassing coworker
 
