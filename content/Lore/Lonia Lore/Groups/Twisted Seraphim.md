@@ -9,8 +9,8 @@ This shakeup was caused by her unwilling recruitment by [[Tavish Augmetitech]].
 ---
 
 ## Active Members
-### Alcea
-The former leader of the group before Lumina was taken in. After Lumina's departure, she returned to that position.
+### Alcea Lemieux 
+The former leader of the group before Lumina was taken in. After Lumina's departure, she returned to that position. Her sister is [[Mallory Lemieux]] who owns [[L'Armurerie Lemieux]].
 ##### Personality
 Highly ambitious, she aims to dominate every situation she finds herself in. Although she appears apathetic on the surface, she is highly motivated by aggression, materialism, and megalomania. She believes that she must always come first, even to the detriment of her own gang. 
 ##### Appearance
