@@ -33,7 +33,7 @@ First contact between Rustybot and The Swarm occurs.
 ### 2200
 [[Jackson 'Jack' Jensen]] travels to [[The Primary Timeline]] and [[The Ringleaders]] are officially formed.
 
-[[Lumina]] is later introduced to the Ringleaders after [[Leena Tuonen]] forced her to do a job involving them.
+[[Lumina Valo]] is later introduced to the Ringleaders after [[Leena Tuonen]] forced her to do a job involving them.
 ### 2202
 [[A Lizard First Contact|First contact]] between [[Zard]] and The Ringleaders.
 

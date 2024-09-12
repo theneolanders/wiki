@@ -10,7 +10,7 @@ The Ringleaders council is the official title of the group as recognized by huma
 - [[Frank Jones]]
 - [[Jackson 'Jack' Jensen]]
 - [[Kerr-Splat]]
-- [[Lumina]]
+- [[Lumina Valo]]
 - [[Nimeeko]]
 - [[Pip The Painter]]
 - [[Lore/Rustybot Lore/Rustybot|Rustybot]]

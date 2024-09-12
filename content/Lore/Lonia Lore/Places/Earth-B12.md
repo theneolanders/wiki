@@ -1,4 +1,4 @@
-The planet [[Lumina]] was born on.
+The planet [[Lumina Valo]] was born on.
 
 Far into the future, Earth B-12 is a pale blue dot not unlike ours. In many ways, it shares similarities with the Earth of [[The Primary Timeline|the primary timeline]]- most notably, sharing the same present year. However, it differs significantly in terms of history. This history begins with the [[K'uminhyō]] coming to Earth-B12, and creating [[Celestial Witch|celestial witches]], who often were featured in future myths. 
 
