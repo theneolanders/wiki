@@ -2,7 +2,7 @@ An ancient race of shapeshifting deities born on the planet [[Remina]]. When not
 
 ### List of important K'uminhyō
 
-* [[Ninko]], a Light K'uminhyō currently bound to the human [[Lumina Valo]]
+* [[Ninko]], a Light K'uminhyō currently bound to the human [[Lumina Valo|Lumina]]
 * Miimko, an Earth K'uminhyō
 * Maki, a Fire K'uminhyō
 * Naoki, a Water K'uminhyō
