@@ -1257,3 +1257,4 @@
 - Optimized some meshes
 - Locomotion module now uses data presets for walk/fly/bike modes
 - Rocket mode now uses a while loop instead of field hooking
+- Adjusted locomotion animation parameters
