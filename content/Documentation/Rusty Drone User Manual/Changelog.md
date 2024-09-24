@@ -1258,3 +1258,7 @@
 - Locomotion module now uses data presets for walk/fly/bike modes
 - Rocket mode now uses a while loop instead of field hooking
 - Adjusted locomotion animation parameters
+- Fixed hands/arms receiving quick menu signals twice
+- Adjusted yanking strength of grapple
+- Fixed grapple yank activating with frame drops
+- Adjusted volume of grapple sounds
