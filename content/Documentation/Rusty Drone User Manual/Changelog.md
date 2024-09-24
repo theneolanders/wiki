@@ -1261,4 +1261,6 @@
 - Fixed hands/arms receiving quick menu signals twice
 - Adjusted yanking strength of grapple
 - Fixed grapple yank activating with frame drops
+- Updated treads animation
+- Updated treads activation driving
 - Adjusted volume of grapple sounds
