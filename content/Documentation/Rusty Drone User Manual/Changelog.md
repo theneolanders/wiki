@@ -1264,3 +1264,4 @@
 - Updated treads animation
 - Updated treads activation driving
 - Adjusted volume of grapple sounds
+- Began reworking the torso and head into a self-contained body module
