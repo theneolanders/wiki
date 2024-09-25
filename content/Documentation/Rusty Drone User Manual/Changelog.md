@@ -1265,3 +1265,7 @@
 - Updated treads activation driving
 - Adjusted volume of grapple sounds
 - Began reworking the torso and head into a self-contained body module
+- Fixed compact mode not working after body module rework
+- Fixed boot animation not working with body module rework
+- Fixed photo printing  not working after body module rework
+- Thruster lights now use the correct color
