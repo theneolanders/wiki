@@ -1269,3 +1269,6 @@
 - Fixed boot animation not working with body module rework
 - Fixed photo printing  not working after body module rework
 - Thruster lights now use the correct color
+- Torso and head now position based on flux rather than reparenting
+- Altered positioning of drone when shut down
+- Added new security feature(s) to drone and all modules
