@@ -41,7 +41,7 @@ Rustybot, thank you, you're genuinely inspiring, your work and ideas and creatio
 
 Amplified, you are the one who has sparked so much of my eventual originality, you with your own experience back in Anyland came up to me to sit there and essentially tell me how dumb it was that my entire story and character was entirely based on Portal 2, to come up with my own ideas. My entire process of creation stems from that moment, the question put in my head, "How do I come up with my own ideas?", and maybe that's an obvious question, but it was one I never thought about until then. Thank you a lot, you've been there a lot for me and my dumb questions that had blatantly obvious solutions, and you've been there for a lot more.
 
-\
+
 
 I hope no matter what day or time someone may be reading this, that their day is amazing and that they have a wonderful sleep tonight
 
