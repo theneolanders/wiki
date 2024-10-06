@@ -1272,3 +1272,7 @@
 - Torso and head now position based on flux rather than reparenting
 - Altered positioning of drone when shut down
 - Added new security feature(s) to drone and all modules
+- Fixed torso rotations having framelag due to overcomplicated hierarchy and an axis aligner
+- Head and torso are now driven by a positioning circuit at all times, eliminating the need to reparent them for bootup/shutdown animation
+- Streamlined torso leaning circuit
+- Cleaned up rocket mode animation
