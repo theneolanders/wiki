@@ -1278,3 +1278,4 @@
 - Cleaned up rocket mode animation
 - Smoothed speedometer
 - Fixed torso leaning too hard
+- Missiles now explode on collision
