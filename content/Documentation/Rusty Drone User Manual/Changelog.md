@@ -1279,3 +1279,5 @@
 - Smoothed speedometer
 - Fixed torso leaning too hard
 - Missiles now explode on collision
+- Anchor space no longer redundantly drives itself to origin
+- Charge shots are now clearable
