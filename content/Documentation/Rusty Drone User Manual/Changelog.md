@@ -1283,3 +1283,4 @@
 - Charge shots are now clearable
 - Modified missile control circuit to be more efficient
 - Added HUD labels to tractor tether module to indicate targeted user
+- Fixed tether HUD element turning off if the user didn't have an active cloud color
