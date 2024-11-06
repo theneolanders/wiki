@@ -1285,3 +1285,8 @@
 - Added HUD labels to tractor tether module to indicate targeted user
 - Fixed tether HUD element turning off if the user didn't have an active cloud color
 - Charge shot now detects collision more consistently
+- Added hex loop to Blaster's laser shot
+- Removed muzzle flash from Blaster
+- Removed muzzle flash from minigun
+- Updated laser shot projectile to have integrated muzzle flash
+- Multitool pen color pallet now emerges from the opposite hand as originally intended, removing the need for a second multitool to use it
