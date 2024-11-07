@@ -19,3 +19,8 @@ A 1v1 card battling game featuring beloved Neolanders characters, inside jokes, 
 
 ![[2024-01-29 00.13.51.webp]]
 
+---
+### Group Halloween Costume
+For Halloween 2024 The Neolanders went gleep glorp mode! Twelve of us turned ourselves into little green aliens or spaceships.
+
+![[2024-10-19 20.06.46.webp]]

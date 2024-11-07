@@ -1,5 +1,6 @@
 {
   "accentColor": "#24e5ff",
   "theme": "obsidian",
-  "interfaceFontFamily": "Tomorrow"
+  "interfaceFontFamily": "Tomorrow",
+  "textFontFamily": "Tomorrow"
 }

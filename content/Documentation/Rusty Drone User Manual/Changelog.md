@@ -1257,3 +1257,36 @@
 - Optimized some meshes
 - Locomotion module now uses data presets for walk/fly/bike modes
 - Rocket mode now uses a while loop instead of field hooking
+- Adjusted locomotion animation parameters
+- Fixed hands/arms receiving quick menu signals twice
+- Adjusted yanking strength of grapple
+- Fixed grapple yank activating with frame drops
+- Updated treads animation
+- Updated treads activation driving
+- Adjusted volume of grapple sounds
+- Began reworking the torso and head into a self-contained body module
+- Fixed compact mode not working after body module rework
+- Fixed boot animation not working with body module rework
+- Fixed photo printing  not working after body module rework
+- Thruster lights now use the correct color
+- Torso and head now position based on flux rather than reparenting
+- Altered positioning of drone when shut down
+- Added new security feature(s) to drone and all modules
+- Fixed torso rotations having framelag due to overcomplicated hierarchy and an axis aligner
+- Head and torso are now driven by a positioning circuit at all times, eliminating the need to reparent them for bootup/shutdown animation
+- Streamlined torso leaning circuit
+- Cleaned up rocket mode animation
+- Smoothed speedometer
+- Fixed torso leaning too hard
+- Missiles now explode on collision
+- Anchor space no longer redundantly drives itself to origin
+- Charge shots are now clearable
+- Modified missile control circuit to be more efficient
+- Added HUD labels to tractor tether module to indicate targeted user
+- Fixed tether HUD element turning off if the user didn't have an active cloud color
+- Charge shot now detects collision more consistently
+- Added hex loop to Blaster's laser shot
+- Removed muzzle flash from Blaster
+- Removed muzzle flash from minigun
+- Updated laser shot projectile to have integrated muzzle flash
+- Multitool pen color pallet now emerges from the opposite hand as originally intended, removing the need for a second multitool to use it
