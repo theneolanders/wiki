@@ -3,7 +3,7 @@ Home: "[[Earth-B12|Finland, Earth B12]]"
 Position: "[[Celestial Witch]]"
 Creator: "[[Lonia (User)]]"
 ---
-![[LuminaDuoRender1.png | 400]]
+
 
 |          |                                   |
 | -------- | --------------------------------- |
