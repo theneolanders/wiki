@@ -1,4 +1,4 @@
-Built by [[Lore/Rustybot Lore/Rustybot|Rustybot]] and [[The Swarm]] in the year 2199, The Ring Steward is an artificial intelligence designed to be the station keeper of [[The Ring]].
+Built by [[Lore/Rustybot Lore/Rustybot|Rustybot]] and [[Memento]] in the year 2199, The Ring Steward is an artificial intelligence designed to be the station keeper of [[The Ring]].
 
 ---
 

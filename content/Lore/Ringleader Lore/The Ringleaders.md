@@ -17,6 +17,6 @@ The Ringleaders council is the official title of the group as recognized by huma
 - [[The Bardificer]]
 - [[The Conductor]]
 - [[The Ring Steward]]
-- [[The Swarm]]
+- [[Memento]]
 - [[Unit 19]]
 - [[Zard]]

@@ -57,7 +57,7 @@ Not only would then be the last time he could even make an attempt to preserve h
 
 #### Year 626 - 630
 
-Samuel would have an encounter of [[The Swarm]], revealing the existence of [[The Multiverse]] to him. He would then for a year be in contact with the very early [[The Ringleaders|Ringleaders]], contacting them for as much information as possible on the nearly impossible task of getting himself into a digital copy.
+Samuel would have an encounter of [[Memento]], revealing the existence of [[The Multiverse]] to him. He would then for a year be in contact with the very early [[The Ringleaders|Ringleaders]], contacting them for as much information as possible on the nearly impossible task of getting himself into a digital copy.
 
 His [[The Secondary Timeline|own universe's rules]] would barely allow for it, no margin of error could be allowed, no hiccup or failure to construct such a machine and in such a little amount of time too.
 He would find a convenient and unlikely partner, allowing [Rustybot](https://www.theneolanders.com/wiki/Lore/Rustybot-Lore/Rustybot) to do research on him in an attempt to figure out the innerworkings of the Splinter Anomaly, would bring access to an [[Timeline 2-B|alternate version]] of the Secondary Timeline, and soon enough would enter [[Sarah Kelly]] into his life.

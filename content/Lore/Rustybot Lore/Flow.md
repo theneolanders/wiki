@@ -8,4 +8,4 @@ The Datanet is an extension of the internet created using breakthrough [[Faster 
 
 Toby Tsur developed the Datanet for the betterment of humanity while working for [[Flow]], and user's enjoyed open access to it's services for no cost. This led to mass adoption of the system, to the point of nearly two thirds of earth's information traffic being routed through Flow's servers.
 
-The Datanet would undergo a massive loss of function as a result of the [[Andromeda Transfer Incident]], only fully recovering with the eventual help of [[The Swarm]].
+The Datanet would undergo a massive loss of function as a result of the [[Andromeda Transfer Incident]], only fully recovering with the eventual help of [[Memento]].
