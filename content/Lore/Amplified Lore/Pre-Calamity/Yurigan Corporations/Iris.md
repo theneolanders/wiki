@@ -1,0 +1,1 @@
+The Iris Corporation was one of the major [[Yurigans|Yurigan]] corporations on [[Zenitaf]]. They were the largest producer of consumer electronics on the planet.
