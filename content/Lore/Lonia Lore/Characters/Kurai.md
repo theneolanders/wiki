@@ -1,7 +1,0 @@
-WIP
-#### Personality
-
-#### Appearance
-
-#### Abilities
-
