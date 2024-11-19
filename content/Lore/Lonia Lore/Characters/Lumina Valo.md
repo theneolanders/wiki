@@ -16,15 +16,15 @@ Originally born as a human in Finland on [[Earth-B12]]. Later, she became a [[Ce
 --- 
 #### Personality
 Lumina is a risk taker, often gambling with her life for the possibility of reward. In conversation, she is highly talkative and will often make witty remarks at others' expense. She has a hard time staying still, always requiring physical or mental stimulation to keep herself engaged. 
-Her way of sneaking around is sometimes really attention giving due to her bold and loud approach to things. She is sometimes seen eating trees.
+Her way of sneaking around is sometimes really attention grabbing due to her bold and loud approach to things. She is sometimes seen eating trees.
 
 #### Appearance
 Ninko being a light [[K'uminhyō]] transformed Lumina from a human into a being made from solidified, magical light.
 
-She has fuchsia and violet hair, with the fuchsia hair covering most of her head, including long split bangs, and the violet hair tied up into two drill-shaped curls. She has dark teal freckles, her tongue is teal while her teeth are sharp like a sharks.
+She has fuchsia and violet hair, with the fuchsia hair covering most of her head, including long split bangs, and the violet hair tied up into two drill-shaped curls. She has dark teal freckles, her tongue and insides are teal while her teeth are white and sharp like a sharks.
 
 A glowing halo hangs above her head and a pair of glowing wings floats behind her. She wears an eyepatch with a purple and pink flower to cover her missing right eye. 
-Around her neck, she wears a glowing cross necklace. She wears a black off-the-shoulder shirt with purple shoulder straps. The shirt has a white cross across the front of her chest. On her arms, she wears fingerless gloves that go above her elbow, with belts strapping it down to her arm. Her nails glow in the dark. She wears a short purple skirt with a belt around it. On her left leg, she has two belts that wrapped around her thigh. She wears knee-high stockings with two white stripes at the top. She wears tall, purple, pirate-inspired boots with two buckles. 
+Around her neck, she wears a glowing cross necklace. She wears a black off-the-shoulder shirt with purple shoulder straps. The shirt has a white cross across the front of her chest. On her arms, she wears fingerless gloves that go above her elbow, with belts strapping it down to her arm. Her nails glow in the dark. She wears a short purple skirt with a belt around it. On her left leg, she has two belts that wrap around her thigh. She wears knee-high stockings with two white stripes at the top. She wears tall, purple, pirate-inspired boots with two buckles. 
 
 #### Abilities
 As the chosen avatar of [[Ninko]], Lumina has been bestowed Ninko's unique dominion over visible light. Clever usage of this power enables her to perform many feats that may not be immediately obvious. This includes, but is not limited to:  
