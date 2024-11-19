@@ -4,4 +4,4 @@ Built by [[Lore/Rustybot Lore/Rustybot|Rustybot]] and [[Memento]] in the year 21
 
 ## Steward 2.0
 
-During the 22XX period, Steward takes it upon himself to upgrade his base form using technology adapted from [[The Ring#The Archive|The Archive]]
+During the 22XX period, Steward takes it upon himself to upgrade his base form using technology adapted from [[The Ring#The Archive|The Archive]].
