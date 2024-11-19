@@ -2,8 +2,6 @@
 	"nodes":[
 		{"id":"dacb4cd7c8c16cd7","type":"file","file":"Lore/- Stories -/Chapter 4 - First Contact/Scene 1 - First Contact.md","x":-240,"y":-1360,"width":400,"height":400},
 		{"id":"4615c4f5507bbf95","type":"file","file":"Lore/Ringleader Lore/The Ring.md","x":280,"y":-1360,"width":400,"height":400},
-		{"id":"821bcbecb614871a","type":"file","file":"Lore/Ringleader Lore/The Ring Steward.md","x":280,"y":-840,"width":400,"height":400},
-		{"id":"6f273015d2e7a375","type":"text","text":"# 2199","x":405,"y":-1440,"width":151,"height":60},
 		{"id":"ba3b1c33361d5a6b","type":"file","file":"Lore/Spiketickett Lore/Events/Second Contact.md","x":800,"y":-1360,"width":400,"height":400},
 		{"id":"9c465a4be232be01","type":"text","text":"# 2184","x":-110,"y":-920,"width":140,"height":60},
 		{"id":"b856cf64fabba67f","type":"file","file":"Lore/Amplified Lore/Pre-Calamity/Zenitaf.md","x":-1880,"y":-840,"width":400,"height":400},
@@ -24,8 +22,6 @@
 		{"id":"44e2629c521d226d","type":"file","file":"Lore/Lonia Lore/Events/Ninko's Curse.md","x":1280,"y":-1850,"width":400,"height":400},
 		{"id":"cb200aac26356707","type":"file","file":"Lore/Lonia Lore/Characters/Lumina Valo.md","x":1279,"y":-2800,"width":400,"height":400},
 		{"id":"7ccd69ec86218e46","type":"file","file":"Lore/Lonia Lore/Events/Lumina's Ultimatum.md","x":1279,"y":-2320,"width":400,"height":400},
-		{"id":"1040ae3a7b01b1c0","type":"file","file":"Lore/alizard Lore/Zard.md","x":1760,"y":-2320,"width":400,"height":400},
-		{"id":"209973dee41a3148","type":"file","file":"Lore/alizard Lore/Thesians.md","x":1760,"y":-2800,"width":400,"height":400},
 		{"id":"d6cbaf9ace4e225a","type":"file","file":"Lore/Spiketickett Lore/Characters/Tavish Augmetitech/Shoguns/Jackson 'Jack' Jensen.md","x":800,"y":-2800,"width":400,"height":400},
 		{"id":"47a335bda7982f55","type":"text","text":"# 2200","x":1160,"y":-920,"width":151,"height":60},
 		{"id":"0dd6f652fabb772c","type":"file","file":"Lore/Portalmaster18 Lore/People/Samuel Kurt.md","x":2240,"y":-2800,"width":400,"height":400},
@@ -33,7 +29,13 @@
 		{"id":"63cd6ed0aaad00d1","type":"file","file":"Lore/Portalmaster18 Lore/Locations/Mantra Innovators.md","x":2240,"y":-2320,"width":400,"height":400},
 		{"id":"d29151973a2fb044","type":"file","file":"Lore/Portalmaster18 Lore/People/Unit 19.md","x":2240,"y":-1360,"width":400,"height":400},
 		{"id":"19687c37d8626df9","type":"file","file":"Lore/Ringleader Lore/The Ringleaders.md","x":2720,"y":-1360,"width":400,"height":400},
-		{"id":"94a3925bfbb764e3","type":"text","text":"# 22XX","x":2845,"y":-920,"width":151,"height":60}
+		{"id":"94a3925bfbb764e3","type":"text","text":"# 22XX","x":2845,"y":-920,"width":151,"height":60},
+		{"id":"6f273015d2e7a375","type":"text","text":"# 2199","x":405,"y":-920,"width":151,"height":60},
+		{"id":"821bcbecb614871a","type":"file","file":"Lore/Ringleader Lore/The Ring Steward.md","x":281,"y":-1850,"width":400,"height":400},
+		{"id":"1040ae3a7b01b1c0","type":"file","file":"Lore/alizard Lore/Zard.md","x":1760,"y":-2800,"width":400,"height":400},
+		{"id":"80a2fb4356fd52cc","type":"file","file":"Lore/alizard Lore/Locations/The Thesian Timeline.md","x":-2480,"y":-3560,"width":400,"height":400},
+		{"id":"209973dee41a3148","type":"file","file":"Lore/alizard Lore/Thesians.md","x":-1960,"y":-3560,"width":400,"height":400},
+		{"id":"89c2b2b4219cb9b7","type":"text","text":"# 2203","x":2365,"y":-920,"width":151,"height":60}
 	],
 	"edges":[
 		{"id":"09930fa5f79a8ce3","fromNode":"6fc6f7c96dc114ed","fromSide":"right","toNode":"8dc7f479d522871c","toSide":"left"},
@@ -41,8 +43,6 @@
 		{"id":"3176c0a67aefdd55","fromNode":"99518b4006e0cb19","fromSide":"right","toNode":"9df2e3896a2f749c","toSide":"left"},
 		{"id":"97616f60a1813709","fromNode":"b856cf64fabba67f","fromSide":"right","toNode":"6fc6f7c96dc114ed","toSide":"left"},
 		{"id":"4874d9b7e389c72d","fromNode":"dacb4cd7c8c16cd7","fromSide":"right","toNode":"4615c4f5507bbf95","toSide":"left"},
-		{"id":"96e16e82e36285f1","fromNode":"4615c4f5507bbf95","fromSide":"bottom","toNode":"821bcbecb614871a","toSide":"top"},
-		{"id":"e1ec7ddadc98deb9","fromNode":"209973dee41a3148","fromSide":"bottom","toNode":"1040ae3a7b01b1c0","toSide":"top"},
 		{"id":"e2efad67d7772e72","fromNode":"1040ae3a7b01b1c0","fromSide":"bottom","toNode":"a0d3ffb6a848a422","toSide":"top"},
 		{"id":"13bed148a6e8b3ad","fromNode":"84baab516866c76f","fromSide":"right","toNode":"8df1610a7856dca6","toSide":"left"},
 		{"id":"158aab30e5c08463","fromNode":"4615c4f5507bbf95","fromSide":"right","toNode":"ba3b1c33361d5a6b","toSide":"left"},
@@ -56,12 +56,16 @@
 		{"id":"69337e9e62b2cb03","fromNode":"7ccd69ec86218e46","fromSide":"bottom","toNode":"44e2629c521d226d","toSide":"top"},
 		{"id":"18eb39acc06deaf6","fromNode":"44e2629c521d226d","fromSide":"bottom","toNode":"2e4d78a980fa5937","toSide":"top"},
 		{"id":"a872a5798bb2facc","fromNode":"596552d3580556df","fromSide":"bottom","toNode":"cb200aac26356707","toSide":"top"},
-		{"id":"ae31d11fa3e2b352","fromNode":"596552d3580556df","fromSide":"bottom","toNode":"209973dee41a3148","toSide":"top"},
 		{"id":"345d0431332ddee5","fromNode":"596552d3580556df","fromSide":"bottom","toNode":"d6cbaf9ace4e225a","toSide":"top"},
 		{"id":"d8972e115aa533f9","fromNode":"596552d3580556df","fromSide":"bottom","toNode":"0dd6f652fabb772c","toSide":"top"},
 		{"id":"77e7269810311559","fromNode":"0dd6f652fabb772c","fromSide":"bottom","toNode":"63cd6ed0aaad00d1","toSide":"top"},
 		{"id":"d14a704e04be5b9a","fromNode":"63cd6ed0aaad00d1","fromSide":"bottom","toNode":"d29151973a2fb044","toSide":"top"},
 		{"id":"842af0ad801d0220","fromNode":"a0d3ffb6a848a422","fromSide":"right","toNode":"d29151973a2fb044","toSide":"left"},
-		{"id":"708b201f0d14e129","fromNode":"d29151973a2fb044","fromSide":"right","toNode":"19687c37d8626df9","toSide":"left"}
+		{"id":"708b201f0d14e129","fromNode":"d29151973a2fb044","fromSide":"right","toNode":"19687c37d8626df9","toSide":"left"},
+		{"id":"15ee1492863e7916","fromNode":"dacb4cd7c8c16cd7","fromSide":"top","toNode":"821bcbecb614871a","toSide":"left"},
+		{"id":"77532c73a576171d","fromNode":"821bcbecb614871a","fromSide":"bottom","toNode":"4615c4f5507bbf95","toSide":"top"},
+		{"id":"69b451995ac9cef4","fromNode":"596552d3580556df","fromSide":"bottom","toNode":"1040ae3a7b01b1c0","toSide":"top"},
+		{"id":"b02e5b0c21f23b72","fromNode":"80a2fb4356fd52cc","fromSide":"right","toNode":"209973dee41a3148","toSide":"left"},
+		{"id":"e98e9074a49e7b92","fromNode":"209973dee41a3148","fromSide":"right","toNode":"596552d3580556df","toSide":"left"}
 	]
 }
