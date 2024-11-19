@@ -15,7 +15,7 @@ IQT was developed by [[Lore/Rustybot Lore/Rustybot#Previously Known As Toby Tsur
 ---
 ## Tear Gates
 
-A tear gate is a highly unstable form of travel. In order to procure one, spacetime must be manipulated on both a macro and micro scale to coalesce two points into one. The only known user of tear gates is [[The Swarm]]
+A tear gate is a highly unstable form of travel. In order to procure one, spacetime must be manipulated on both a macro and micro scale to coalesce two points into one. The only known user of tear gates is [[Memento]]
 
 ---
 ## Entangloportation

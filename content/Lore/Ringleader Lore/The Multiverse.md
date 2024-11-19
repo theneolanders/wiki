@@ -48,11 +48,16 @@ Despite being referred to as "magic", True Magic is not entirely limited to time
 As unfiltered True Magic is completely unpredictable to the level of being functionally useless and usually dangerous, most universes that naturally channel large amounts of True Magic have physical laws that facilitate its controlled use.
 
 ---
+## Imbuement
+
+Imbuement is when repeated Underspace exposure modifies the physical properties of matter. This is mostly observed when matter in universes with naturally thin membranes becomes acclimated to the natural background Underspace energy within those worlds. Levels of Underspace exposure and other material variations can effect how this phenomena expresses itself, and is the basis for differences in how physical laws are expressed between universes while maintaining compatibility under fundamental physical laws. Different universes have notably different wavelengths of Underspace exposure present which in turn effects the way imbuement changes the physical properties of matter. A notable example of the effects of imbuement is the anomalous naturally occurring materials due to [[Yuris#The Yuris Anomaly|The Yuris Anomaly]]. While [[The Primary Timeline]] is normally defined by its stability and consistency, a single solar system's exposure to Underspace energy from its star was able to create materials that defied its normal laws, and in a way entirely unique to the primary timeline's faint underspace signature.
+
+---
 ## Divergence
 
 Divergence is the process by which two timelines emerge from one after an impactful event. When a great new technology is discovered in one but not another, those timelines will drift apart. If a traveler from another universe makes contact, a new split will occur. 
 
-In a manner of speaking, timelines can "overlap" in a sort of superposition if they are similar enough. In a different manner of speaking, timelines can be created when a random event or outside influence causes two outcomes to be equally likely.
+In a manner of speaking, timelines can "overlap" in a sort of superposition if they are similar enough, making them functionally one in the same. In a different manner of speaking, timelines can be created when a random event or outside influence causes two outcomes to be equally likely.
 
 ---
 ## Strands
