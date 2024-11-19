@@ -1291,3 +1291,5 @@
 - Updated laser shot projectile to have integrated muzzle flash
 - Multitool pen color pallet now emerges from the opposite hand as originally intended, removing the need for a second multitool to use it
 - Added sword hilt
+- Replaced blush text objects with a mesh and gave it a proper animation
+- Added directional indication lines to user trackers
