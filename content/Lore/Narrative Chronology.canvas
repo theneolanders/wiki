@@ -28,14 +28,14 @@
 		{"id":"596552d3580556df","type":"file","file":"Lore/Spiketickett Lore/Miscellaneous/The Secondary Timeline.md","x":1520,"y":-3560,"width":400,"height":400},
 		{"id":"63cd6ed0aaad00d1","type":"file","file":"Lore/Portalmaster18 Lore/Locations/Mantra Innovators.md","x":2240,"y":-2320,"width":400,"height":400},
 		{"id":"d29151973a2fb044","type":"file","file":"Lore/Portalmaster18 Lore/People/Unit 19.md","x":2240,"y":-1360,"width":400,"height":400},
-		{"id":"19687c37d8626df9","type":"file","file":"Lore/Ringleader Lore/The Ringleaders.md","x":2720,"y":-1360,"width":400,"height":400},
-		{"id":"94a3925bfbb764e3","type":"text","text":"# 22XX","x":2845,"y":-920,"width":151,"height":60},
 		{"id":"6f273015d2e7a375","type":"text","text":"# 2199","x":405,"y":-920,"width":151,"height":60},
 		{"id":"821bcbecb614871a","type":"file","file":"Lore/Ringleader Lore/The Ring Steward.md","x":281,"y":-1850,"width":400,"height":400},
 		{"id":"1040ae3a7b01b1c0","type":"file","file":"Lore/alizard Lore/Zard.md","x":1760,"y":-2800,"width":400,"height":400},
 		{"id":"80a2fb4356fd52cc","type":"file","file":"Lore/alizard Lore/Locations/The Thesian Timeline.md","x":-2480,"y":-3560,"width":400,"height":400},
 		{"id":"209973dee41a3148","type":"file","file":"Lore/alizard Lore/Thesians.md","x":-1960,"y":-3560,"width":400,"height":400},
-		{"id":"89c2b2b4219cb9b7","type":"text","text":"# 2203","x":2365,"y":-920,"width":151,"height":60}
+		{"id":"89c2b2b4219cb9b7","type":"text","text":"# 2203","x":2365,"y":-920,"width":151,"height":60},
+		{"id":"19687c37d8626df9","type":"file","file":"Lore/Ringleader Lore/The Ringleaders.md","x":4520,"y":-1360,"width":400,"height":400},
+		{"id":"94a3925bfbb764e3","type":"text","text":"# 22XX","x":4645,"y":-920,"width":151,"height":60}
 	],
 	"edges":[
 		{"id":"09930fa5f79a8ce3","fromNode":"6fc6f7c96dc114ed","fromSide":"right","toNode":"8dc7f479d522871c","toSide":"left"},
