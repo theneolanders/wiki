@@ -18,6 +18,9 @@ Originally born as a human in Finland on [[Earth-B12]]. Later, she became a [[Ce
 Lumina is a risk taker, often gambling with her life for the possibility of reward. In conversation, she is highly talkative and will often make witty remarks at others' expense. She has a hard time staying still, always requiring physical or mental stimulation to keep herself engaged. 
 Her way of sneaking around is sometimes really attention grabbing due to her bold and loud approach to things. She is sometimes seen eating trees.
 
+#### Life on Earth
+wip
+
 #### Appearance
 Ninko being a light [[K'uminhyō]] transformed Lumina from a human into a being made from solidified, magical light.
 
@@ -32,4 +35,10 @@ As the chosen avatar of [[Ninko]], Lumina has been bestowed Ninko's unique domin
 - Illusions and invisibility (she often uses this to conceal her body parts, primarily her wings and halo)
 - Conjuring objects from hard light (like her gun)
 - Light-based attacks (lasers, flashes, slashes, and waves)
+
+---
+
+#### Caligo
+Lumina's "real form" after forming the pact with [[Ninko]].
+this part is mostly wip still.
 
