@@ -1,5 +1,5 @@
 A general story overview of [[Unit 19]].
-Most of this is character theoretical as not many doccuments or ideas are written down, as well as a lack of specific years as his lifespan is not nearly as dense or limited as [[Samuel Kurt]] was.
+Most of this is character theoretical as not many documents or ideas are written down, as well as a lack of specific years as his lifespan is not nearly as dense or limited as [[Samuel Kurt]] was.
 
 ---
 

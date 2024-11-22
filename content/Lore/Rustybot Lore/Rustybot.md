@@ -3,6 +3,8 @@ Home: "[[The Primary Timeline]]"
 Position: "[[The Ringleaders|Ringleader Co-Founder]]"
 Birth: 2135-07-06
 ---
+![[Rusty_Card_Image.png]]
+
 *This page is for Rustybot the Ringleader (a fictional character). For Rustybot the Neolander (a real life human), see [[Rustybot (User)|Rustybot (User)]]*
 
 >[!NOTE] Quote
