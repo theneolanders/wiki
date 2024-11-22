@@ -1,25 +1,26 @@
 ---
-Home: "[[Earth-B12|Finland, Earth B12]]"
+Home: "[[Vulpes|Finland, Vulpes]]"
 Position: "[[Celestial Witch]]"
 Creator: "[[Lonia (User)]]"
 ---
 
-|          |                                   |
-| -------- | --------------------------------- |
-| Home     | [[Earth-B12\|Finland, Earth B12]] |
-| Position | [[Celestial Witch]]               |
-| Birthday | June 8th                          |
-| Creator  | [[Lonia (User)]]                  |
+|          |                             |
+| -------- | --------------------------- |
+| Home     | [[Vulpes\|Finland, Vulpes]] |
+| Position | [[Celestial Witch]]         |
+| Birthday | June 8th                    |
+| Creator  | [[Lonia (User)]]            |
 
-Originally born as a human in Finland on [[Earth-B12]]. Later, she became a [[Celestial Witch]], ended up in [[The Secondary Timeline|the secondary timeline]], became the leader of the [[Twisted Seraphim]] gang, and then was kidnapped by [[Tavish Augmetitech]]. During her time at Tavish, she became acquainted with [[Jackson 'Jack' Jensen]].
+Originally born as a human in Finland on [[Vulpes]]. Later, she became a [[Celestial Witch]], ended up in [[The Secondary Timeline|the secondary timeline]], became the leader of the [[Twisted Seraphim]] gang, and then was kidnapped by [[Tavish Augmetitech]]. During her time at Tavish, she became acquainted with [[Jackson 'Jack' Jensen]].
 
 --- 
 #### Personality
 Lumina is a risk taker, often gambling with her life for the possibility of reward. In conversation, she is highly talkative and will often make witty remarks at others' expense. She has a hard time staying still, always requiring physical or mental stimulation to keep herself engaged. 
-Her way of sneaking around is sometimes really attention grabbing due to her bold and loud approach to things. She is sometimes seen eating trees.
 
-#### Life on Earth
-wip
+Her often bombastic approach can make her attempts at sneaking around not go as planned. Her demeanor can come off as deranged if not straight up psychotic at times; this is the result of her being unable to take life seriously after receiving her powers.
+
+#### Life on Vulpes
+WIP.
 
 #### Appearance
 Ninko being a light [[K'uminhyō]] transformed Lumina from a human into a being made from solidified, magical light.
@@ -40,5 +41,5 @@ As the chosen avatar of [[Ninko]], Lumina has been bestowed Ninko's unique domin
 
 #### Caligo
 Lumina's "real form" after forming the pact with [[Ninko]].
-this part is mostly wip still.
+this part is mostly WIP still.
 
