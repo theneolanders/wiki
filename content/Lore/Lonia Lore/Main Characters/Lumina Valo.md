@@ -39,6 +39,6 @@ As the chosen avatar of Ninko, Lumina has been bestowed her unique dominion over
 ---
 
 #### Caligo
-Lumina's "real form" after forming the pact with [[Ninko]].
+Lumina's "real form" after forming the pact with Ninko.
 
 
