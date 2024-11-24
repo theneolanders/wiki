@@ -9,7 +9,7 @@ The Ringleaders council is the official title of the group as recognized by huma
 - [[Finch]]
 - [[Frank Jones]]
 - [[Jackson 'Jack' Jensen]]
-- [[Keer-Splatt]]
+- [[Ker-Splatt]]
 - [[Lumina Valo]]
 - [[Nimeeko]]
 - [[Pip The Painter]]
