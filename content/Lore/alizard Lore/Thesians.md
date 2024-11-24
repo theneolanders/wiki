@@ -8,3 +8,5 @@ Thesian Fragments are parts of the original Thesians that got scattered across t
 WIP
 ## New Thesians 
 WIP
+# Known Thesians
+[[Zard]]
