@@ -10,6 +10,10 @@ Luck would have him, as a young lost Life Bringer named Nimeeko passed by, sensi
 **********************************************************************
 
 Forms: 
+
+Current bipedal form
+![[2024-09-09 03.20.20.jpg]]
+
 Raptor Form
 ![[2024-06-04 04.41.24.jpg]]
 
