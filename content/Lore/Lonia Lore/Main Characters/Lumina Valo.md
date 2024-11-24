@@ -18,10 +18,6 @@ Originally born as a human in Finland on [[Vulpes]]. Later, she became a [[Celes
 Lumina is a risk taker, often gambling with her life for the possibility of reward. In conversation, she is highly talkative and will often make witty remarks at others' expense. She has a hard time staying still, always requiring physical or mental stimulation to keep herself engaged. 
 
 Her often bombastic approach can make her attempts at sneaking around not go as planned. Her demeanor can come off as deranged if not straight up psychotic at times; this is the result of her being unable to take life seriously after receiving her powers.
-
-#### Life on Vulpes
-WIP.
-
 #### Appearance
 Ninko being a light [[K'uminhyō]] transformed Lumina from a human into a being made from solidified, magical light.
 
@@ -38,8 +34,12 @@ As the chosen avatar of [[Ninko]], Lumina has been bestowed Ninko's unique domin
 - Light-based attacks (lasers, flashes, slashes, and waves)
 
 ---
+#### Life on Vulpes
+
+
+---
 
 #### Caligo
 Lumina's "real form" after forming the pact with [[Ninko]].
-this part is mostly WIP still.
+
 
