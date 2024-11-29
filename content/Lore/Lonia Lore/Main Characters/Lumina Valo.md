@@ -11,9 +11,9 @@ Creator: "[[Lonia (User)]]"
 | Birthday | June 8th                    |
 | Creator  | [[Lonia (User)]]            |
 
-Originally born as a human in Finland on [[Vulpes]] but her pact with [[Ninko]] transformed Lumina from a human into a being made from solidified, magical light.
+Originally born as a human in Finland on [[Vulpes]] but her pact with [[Ninko]] transformed Lumina from a human into a being made from solidified, magical light, while becoming a [[Celestial Witch]].
 
-Later, she became a [[Celestial Witch]], ended up in [[The Secondary Timeline|the secondary timeline]], became the leader of the [[Twisted Seraphim]] gang, and then was kidnapped by [[Tavish Augmetitech]]. During her time at Tavish, she became acquainted with [[Jackson 'Jack' Jensen]]. 
+Later, she ended up in [[The Secondary Timeline|the secondary timeline]] and became the leader of the [[Twisted Seraphim]] gang, but was kidnapped by [[Tavish Augmetitech]]. During her time at Tavish, she became acquainted with [[Jackson 'Jack' Jensen]]. 
 
 --- 
 #### Personality
@@ -35,7 +35,7 @@ As the chosen avatar of Ninko, Lumina has been bestowed her unique dominion over
 
 ---
 #### Life on Vulpes
-Lumina was a fan of the horror movie series [[Lucidity (film)|Lucidity]] in her timeline, particularly enjoying the terrifying portrayal of a killer clown, Blueberry. She owns a plush of this menacing character, which still sits proudly in her collection. 
+Lumina was a fan of the horror movie [[Lucidity (film)|Lucidity]] in her timeline, particularly enjoying the terrifying portrayal of a killer clown, Blueberry. She owns a plush of this menacing character, which still sits proudly in her collection. 
 
 
 ---
