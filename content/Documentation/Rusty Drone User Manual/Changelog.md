@@ -1293,3 +1293,6 @@
 - Added sword hilt
 - Replaced blush text objects with a mesh and gave it a proper animation
 - Added directional indication lines to user trackers
+- Slightly optimized multitool variables
+- Slightly optimized buster variables
+- Fixed buster beam terminating before reaching the hit point
