@@ -1,0 +1,1 @@
+Manufactured by [[Apex Arms]], the Hammerhead 4B is a four-barreled shotgun designed to to fire 23x75mmR [[Pulse ammunition]] shells, much like the [[Mako CAWG]].
