@@ -11,7 +11,9 @@ Creator: "[[Lonia (User)]]"
 | Birthday | June 8th                    |
 | Creator  | [[Lonia (User)]]            |
 
-Originally born as a human in Finland on the planet [[Vulpes]], her life changed when the alien kitsune [[Ninko]] protected her from the result of a candy heist gone wrong. In exchange for protection from the law, Ninko took Lumina's right eye as a trophy, transforming her into a [[Celestial Witch]].
+Originally born as a human in Finland on the planet [[Vulpes]], her life changed when the alien kitsune [[Ninko]] protected her from the result of a candy heist gone wrong. In exchange for protection from the law, Ninko took Lumina's right eye as a trophy, transforming her into a [[Celestial Witch]]. 
+
+As a result of Ninko's 'gift', Lumina's body was no longer that of a human. Instead, she became a being made from solidified, magical light.
 
 Later, she ended up in [[The Secondary Timeline|the secondary timeline]] and became the leader of the [[Twisted Seraphim]] gang, but was kidnapped by [[Tavish Augmetitech]]. During her time at Tavish, she became acquainted with [[Jackson 'Jack' Jensen]]. 
 
