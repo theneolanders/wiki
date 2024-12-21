@@ -17,7 +17,7 @@ My colleague breaks the silence, “It’s been 5 minutes... Why hasn’t he sai
 
 “Running diagnostics maybe? This is completely uncharted territory, maybe he got a reading that’s keeping him occupied for a moment.”
 
-I notice a sudden movement out of the corner of my eye an instant before the alarms start blaring.
+I notice a sudden movement out of the corner of my eye an instant before the intercom comes on. It's 
 
 ---
 

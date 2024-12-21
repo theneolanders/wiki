@@ -16,7 +16,7 @@ The Andromeda Incident
 
 [[Scene 4 - A Galaxy Far, Far Away|A Galaxy Far, Far Away]]
 
-[[Scene 5 - Gone Dark (needs organizing)|Gone Dark]]
+[[Scene 5 - Gone Dark|Gone Dark]]
 
 # Chapter 2: Lost and Found
 ##### Start
