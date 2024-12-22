@@ -61,7 +61,7 @@ I look down at my buttoned up shirt and dress pants in comparison to the perfect
 
 Dylan actually laughs at that, "Well don't worry, you're going down most of the time, not up."
 
-We finally reach the elevators on the opposite side of the massive lobby and enter one with a few other people, each wearing lab coats and tool belts. Dylan starts poking at the on-board control panel, but I can't stop analyzing the gadgets on the other tech's belts.
+We finally reach the elevators on the opposite side of the massive lobby and enter one with a few other people, each wearing lab coats and tool belts. Dylan starts poking at the on-board control panel, but I can't stop analyzing the gadgets on the technician's belts.
 
 "You new here?" One of them asks me with a smirk. She takes the item I was looking at off her belt and shows it to me, "This is a multivoltmeter."
 
@@ -85,5 +85,7 @@ A man asks from behind her, "Toby, how old are you?"
 
 The woman hands me back my ID and chuckles reassuringly, "If that's all true then welcome aboard, it's never a bad idea to have more nerds around."
 
-I give a little wave and watch the group go while Dylan leads me out of the elevator. Did she just imply she's glad I'm here? The rest of them seem to be mostly in agreement too. I make a quick save of the past couple minutes to review later.
+I give a little wave and watch the group go while we all step out of the elevator. Did she just imply she's glad I'm here? The rest of them seem to be mostly in agreement too. I make a quick save of the past couple minutes to review later.
+
+I take in my surroundings and am immediately more at home. Pristine white paneled hallways with clear signage and utility carts pushed by busy engineers. *This* is the kind of environment I've been trained for.
 
