@@ -34,7 +34,7 @@ Everyone seems like they know exactly where they're going and won't let anything
 
 A woman in a sharp outfit appears out of the controlled chaos and approaches us. I feel my visor's display freeze, my eyes wide as she reaches down to shake my hand. Her short black hair combined with her silver bionic jaw and purple bionic irises cutting a striking and instantly recognizable image, "Dr. Tsur, nice to finally meet you. I've been excited for your arrival."
 
-I stare for just long enough to make it awkward before returning the handshake and stammering out, "Oh, uh, ni-nice to meet you! You're... Annette Reeds... I'm Toby. You said that already. Wait you have?!"
+I stare for just long enough to make it awkward before returning the handshake and stammering out, "Oh, uh, ni-nice to meet you! You're... Annette Reede... I'm Toby. You said that already. Wait you have?!"
 
 She smiles warmly, but I can hear Dylan snickering to my side. She projects a small holographic display out of a port in her palm, "It's not every day we take on a youngster with your accomplishments. I had to double check our system was showing me the correct info." I take a look and see she has my application profile loaded up.
 

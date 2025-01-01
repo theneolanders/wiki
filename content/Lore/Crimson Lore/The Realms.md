@@ -1,0 +1,1 @@
+The Realms is a timeline with multiple planes of existence. It has a pantheon of gods, a material plane of mortals, and primordial planes of elementals, to name a few.

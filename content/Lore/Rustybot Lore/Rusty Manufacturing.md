@@ -1,6 +1,6 @@
 Rusty Manufacturing was founded by [[Rustybot]] in the year 2172 as a way to slip through a legal loophole and regain communication with Earth following his termination from [[Flow]] two years prior. 
 
-Rusty Manufacturing is notable for its extragalactic nature, being the first and only human corporation based in Andromeda. It is also the only known company currently in operation to have zero employees.
+Rusty Manufacturing is notable for its extragalactic nature, being the first and only human corporation based in Andromeda.
 
 In the modern day, Rusty Manufacturing focuses on the advancement of spaceborn automation and laser technology.
 
@@ -28,7 +28,10 @@ Gamma Drones are universal manual labor machines. Not much more than a hull and 
 Bitbots are a subset of Rusty Drone that consist of a hover thruster, display screen, and interaction beam array. They often act as autonomous power tools or surveillance units. The primary purpose of a Bitbot is to perform autonomous maintenance, especially in small or otherwise hard to reach places. Unlike the majority of Rusty Manufacturing robotics, Bitbots are true A.I., meaning they are synthetic neural networks and not a copy of an uploaded human mind.
 
 ### Underspace Harvester Cores
-Underspace Harvester Cores (UHCs) were perhaps the most critical step in Rusty Manufacturing's extragalactic resurgence. Due to [[The Primary Timeline]]'s near-impermeable [[The Multiverse#lower|lower membrane]], Underspace was not a 
+Underspace Harvester Cores (UHCs) were perhaps the most critical step in Rusty Manufacturing's extragalactic resurgence. Due to [[The Primary Timeline]]'s near-impermeable [[The Multiverse#lower|lower membrane]], Underspace was not a concept humanity was aware of. With infinite energy at his disposal, a great many technologies that would normally be unfeasible are unlocked for Rustybot.
+
+### Microfabricators
+With the advent of nanotechnology, rapid manufacturing took off like never before. Though inefficient at scale, nanites housed in chambers called Microfabricators saw a near-instant rise in popularity on Earth in the 2130s. Few are larger than a few meters in size due to the massive amount of heat they generate, but "M-fabs" can create anything in seconds as long as the proper materials and schematics are provided. Rusty Manufacturing improved this technology further by designing M-fabs that are also capable of processing raw ore into refined metals. The process is slow and thermally taxing, but allows for the prolonged use of M-fabs to environments without access to frequent resupplies.
 
 ---
 # Digital Systems

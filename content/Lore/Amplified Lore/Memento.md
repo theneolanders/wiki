@@ -1,6 +1,8 @@
 ---
 aliases:
   - The Swarm
+Home: "[[The Ring]]"
+Position: "[[The Ringleaders|Ringleader]]"
 ---
 Memento, previously referred to as The Swarm, is a nanobot swarm created by a [Gray Goo Event](https://en.wikipedia.org/wiki/Gray_goo) on the alien planet [[Zenitaf]]. In an event referred to as [[The Zenitaf Calamity]], They were born from the collective memories and data of every biological and artificial being on the planet, because the nanites that constitute them were initially programmed to harvest the data of all objects consumed for archival purposes.
 

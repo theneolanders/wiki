@@ -1,4 +1,4 @@
-Each timeline in [[The Multiverse]] is equally as real as any other, making a designation such as "primary" somewhat of a misnomer. The Primary Timeline is defined by [[Lore/Rustybot Lore/Rustybot|Rustybot]] and [[Memento]] as their universe of origin for the sake of subjectively cataloguing the multiverse. It is also sometimes referred to as The Primeline.
+Each timeline in [[The Multiverse]] is equally as real as any other, making a designation such as "primary" somewhat of a misnomer. The Primary Timeline is defined by [[Lore/Rustybot Lore/Rustybot|Rustybot]] and [[Memento]] as their universe of origin for the sake of subjectively cataloging the multiverse. It is also sometimes referred to as The Primeline.
 
 This timeline is unique in that it has a nearly non-permeable [[The Multiverse#Universal Membranes|lower membrane]], meaning there is almost no natural influence from [[Underspace]]. Practically speaking, the only forces present are the baseline physical laws by which every known universe is governed. The Primeline therefore is no different from [[Lore Information|our own universe]] until the year 2046, when it [[The Multiverse#Divergence|diverges]].
 
