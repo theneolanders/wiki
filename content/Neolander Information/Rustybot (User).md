@@ -7,7 +7,7 @@ tags:
 
 ![[2024-05-28 17.23.20.webp]]
 
-Rustybot is a programmer and technical animator who primarily develops content for the VR platform [Resonite.](https://www.resonite.com) He is know for his consistent visual style and sci-fi robotic creations.
+Rustybot is a programmer, technical animator, and 3D designer who primarily develops content for the VR platform [Resonite.](https://www.resonite.com) He is know for his consistent visual style and sci-fi robotic creations.
 #### VR Content
 [[- User Manual Info -|The Rusty Drone Avatar]]
 
