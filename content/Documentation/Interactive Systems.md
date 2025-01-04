@@ -11,6 +11,9 @@ This tag is the most in-depth in terms of required systems. See [[Drone Modulari
 ## Rustybot's Modularity Tags
 Most Neolanders are compatible with many of the Rusty Drone avatar's snapper tags. For a more in-depth look into the Drone's modularity systems, see [[Drone Modularity|the Drone Modularity section of the user manual.]]
 
+## RingEdible
+Objects with RingEdible are eligible to be destroyed when snapped.
+
 ---
 # Dynamic Variables
 

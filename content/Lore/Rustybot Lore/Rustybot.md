@@ -1,6 +1,6 @@
 ---
 Home: "[[The Primary Timeline]]"
-Position: "[[The Ringleaders|Ringleader Co-Founder]]"
+Position: "[[The Ringleaders|Ringleader]]"
 Birth: 2135-07-06
 ---
 ![[Rusty_Card_Image.png]]
@@ -47,9 +47,25 @@ In stark contrast to his previous self, Rustybot's most notable character trait 
 
 Rustybot develops an abundance of weaponry and defense technology during his isolation despite coming across no external threatening presences in his new home galaxy. His desire to protect himself and fear of being hurt again cause an overwhelming urge to expand his industry at an exponential rate. In a sense, the constant increase in manufacturing potential of Rusty Manufacturing is Rustybot attempting to satiate his newfound paranoia.
 
-Over the course of the Ringleaders story, Rustybot is forced to reconsider how he handles diplomatic relations with both Earth and the other members of the council. Meeting [[Memento]] is the first time in many years where he can't simply ignore or destroy a perceived problem. When the two of them eventually build [[The Ring]], he is only playing along to agther intel, but is soon presented with evidence that other beings are entirely capable of being intelligent and useful.
+Over the course of the Ringleaders story, Rustybot is forced to reconsider how he handles diplomatic relations with both Earth and the other members of the council. Meeting [[Memento]] is the first time in many years where he can't simply ignore or destroy a perceived problem. When the two of them eventually build [[The Ring]], he is only playing along to gather intel, but is soon presented with evidence that other beings are entirely capable of being intelligent and useful.
 
 Though he is initially snarky and dismissive of the other members, Rustybot's demeanor softens significantly as The Ringleaders become less of an obligation and more of a found family to him. The Swarm is especially critical in this journey with their precise pokes and prods regarding Rusty's behaviour. Despite his repeated outbursts when his own faults are brought to light, his natural desire to analyze every situation down to the last detail does cause Rusty to consider what his actions look like from the outside and eventually make positive change.
+
+---
+# Abilities
+The bulk of Rustybot's abilities can be traced to his [[Rusty Manufacturing#Microfabricators|Microfabricators]]. Within each hand, as well as his abdomen and chest, are small chambers containing raw matter and assembler nanites which can near-instantaneously reconfigure into whatever tools, weapons, or devices a situation calls for.
+
+In combat, Rustybot will typically transform his hands into Busters which are capable of focusing his endless energy reserves into lasers, plasma projectiles, or concussive bursts. They can alternatively be used as high-output thrusters for a substantial boost in agility. Thanks to his [[Rusty Manufacturing#Underspace Harvester Cores|Underspace Harvester Core]], Rustybot can afford to expend as much energy as his drone can handle, limited only by the melting point of his components. This means his destructive power is leagues above his defensive abilities, forcing him into a [glass cannon](https://tvtropes.org/pmwiki/pmwiki.php/Main/GlassCannon) archetype.
+
+He is also capable of more drastic transformations. Utilizing his Busters in line with his main hover thruster, he can rotate his torso behind him and enter "rocket mode" for supersonic flight. Alternatively, he can deploy a six-barreled laser minigun from his torso and enter "turret mode" to unleash an endless supply of rapid-fire laser bursts.
+
+While his defenses are limited by thermodynamics, Rustybot still represents the peak of technology and material science. His hull is constructed from multiple layers of complex alloys, reinforced by magnetic resonance systems. Thanks to his Microfabricators also has the ability to quickly deploy energy shield projectors.
+
+Rusty drones are built to be extremely modular. If a part of him is rendered unusable but the drone is still operational, he can eject and replace the broken components after printing a new one, up to and including entire new limbs.
+
+As one of the few [[The Ringleaders|Ringleaders]] with a non-magical home timeline, Rustybot is innately resistant to magical effects. [[Jackson 'Jack' Jensen]], for example, finds it far more difficult to use telekinesis on a Rusty Drone than he would on an equally massive block of matter from [[The Secondary Timeline]].
+
+Of course, none of the above would form a cohesive array of powers without his cunning intellect. The Microfabricators he has access to are only as useful as the schematics he can provide them with. In order to keep up with the ever-expanding chaos of the multiverse, Rustybot must innovate new technological solutions at breakneck speeds or be left limited by the physics of his home universe.
 
 ---
 # Trivia

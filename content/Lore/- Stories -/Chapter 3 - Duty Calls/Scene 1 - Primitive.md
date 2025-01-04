@@ -1,6 +1,6 @@
 [[- Scene Index -]]
 
-[[Scene 5 - Gone Dark (needs organizing)|Previous]]
+[[Scene 5 - Gone Dark|Previous]]
 
 [[Scene 2 - Pilot's License|Next]]
 

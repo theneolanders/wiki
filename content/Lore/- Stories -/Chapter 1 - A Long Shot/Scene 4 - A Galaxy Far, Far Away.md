@@ -2,7 +2,7 @@
 
 [[Scene 3 - R&D|Previous]]
 
-[[Scene 5 - Gone Dark (needs organizing)|Next]]
+[[Scene 5 - Gone Dark|Next]]
 
 ---
 **Toby Tsur**
@@ -75,7 +75,7 @@ Where’s my sensory input? If everything went right, I should be able to see Qu
 
 Running diagnostics, it seems there’s a protocol in place keeping my primary drive from interfacing with my body. At least, that’s my best guess. Not two seconds ago I was fully connected and now I can’t feel anything. Obviously, this makes no sense. That type of system is highly illegal if put in place on purpose, and no one would be stupid enough to make one by accident... Right?
 
-No, of course not. I have faith in my fellow programmers. Maybe the jump jostled me hard enough to destroy my drone and only my drive remains. Implausible, but possible.
+No, of course not. Everyone with access to the development of this unit has spent years proving their vigilance. Maybe the jump jostled me hard enough to destroy my drone and only my drive remains. Implausible, but possible.
 
 I guess... I wait for rescue? Also implausible. Perhaps even more so.
 

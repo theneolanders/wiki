@@ -3,7 +3,7 @@
 
 - Press both grips or B on the keyboard to activate the boot sequence.
 - Double jump to switch between walk and fly.
-- Hold jump while flying to vertically ascend
+- Hold jump while flying to vertically ascend, do so while touching the A button to descend
 - Touch secondary on a desired hand and use trigger strength on the other to extend the wrist on a telescoping strut
 - Touch the lower thumb button without touching the upper thumb button on a desired hand and use trigger strength on the other to spin the hand about the wrist
 - Right hand can be used to high five while the left grip is held. Touch left secondary while doing so to activate suit mode.
@@ -47,7 +47,7 @@ Manually retracts the screen into the head
 ###### Attach
 Reparents self to a user (raycasted selection from left hand), or back to home slot if no one is in sight. The Drone will copy the host user’s RustyTalkingLights if applicable.
 ###### Clear Screen
-Removes anything snapped to the screen's surface, ex. pen strokes
+Removes anything parented to the screen's surface, ex. pen strokes, projectiles
 ###### Flashlight
 Bitbot emits light from his eye. Light comes from Drone's chest when Bitbot is retracted and eye while in Bitbot mode.
 ### Modularity
@@ -172,3 +172,4 @@ Use the right hand to high five someone while holding left grip and touching the
 - Bitbot or the chest hexagon projects grab lasers when laser grabbing or when physical grabbing without a hand attached/deployed
 - Either antenna can be cranked like a lever for a funny slot machine effect
 - Legs will auto-deploy in alternate gravity
+- Finger photos print from a panel on the drone's face

@@ -1,4 +1,4 @@
-Flow is a corporation from Earth in [[The Primary Timeline]]. Flow was founded in the year 2073 as a Liberian shipping company. Initially formed to distribute computer hardware across the African continent, it saw quick success thanks to taking full economical advantage of providing electronics to the Eastern Seaboard during [[The Primary Timeline#The North American Collapse|The North American Collapse]].
+Flow is a corporation from Earth in [[The Primary Timeline]]. Flow was founded in the year 2073 as a small shipping company. Initially formed to distribute computer hardware across the African continent, it saw quick success thanks to taking full economical advantage of providing electronics to the Eastern Seaboard during [[The Primary Timeline#The North American Collapse|The North American Collapse]].
 
 By 2121, Flow was a multinational logistics conglomerate that specialized in reparation efforts following disasters. In particular, it would handle the rebuilding of digital infrastructure and manufacturing capabilities.
 
