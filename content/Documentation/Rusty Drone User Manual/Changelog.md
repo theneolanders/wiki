@@ -1299,3 +1299,5 @@
 - Converted all particles to PhotonDust. Main thruster, Bitbot thruster, All buster effects, missile trails, etc.
 - Fixed main thruster particle trail behaving incorrectly at a distance
 - Main thruster particles no longer have random direction when distant in order to make the trail look smoother
+- Locally disabled sensors to save on everyone else's performance
+- Moved Speedometer out of sensors for now since my treads are calculated off that
