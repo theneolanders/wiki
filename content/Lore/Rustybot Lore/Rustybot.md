@@ -69,5 +69,5 @@ Of course, none of the above would form a cohesive array of powers without his c
 
 ---
 # Trivia
-- Nobody knows why Toby Tsur picked the name Rustybot
+- Nobody knows where the name Rustybot originally came from
 - The shape of Rusty's head is a Rectified Rhombicuboctahedron, though it's more commonly referred to as a bevel cube or bevel box

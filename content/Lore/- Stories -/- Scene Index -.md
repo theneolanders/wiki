@@ -18,6 +18,8 @@ The Andromeda Incident
 
 [[Scene 5 - Gone Dark|Gone Dark]]
 
+[[Scene 6 - Reboot|Reboot]]
+
 # Chapter 2: Lost and Found
 ##### Start
 Dr. Isaac Grant
@@ -32,7 +34,7 @@ Rustybot ramping up production, The Swarm playing damage control
 The Swarm leaves Earth to find Rustybot personally
 ##### Scenes
 
-[[Scene 1 - Primitive|Primitive]]
+[[Scene 1 - Ground Zero|Primitive]]
 
 [[Scene 2 - Pilot's License|Pilot's License]]
 
