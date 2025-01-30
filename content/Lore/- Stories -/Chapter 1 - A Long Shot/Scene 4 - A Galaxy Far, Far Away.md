@@ -37,7 +37,7 @@ I approach the dormant drone and begin my speech, “This journey represents the
 
 Silently grateful I didn’t flub up any lines, I sit in the chair to the light applause of the scientists present. One of them steps up beside me and reaches towards my primary drive port, which I unlock and allow to open. I lean back, falling into sensory deprivation as he removes the part of me that I inhabit.
 
--
+...
 
 I never like this part. It’s a fundamental requirement of being a digital mind, but transferring between physical bodies is always a vulnerable state to be put in. I could go into stasis, but that feels like it would be... worse, somehow. Not knowing how much time has passed. Not knowing that I’ll ever be awoken. Even if I end up thinking to myself forever, at least I get to experience existing.
 
@@ -45,7 +45,7 @@ I never like this part. It’s a fundamental requirement of being a digital mind
 
 Oh, here we go. I feel the new connection. That was, what, half a minute? Not so bad.
 
--
+...
 
 I allow the feed from my two facial cameras to become my primary sensory input, and see the team looking at me expectantly.
 
