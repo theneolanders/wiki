@@ -2,7 +2,7 @@
 
 [[Scene 4 - A Galaxy Far, Far Away|Previous]]
 
-[[Scene 5 - Gone Dark|Next]]
+[[Scene 6 - Reboot|Next]]
 
 ---
 **Toby Tsur**
