@@ -16,7 +16,9 @@ The Andromeda Incident
 
 [[Scene 4 - A Galaxy Far, Far Away|A Galaxy Far, Far Away]]
 
-[[Scene 5 - Gone Dark (needs organizing)|Gone Dark]]
+[[Scene 5 - Gone Dark|Gone Dark]]
+
+[[Scene 6 - Reboot|Reboot]]
 
 # Chapter 2: Lost and Found
 ##### Start
@@ -32,7 +34,7 @@ Rustybot ramping up production, The Swarm playing damage control
 The Swarm leaves Earth to find Rustybot personally
 ##### Scenes
 
-[[Scene 1 - Primitive|Primitive]]
+[[Scene 1 - Ground Zero|Primitive]]
 
 [[Scene 2 - Pilot's License|Pilot's License]]
 
