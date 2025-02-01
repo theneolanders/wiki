@@ -18,7 +18,7 @@ jobs:
         uses: konstfish/quartz-build-action@v3
         with:
           # specify source folder
-          source: docs
+          source: content
           # page title to be displayed in the browser
           page_title: "Quartz"
       - name: Upload artifact
