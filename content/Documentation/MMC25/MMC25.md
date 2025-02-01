@@ -1,1 +1,0 @@
-Basic Info about the MMC25 project's workings
