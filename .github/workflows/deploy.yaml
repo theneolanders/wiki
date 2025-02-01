@@ -20,7 +20,7 @@ jobs:
           # specify source folder
           source: content
           # page title to be displayed in the browser
-          page_title: "Quartz"
+          page_title: "Wiki"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
   deploy:
