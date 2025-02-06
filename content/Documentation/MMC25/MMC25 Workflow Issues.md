@@ -4,4 +4,5 @@
 When attempting to create a Color Dialog for editing Spherical Harmonics sometimes no UI will show up, we later learned this creates an empty.
 [Issue](https://github.com/Yellow-Dog-Man/Resonite-Issues/issues/3640)
 # User Experience
-WIP...
+## AutoLookAtUser should have an invert option
+There is not an option to flip/invert the AutoLookAtUser. 
