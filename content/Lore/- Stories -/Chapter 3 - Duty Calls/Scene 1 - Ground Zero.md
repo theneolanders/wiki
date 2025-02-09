@@ -19,6 +19,6 @@ I regain focus for a moment as thin wisps of smoke start to rise from the base o
 
 This process is a component of step one on my tech tree: fuel generation. I'll bury this flame with some of my wood stockpile under a layer of mud to make charcoal, then I can start burning hotter fires and make a proper kiln for smelting ore.
 
-I have to be extra careful with my finger joints while I work though, since I won't have access to any repair facilities when they inevitably start to wear down from manipulating all this abrasive dirt and clay. In hindsight, I wish I had brought a microfabricator and some polymers. Rubberized gloves would go a long way in improving my parts’ lifespan.
+I have to be extra careful with my finger joints while I work though, since I won't have access to any repair facilities when they inevitably start to wear down from manipulating all this abrasive dirt and clay. In hindsight, I wish I had brought some polymers. Rubberized gloves would go a long way in improving my parts’ lifespan.
 
 Thank goodness I decided to aim for a planet with an ample supply of combustible lifeforms. Apparently being plantlike is a good enough strategy that it happened here too. The burgundy tree-ish stalks that emerge from the soil in this area make for excellent firewood.

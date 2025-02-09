@@ -1,6 +1,6 @@
 [[- Scene Index -]]
 
-[[Scene 1 - Primitive|Previous]]
+[[Scene 1 - Ground Zero|Previous]]
 
 [[Scene 3 - All By Myselves|Next]]
 
