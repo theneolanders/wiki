@@ -37,8 +37,7 @@ As the chosen avatar of Ninko, Lumina has been bestowed her unique dominion over
 
 ---
 #### Life on Vulpes
-Lumina was a fan of the horror movie [[Lucidity (film)|Lucidity]] in her timeline, particularly enjoying the terrifying portrayal of a killer clown, Blueberry. She owns a plush of this menacing character, which still is in her collection. 
-
+Lumina was a fan of the horror movie [[Lucidity (film)|Lucidity]] in her timeline, particularly enjoying the terrifying portrayal of a killer clown, Blueberry. She owns a plush of this character.
 
 ---
 
