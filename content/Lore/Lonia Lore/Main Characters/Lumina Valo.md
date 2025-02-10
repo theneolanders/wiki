@@ -21,7 +21,7 @@ Later, she ended up in [[The Secondary Timeline|the secondary timeline]] and bec
 #### Personality
 Lumina is a risk taker, often gambling with her life for the possibility of reward. In conversation, she is highly talkative and will often make witty remarks at others' expense. She has a hard time staying still, always requiring physical or mental stimulation to keep herself engaged. 
 
-Her often bombastic approach can make her attempts at sneaking around not go as planned. Her demeanor can come off as deranged if not straight up psychotic at times; this is the result of her being unable to take life seriously after receiving her powers.
+Her demeanor can come off as deranged if not straight up psychotic at times; this is the result of her being unable to take life seriously after receiving her powers. She is a wildcard and would rather do things on impulse than on command.
 #### Appearance
 She has fuchsia and violet hair, with the fuchsia hair covering most of her head, including long split bangs, and the violet hair tied up into two drill-shaped curls. She has dark teal freckles, her tongue and insides are teal while her teeth are white and sharp like a sharks.
 
@@ -37,8 +37,7 @@ As the chosen avatar of Ninko, Lumina has been bestowed her unique dominion over
 
 ---
 #### Life on Vulpes
-Lumina was a fan of the horror movie [[Lucidity (film)|Lucidity]] in her timeline, particularly enjoying the terrifying portrayal of a killer clown, Blueberry. She owns a plush of this menacing character, which still sits proudly in her collection. 
-
+Lumina was a fan of the horror movie [[Lucidity (film)|Lucidity]] in her timeline, particularly enjoying the terrifying portrayal of a killer clown, Blueberry. She owns a plush of this character.
 
 ---
 
