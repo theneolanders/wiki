@@ -1,3 +1,6 @@
+---
+title: How to Contribute
+---
 This page will teach you how to contribute!!! :D
 # Contributing with Obsidian
 ## 1. Making a fork (optional)
