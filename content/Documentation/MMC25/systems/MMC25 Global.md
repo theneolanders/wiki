@@ -1,3 +1,7 @@
+---
+tags:
+  - MMC25
+---
 # Vars
 ## World/debug_mode
 **Type: bool**

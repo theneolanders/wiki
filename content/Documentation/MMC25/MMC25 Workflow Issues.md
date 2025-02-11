@@ -1,3 +1,7 @@
+---
+tags:
+  - MMC25
+---
 # Bugs
 ## When you try to create a color dialogue for Spherical Harmonics it leaves an empty slot on root
 ![[ColorDialogSpam.jpg]]

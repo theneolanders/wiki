@@ -1,3 +1,7 @@
+---
+tags:
+  - MMC25
+---
 # Ambience
 ## Vars
 ### World/ambient_music_volume
