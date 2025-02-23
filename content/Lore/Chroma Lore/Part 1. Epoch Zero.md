@@ -41,7 +41,7 @@ The creature has made impact.
 
 ***Within another universe...***
 
-Millions of years pass in a primordial landscape contained within a young planet. Generations after generations of microbial life evolve in then out of the sea, one day producing terrestrial air breathing life. More and more generations evolve until day one a new way to reproduce emerges. A single bud, preparing to announce a new beauty to this world, begins to split open. A seam of brilliant white starts to break across it's surface.
+Millions of years pass in a primordial landscape contained within a young planet. Generations after generations of microbial life evolve in then out of the sea, one day producing terrestrial air breathing life. A single bud, preparing to announce a new beauty to this world, begins to split open. A seam of brilliant white starts to break across it's surface.
 
 Before the first wind blows across this worlds first petals, a darkness spreads across the organisms surface. In a flash of black, it vanishes.
 
@@ -65,7 +65,7 @@ What was not to this planet now "is".
  
  Red streaks of unnatural growth paint the planet, a planet that was observed to be barren before they set off. Observations aside, the alien creatures conclude that this does not change the objective of their mission, it remains an unsuitable environment for their species in the long term and will require "The Change".
  
-Departing in their pale ships, organic and seamless in shape, the land in several locations across the planets surface. Upon landing the entrances dissolve open and close to accommodate the aliens usage.
+Departing in their pale ships, organic and seamless in shape, they land in several locations across the planets surface. Upon landing the entrances dissolve open and close to accommodate the aliens usage.
 
 Stepping out of their vessels, the new alien creatures are long, humanoid, thin and with a pale off-white body that is accented in organic gold detail. A singular optical slit sits at "eye" level horizontally across their face. They communicate to each other through chittering and eye flashes that correspond with organic holographic displays that silhouette their head. Similar to the displays one would see from a bird of paradise from Earth. Two of these beings emerge from the vessel.
 
