@@ -1,21 +1,14 @@
----
-Home: "[[Vulpes|Finland, Vulpes]]"
-Position: "[[Celestial Witch]]"
-Creator: "[[Lonia (User)]]"
----
 
-|          |                             |
-| -------- | --------------------------- |
-| Home     | [[Vulpes\|Finland, Vulpes]] |
-| Position | [[Celestial Witch]]         |
-| Birthday | June 8th                    |
-| Creator  | [[Lonia (User)]]            |
+|          |                     |
+| -------- | ------------------- |
+| Home     | [[Vulpes]]          |
+| Position | [[Celestial Witch]] |
+| Birthday | June 8th            |
+| Creator  | [[Lonia (User)]]    |
 
 Originally born as a human in Finland on the planet [[Vulpes]], her life changed when the alien kitsune [[Ninko]] protected her from the result of a candy heist gone wrong. In exchange for protection from the law, Ninko took Lumina's right eye as a trophy, transforming her into a [[Celestial Witch]]. 
 
 As a result of Ninko's 'gift', Lumina's body was no longer that of a human. Instead, she became a being made from solidified, magical light.
-
-Later, she ended up in [[The Secondary Timeline|the secondary timeline]] and became the leader of the [[Twisted Seraphim]] gang, but was kidnapped by [[Tavish Augmetitech]]. During her time at Tavish, she became acquainted with [[Jackson 'Jack' Jensen]]. 
 
 --- 
 #### Personality
@@ -39,9 +32,7 @@ As the chosen avatar of Ninko, Lumina has been bestowed her unique dominion over
 #### Life on Vulpes
 Lumina was a fan of the horror movie [[Lucidity (film)|Lucidity]] in her timeline, particularly enjoying the terrifying portrayal of a killer clown, Blueberry. She owns a plush of this character.
 
----
 
-#### Caligo
-Lumina's "real form" after forming the pact with Ninko.
+
 
 
