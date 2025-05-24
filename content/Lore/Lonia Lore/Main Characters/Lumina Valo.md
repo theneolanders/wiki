@@ -6,15 +6,11 @@
 | Birthday | June 8th            |
 | Creator  | [[Lonia (User)]]    |
 
-Originally born as a human in Finland on the planet [[Vulpes]], her life changed when the alien kitsune [[Ninko]] protected her from the result of a candy heist gone wrong. In exchange for protection from the law, Ninko took Lumina's right eye as a trophy, transforming her into a [[Celestial Witch]]. 
-
-As a result of Ninko's 'gift', Lumina's body was no longer that of a human. Instead, she became a being made from solidified, magical light.
+Originally born as a human on the planet [[Vulpes]], her life changed when she met the alien kitsune [[Ninko]]. In exchange for her powers Ninko took Lumina's right eye as a trophy, transforming her into a [[Celestial Witch]]. As a result of Ninko's 'gift', Lumina's body was no longer that of a human. Instead, she became a being made from solidified, magical light.
 
 --- 
 #### Personality
-Lumina is a risk taker, often gambling with her life for the possibility of reward. In conversation, she is highly talkative and will often make witty remarks at others' expense. She has a hard time staying still, always requiring physical or mental stimulation to keep herself engaged. 
-
-Her demeanor can come off as deranged if not straight up psychotic at times; this is the result of her being unable to take life seriously after receiving her powers. She is a wildcard and would rather do things on impulse than on command.
+Lumina is a risk taker, often gambling with her life for the possibility of reward. In conversation, she is highly talkative and will often make witty remarks at others' expense. She has a hard time staying still, always requiring physical or mental stimulation to keep herself engaged. Her demeanor can come off as deranged if not straight up psychotic at times; this is the result of her being unable to take life seriously after receiving her powers. She is a wildcard and would rather do things on impulse than on command.
 #### Appearance
 She has fuchsia and violet hair, with the fuchsia hair covering most of her head, including long split bangs, and the violet hair tied up into two drill-shaped curls. She has dark teal freckles, her tongue and insides are teal while her teeth are white and sharp like a sharks.
 
@@ -30,7 +26,7 @@ As the chosen avatar of Ninko, Lumina has been bestowed her unique dominion over
 
 ---
 #### Life on Vulpes
-Lumina was a fan of the horror movie [[Lucidity (film)|Lucidity]] in her timeline, particularly enjoying the terrifying portrayal of a killer clown, Blueberry. She owns a plush of this character.
+Lumina was a fan of the horror movie [[Lucidity (film)|Lucidity]] in her timeline, particularly enjoying the terrifying killer clown, Blueberry. She owns a plush of this character.
 
 
 
