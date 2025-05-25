@@ -1,27 +1,10 @@
-
-|          |                     |
-| -------- | ------------------- |
-| Home     | [[Vulpes]]          |
-| Position | [[Celestial Witch]] |
-| Birthday | June 8th            |
-| Creator  | [[Lonia (User)]]    |
-
-Originally born as a human on the planet [[Vulpes]], her life changed when she met the alien kitsune [[Ninko]]. In exchange for her powers Ninko took Lumina's right eye as a trophy, transforming her into a [[Celestial Witch]]. As a result of Ninko's 'gift', Lumina's body was no longer that of a human. Instead, she became a being made from solidified, magical light.
+Originally born as a human on the planet Vulpes, her life changed when she met the alien kitsune [[Ninko]]. In exchange for her powers Ninko took Lumina's right eye as a trophy, transforming her into a [[Celestial Witch]]. As a result of Ninko's 'gift', Lumina's body was no longer that of a human. Instead, she became a being made from solidified, magical light.
 
 --- 
 #### Personality
 Lumina is a risk taker, often gambling with her life for the possibility of reward. In conversation, she is highly talkative and will often make witty remarks at others' expense. She has a hard time staying still, always requiring physical or mental stimulation to keep herself engaged. Her demeanor can come off as deranged if not straight up psychotic at times; this is the result of her being unable to take life seriously after receiving her powers. She is a wildcard and would rather do things on impulse than on command.
 
-#### Abilities
-As the chosen avatar of Ninko, Lumina has been bestowed her unique dominion over visible light. Clever usage of this power enables her to perform many feats that may not be immediately obvious. This includes, but is not limited to:  
-- Flight and super speed
-- Illusions and invisibility (she often uses this to conceal her body parts, primarily her wings and halo)
-- Conjuring objects from hard light (like her gun)
-- Light-based attacks (lasers, flashes, slashes, and waves)
-
 ---
-#### Life on Vulpes
-Lumina was a fan of the horror movie [[Lucidity (film)|Lucidity]] in her timeline, particularly enjoying the terrifying killer clown, Blueberry. 
 
 
 
