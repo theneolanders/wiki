@@ -11,11 +11,6 @@ Originally born as a human on the planet [[Vulpes]], her life changed when she m
 --- 
 #### Personality
 Lumina is a risk taker, often gambling with her life for the possibility of reward. In conversation, she is highly talkative and will often make witty remarks at others' expense. She has a hard time staying still, always requiring physical or mental stimulation to keep herself engaged. Her demeanor can come off as deranged if not straight up psychotic at times; this is the result of her being unable to take life seriously after receiving her powers. She is a wildcard and would rather do things on impulse than on command.
-#### Appearance
-She has fuchsia and violet hair, with the fuchsia hair covering most of her head, including long split bangs, and the violet hair tied up into two drill-shaped curls. She has dark teal freckles, her tongue and insides are teal while her teeth are white and sharp like a sharks.
-
-A glowing halo hangs above her head and a pair of glowing wings floats behind her. She wears an eyepatch with a purple and pink flower to cover her missing right eye. 
-Around her neck, she wears a glowing cross necklace. She wears a black off-the-shoulder shirt with purple shoulder straps. The shirt has a white cross across the front of her chest. On her arms, she wears fingerless gloves that go above her elbow, with belts strapping it down to her arm. Her nails glow in the dark. She wears a short purple skirt with a belt around it. On her left leg, she has two belts that wrap around her thigh. She wears knee-high stockings with two white stripes at the top. She wears tall, purple, pirate-inspired boots with two buckles. 
 
 #### Abilities
 As the chosen avatar of Ninko, Lumina has been bestowed her unique dominion over visible light. Clever usage of this power enables her to perform many feats that may not be immediately obvious. This includes, but is not limited to:  
@@ -26,7 +21,7 @@ As the chosen avatar of Ninko, Lumina has been bestowed her unique dominion over
 
 ---
 #### Life on Vulpes
-Lumina was a fan of the horror movie [[Lucidity (film)|Lucidity]] in her timeline, particularly enjoying the terrifying killer clown, Blueberry. She owns a plush of this character.
+Lumina was a fan of the horror movie [[Lucidity (film)|Lucidity]] in her timeline, particularly enjoying the terrifying killer clown, Blueberry. 
 
 
 
