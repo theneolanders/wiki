@@ -1,1 +1,0 @@
-Apex Arms is a firearms manufacturer that primarily produces large-bore firearms for the civilian market focused around hunting dangerous game and megafauna. However, they also have product lines focused exclusively on hunting and protecting from *the most dangerous game*; augmented humans.

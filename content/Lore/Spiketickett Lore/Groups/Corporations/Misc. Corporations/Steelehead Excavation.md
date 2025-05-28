@@ -1,1 +1,0 @@
-**Steelehead Excavation** was one of the primary companies responsible for assisting [[Tavish Augmetitech]] in colonizing [[Thanatos IV]], providing their expertise with mining- both on asteroids, and the surfaces of planets within the Sol system.

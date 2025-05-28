@@ -1,3 +1,0 @@
-The **Third Arm** was an attempt to contain [[Saitō Yoshimichi]]'s [[Soul]] in order to continue fulfilling his curse.
-
-One of the most expensive projects [[Tavish Augmetitech]] has ever undertaken, having first started over a century prior. It continually receives maintenance to keep it in immaculate condition as a way to honor the life the [[Shōgun]] lead. The project began the instant Yoshimichi died- [[Leena Tuonen]] knew his death was a direct violation of the established order; an infringement of his pact with the Fountain of Youth. And she decided to set things right.

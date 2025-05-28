@@ -1,7 +1,0 @@
-**Pulse ammunition**, or **pulsed ammunition**, is the catch-all term for ammunition made using electric solid propellant, or ESP. The more voltage that is applied, the faster it burns. Incredibly high voltage systems were devised in order to make it the next step in firearms technology while also requiring relatively few alterations to designs of the era.
-
-Designed originally as an alternative to liquid rocket fuel, it is a mixture of hydroxylammonium nitrate and polyvinyl alcohol (among other additives). It is far more effective than the mixture of nitrocellulose and nitroglycerin colloquially known as 'smokeless' powder. 
-
-It can be cut, crushed, struck, and even burned without even the slightest hint of a reaction. This stability, combined with its increase in power and usability in a vacuum, were a step beyond smokeless powder's limited usability for a spacefaring Humanity.
-
-These factors make it incredibly useful for both cased and caseless ammunition- and it shows with how prevalent it has become in the last half-millennium. It was previously believed that firearms technology had peaked before, but the introduction of reliable electronics and the new, more effective method of propulsion was a much needed evolution.

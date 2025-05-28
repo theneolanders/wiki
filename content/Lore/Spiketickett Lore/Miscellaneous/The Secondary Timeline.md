@@ -1,1 +1,0 @@
-This universe is the home of [[Jackson 'Jack' Jensen]].

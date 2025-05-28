@@ -1,1 +1,0 @@
-Project DENPA was a human experimentation program developed and commenced by [[Tavish Augmetitech]], primarily focused around inducing [[Psionics|psionic abilities]] in comatose subjects by means of psychological torture.
