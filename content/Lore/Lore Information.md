@@ -31,9 +31,7 @@ First contact between Rustybot and The Swarm occurs.
 ### 2199
 [[The Ring]] is constructed along with [[The Ring Steward]].
 ### 2200
-[[Jackson 'Jack' Jensen]] travels to [[The Primary Timeline]] and [[The Ringleaders]] are officially formed.
-
-[[Lumina Valo]] is later introduced to the Ringleaders after [[Leena Tuonen]] forced her to do a job involving them.
+[[The Ringleaders]] are officially formed.
 ### 2202
 [[A Lizard First Contact|First contact]] between [[Zard]] and The Ringleaders.
 
@@ -46,7 +44,7 @@ Also known as Chaos Force, True Magic is the raw power of Underspace being harne
 
 True Magic is what allows abilities such as toonforce or fourth wall breaks to be entirely diegetic. It is an acknowledgement that [[The Ringleaders]] exist in fiction and that the rules can be broken for the sake of entertainment. As such, the real purpose of Chaos Force is to foster character development, important events and entertaining interactions.
 
-Importantly, True Magic is not limited to timelines with arcane themes or permeable membranes. Despite being bound entirely by the laws of physics, [[Lore/Rustybot Lore/Rustybot|Rustybot]] is technically a user of Chaos Force due to his development of [[Rusty Manufacturing#Underspace Harvester Cores|Underspace Harvester Cores]]. While they may not have the same trappings as other magical devices, the cores fall under True Magic because they serve important narrative purposes. The first and most obvious is that access to an unlimited power supply allows Rustybot to create more interesting technology. The second and more important reason is that breaching the Primeline’s lower membrane caught the attention of [[Tavish Augmetitech]], essentially kickstarting the rest of the story.
+Importantly, True Magic is not limited to timelines with arcane themes or permeable membranes. Despite being bound entirely by the laws of physics, [[Lore/Rustybot Lore/Rustybot|Rustybot]] is technically a user of Chaos Force due to his development of [[Rusty Manufacturing#Underspace Harvester Cores|Underspace Harvester Cores]]. While they may not have the same trappings as other magical devices, the cores fall under True Magic because they serve important narrative purposes. The first and most obvious is that access to an unlimited power supply allows Rustybot to create more interesting technology. 
 
 ## Strands
 In multiverse stories, it's often very interesting to see characters interact with alternate versions of themselves, or explore an alternate history of their home timeline. A logical problem that results from this is how things coincidentally line up to make such a thing possible. Strands solve this by pulling universes with interesting connections "closer" to each other.
