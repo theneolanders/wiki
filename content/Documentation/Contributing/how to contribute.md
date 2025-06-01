@@ -16,7 +16,7 @@ Github Desktop will allow you to push and pull without needing to use the comman
 - Step 4) Choose a directory to save the Github Repo to
 - Step 5) You now have a local copy of the Neolanders Wiki Github Repository
 ## 3. Setting up the repo with Obsidian
-Linking the `content` folder to open as a vault in Obsidian
+Link the `content` folder to open as a vault in Obsidian
 
 ## 4. Push to Github
 Final step is to push your changes and deal with any conflicts and pull requests.
