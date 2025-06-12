@@ -25,7 +25,7 @@ He giggles at 'spaceball' and moved to look through the telescope again.
 
 "How many is there?" He asks, distractedly.
 
-"It's ‘how many *are* there', and I was *hoping* you'd ask that. C'mere." I say, taking his hand. I place a marble in his palm. Yellow glass with streaks of orange and red all throughout. "Imagine this is the sun, ok?"
+"It's ‘how many *are* there', and I was *hoping* you'd ask that. C'mere." I say, taking his hand. I place a marble in his palm; Yellow glass with streaks of orange and red all throughout. "Imagine this is the sun, ok?"
 
 He held it up to his face and thought for a moment before pointing at the wall. "That means Earth is like that far away, right?"
 
