@@ -1301,3 +1301,6 @@
 - Main thruster particles no longer have random direction when distant in order to make the trail look smoother
 - Locally disabled sensors to save on everyone else's performance
 - Moved Speedometer out of sensors for now since my treads are calculated off that
+- Charge shot projectiles now respect ParentingBullets variable
+- Changed grab priority on chest door
+- Fixed laser shot muzzle flash particles being the wrong material
