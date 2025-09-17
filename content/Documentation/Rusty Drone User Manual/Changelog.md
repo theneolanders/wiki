@@ -1305,3 +1305,7 @@
 - Changed grab priority on chest door
 - Fixed laser shot muzzle flash particles being the wrong material
 - Hand thruster particles now have collision
+- Bike mode now has toggleable automatic gravity alignment with the ground
+- Added HUD icon for Bike Autogravity
+- Fixed legs sometimes popping out for a short moment when exiting Rocket/Bike mode
+- Fixed Bitbot deploying while in Bitbot/Rocket/Bike modes
