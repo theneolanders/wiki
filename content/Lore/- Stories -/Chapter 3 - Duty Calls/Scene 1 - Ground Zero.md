@@ -7,7 +7,7 @@
 ---
 **Rustybot**
 
-**Rusty Manufacturing Post-Planetfall Production Preparation Post (RMPPPP), Quindlet, Quindol, Andromeda**
+**Rusty Manufacturing Post-Planetfall Production Preparation Post (RMPPPPP), Quindlet, Quindol, Andromeda**
 
 **2171**
 
