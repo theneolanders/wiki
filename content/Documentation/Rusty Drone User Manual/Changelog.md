@@ -1314,3 +1314,7 @@
 - Bitbot's screen now uses stencils and an updated eye mesh
 - Drone now falls to the ground with a thud on shutdown
 - Nametag now follows head part rather than user head
+### 3.12
+- Boot sequence can no longer double fire
+- Changed "Reboot" quick menu option to "Shutdown"
+- 
