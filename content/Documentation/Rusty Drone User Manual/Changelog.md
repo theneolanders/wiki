@@ -1317,4 +1317,8 @@
 ### 3.12
 - Boot sequence can no longer double fire
 - Changed "Reboot" quick menu option to "Shutdown"
-- 
+- Added World Name display to extra info on HUD
+- Moved Current Slot display to bottom right
+- Multitool color pallet now reparents instead of driving position, fixing jitters
+- Improved flashlight cone visuals
+- Chest thruster particles now shrink over time
