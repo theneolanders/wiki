@@ -1322,3 +1322,4 @@
 - Multitool color pallet now reparents instead of driving position, fixing jitters
 - Improved flashlight cone visuals
 - Chest thruster particles now shrink over time
+- Adjusted world name display bounds
