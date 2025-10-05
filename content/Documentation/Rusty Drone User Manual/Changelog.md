@@ -1323,3 +1323,5 @@
 - Improved flashlight cone visuals
 - Chest thruster particles now shrink over time
 - Adjusted world name display bounds
+- Re-saved all modules/parts that haven't been modified since the awwdio update to reduce loading hitch
+- Added Stamper module for events!
