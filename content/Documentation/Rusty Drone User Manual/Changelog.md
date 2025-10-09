@@ -1325,3 +1325,4 @@
 - Adjusted world name display bounds
 - Re-saved all modules/parts that haven't been modified since the awwdio update to reduce loading hitch
 - Added Stamper module for events!
+- Cleaned up Bitbot's particles (removed a bunch oft he injected Photondust stuff)
