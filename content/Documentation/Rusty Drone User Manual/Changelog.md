@@ -1326,3 +1326,6 @@
 - Re-saved all modules/parts that haven't been modified since the awwdio update to reduce loading hitch
 - Added Stamper module for events!
 - Cleaned up Bitbot's particles (removed a bunch oft he injected Photondust stuff)
+- Fixed grab sphere positioning being wrong when equipping a right multitool while a left multitool is equipped
+- Fixed shield parts clipping through the palm
+- Adjusted Bike Mode gravity and jump height
