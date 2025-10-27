@@ -1329,3 +1329,4 @@
 - Fixed grab sphere positioning being wrong when equipping a right multitool while a left multitool is equipped
 - Fixed shield parts clipping through the palm
 - Adjusted Bike Mode gravity and jump height
+- Charge shot projectiles can now be shot through portals
