@@ -1330,3 +1330,8 @@
 - Fixed shield parts clipping through the palm
 - Adjusted Bike Mode gravity and jump height
 - Charge shot projectiles can now be shot through portals
+- Removed ParentingBullets variable, HUD icon, and settings toggle
+- All attacks affected by the ParentingBullets variable now interact with Parenting Bullet systems by sending an empty to the designated slot on hit
+- Beam now interacts with Parenting Bullets
+- Head guns now interact with Parenting Bullets
+- Missiles now interact with Parenting Bullets
