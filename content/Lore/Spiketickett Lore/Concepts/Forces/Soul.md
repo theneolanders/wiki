@@ -1,0 +1,7 @@
+In [[The Secondary Timeline|the secondary timeline]], the concept of the **soul** is not of the ethereal, but rather a physical phenomenon that can be measured. It is a result of life's humble beginnings, being seeded across the stars in a panspermia event. In the inky void of space, single-celled organisms developed organelles that allowed them to pull energy directly from [[Underspace]] to subsist off of. 
+
+Although these organelles slowly became vestigial as multi-cellular life developed, they never truly disappeared. This influence began to creep its way back into life as sapience began to naturally evolve. The phenomenon known as the soul is a result of a lifetime of wear and tear on a being's body, forcing the cells that make them up to compensate. The likelihood of two creatures being alike in this way is infinitesimal.
+
+However, the influence of Underspace was a crutch, enabling neural structures that were inherently hyper-inefficient compared to those of the primary timeline. This change resulted in true-to-life artificial intelligence being infeasible without a near-infinite power source. In all recorded attempts, AIs that were intended to be power-limited drew significantly more power in a possible attempt to become truly conscious.
+
+Knowledge on this topic is highly esoteric; between the absurd precision required for measuring its existence, taboos on human experimentation, and cover ups by [[Tavish Augmetitech|corporate interests]], little progress can be made in researching it. 

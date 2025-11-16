@@ -1,0 +1,5 @@
+A **braincase** is an [[Implants and augmentations|augmentation]] which replaces the part of the skull known as the neurocranium. This procedure, at the very least, results in a more protective shell for the one irreplaceable part of the human body. However, more complex braincases serve as full life support systems which supply the brain with everything necessary for nominal function. Another measure of complexity is whether the braincase is intended to interface with a body or if they may remain fully stationary.
+
+Stationary braincases are quite uncommon as their ethics are hotly debated; those who have their brains placed in them often have very little autonomy and have effectively signed away their lives. Despite this, there remain places where stationary braincases are fully legal, and these 'workers' form the backbone of a number of shady corporations.
+
+The [[Cerebral Order]] famously have clear braincases connected to their robotic bodies, symbolizing their undying commitment to the [[Tavish Augmetitech]] corporation.

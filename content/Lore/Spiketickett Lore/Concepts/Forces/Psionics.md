@@ -1,0 +1,5 @@
+**Psionics** are a physical manifestation of the [[Soul]] in the [[The Secondary Timeline]]. They primarily come about as a result of trauma- both physical and mental. However, they present very rarely in any known population due to the uncommon circumstances required. Even when the requirements are met, most of the afflicted are unlikely to survive even a month with them.
+
+This low survival rate is explained primarily by deaths often ruled as freak accidents. These 'accidents' are often their own doing- even a single misplaced thought could destroy them. Most surviving psionics are typically highly disciplined or even conditioned in a way that allows them to control their abilities. 
+
+These aforementioned abilities vary wildly from person to person. Using their bodies to draw from [[Underspace]], they then channel that energy into the world. Each psionic has their own inherent predisposition to methods of channeling that energy, although there is no way to determine what it could be. 
