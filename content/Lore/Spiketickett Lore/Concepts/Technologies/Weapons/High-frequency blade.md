@@ -1,0 +1,1 @@
+The high frequency blade is an advanced form of an ultrasonic cutter, vibrating blades at incomprehensible speeds until the blade can split objects down to the molecular level. These weapons are commonly used by [[Sappers|sappers]] and security forces who are likely to encounter thickly armored foes or in sensitive environments where a stray bullet could jeopardize everything.

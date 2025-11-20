@@ -2,4 +2,4 @@ The **Tavish Augmetitech Self-Defense Force** is a paramilitary organization tha
 
 ## Equipment
 ---
-The TASDF use a variety of equipment from various manufacturers, including [[content/Lore/Spiketickett Lore/Groups/Corporations/Misc. Corporations/Apex Arms/Apex Arms|Apex Arms]], [[content/Lore/Spiketickett Lore/Groups/Corporations/Misc. Corporations/Robustelli/Robustelli|Robustelli]], and [[content/Lore/Spiketickett Lore/Groups/Corporations/Misc. Corporations/Strike Weapons Systems/Strike Weapons Systems|Strike Weapons Systems]].
+The TASDF use a variety of equipment from various manufacturers, including [[content/Lore/Spiketickett Lore/Groups/Corporations/Misc. Corporations/Apex Arms/Apex Arms|Apex Arms]], [[content/Lore/Spiketickett Lore/Groups/Corporations/Misc. Corporations/Robustelli/Robustelli|Robustelli]], and [[content/Lore/Spiketickett Lore/Groups/Corporations/Misc. Corporations/Strike Weapons Systems/Strike Weapons Systems|Strike Weapons Systems]]. They're also known for their [[High-frequency blade|high-frequency naginatas]] which are kept by some officers for close-quarters encounters with heavily armored foes.
