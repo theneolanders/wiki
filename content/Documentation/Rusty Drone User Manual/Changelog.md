@@ -1335,3 +1335,7 @@
 - Beam now interacts with Parenting Bullets
 - Head guns now interact with Parenting Bullets
 - Missiles now interact with Parenting Bullets
+- Buster now interacts with standardized damage system
+- Missiles now interacts with standardized damage system
+- Removed the deletion dynamic impulse from the screen following a Resonite bugfix that makes it unnecessary
+- Removed the tether target clearing circuit following a Resonite bugfix that makes it unnecessary
