@@ -1339,3 +1339,5 @@
 - Missiles now interacts with standardized damage system
 - Removed the deletion dynamic impulse from the screen following a Resonite bugfix that makes it unnecessary
 - Removed the tether target clearing circuit following a Resonite bugfix that makes it unnecessary
+- Added a transformoverride to screen socket cameras
+- Parenting bullet triggers now last slightly longer
