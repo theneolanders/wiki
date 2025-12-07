@@ -1341,3 +1341,4 @@
 - Removed the tether target clearing circuit following a Resonite bugfix that makes it unnecessary
 - Added a transformoverride to screen socket cameras
 - Parenting bullet triggers now last slightly longer
+- Replaced screen clear flip with full wiper animation
