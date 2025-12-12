@@ -1342,3 +1342,4 @@
 - Added a transformoverride to screen socket cameras
 - Parenting bullet triggers now last slightly longer
 - Replaced screen clear flip with full wiper animation
+- Reticle now animates in and out instead of just appearing
