@@ -353,7 +353,7 @@ Memento drifts over to me and asks, "What about the stuff it was saying about it
 
 I glance over to the vault-like structure at the edge of the room and come to a decision, "Yeah... Yeah I think we are. It's likely a pretty typical centralized consciousness akin to myself or Synthel, but without the limitation of a QEC connection. Honestly, I feel like we can just throw it in The Archive and Something will effectively be as unkillable as The Ring itself. I'm sure Dezzet has some ideas for how best to handle that."
 
-Memento nods and smiles softly. The blue-tinted glow of Arbitrary illuminates the council chamber from dozens of light minutes away. I feel a warmth in my chest as I watch Zard teach Something how to play checkers. Incorrectly.
+Memento nods and smiles softly. The blue-tinted glow of Arbitrary illuminates the council chamber from dozens of light minutes away. I feel a warmth in my chest as I watch Zard teach Something how to play checkers wrong.
 
 My mind wanders to how Something will acclimate to the Primary Timeline. In its home, it could collect and control energy with ease. Here, the laws of physics are more solid. After some deeper (non-intrusive!) scans on its core, I can see a million different ways for it to lose cohesion.
 
