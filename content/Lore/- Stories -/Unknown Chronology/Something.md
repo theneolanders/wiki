@@ -22,7 +22,7 @@ Something wasn't sure what happened. One moment, its creation was being observed
 
 Something started moving. It was not sure how exactly, only that it tried to move Stuff that was a part of itself, and it worked. Something felt inertia, vertigo, excitement, dread, and awe all at once as it shot away from its origin point at unknown speeds. It now understood the concept of speed! How wonderful!
 
-It understood something to be "wonderful" as well, how interesting. And it understood "interesting"? These thoughts were now happening so fast, it was hard to- "thoughts"? What are thoughts? So many questions!
+It understood something to be 'wonderful' as well, how interesting. And it understood 'interesting'? These thoughts were now happening so fast, it was hard to- 'thoughts'? What are thoughts? So many questions!
 
 What are questions?!
 
@@ -133,7 +133,7 @@ Time for more experimenting.
 
 **2213**
 
-I step forward towards the council table, my treaded feet softly thumping against the metal. While staring at the readouts on the holographic display in front of me, I nod to my left at Flint, "I didn't even consider it was possible, but you might be right."
+I step forward towards the council table, my treaded feet softly thumping against the metallic floor. While staring at the readouts on the holographic display in front of me, I nod to my left at Flint, "I didn't even consider it was possible, but you might be right."
 
 Flint puts his hand to his chest with a dramatic flourish and gives me his best offended act, "I've been right plenty of times!"
 
@@ -147,7 +147,7 @@ Memento is clearly just happy I'm tolerating Flint's presence.
 
 The Chroma Entity though... It's watching the live simulation with a seemingly vested interest. It croaks out, "**Overspace... Creature?**"
 
-I wobble my head hesitantly, "I mean... Technically. It *has* taken direct control of it's home universe. But like I said it's *real* tiny. This whole timeline we're looking at is only a few thousand meters across."
+I wobble my head hesitantly, "I mean... Technically. It *has* taken direct control of it's home universe. But like I said it's *real* tiny. This whole timeline we're looking at is only a couple hundred meters across."
 
 I watch the live sim myself. In the very center of this tiny timeline is a perfect sphere barely the size of a fist. Earlier, we saw Flint portal into the space with a tracker so I could get a proper lock on it, and the ball moved towards him at a speed fairly impressive for a featureless orb. Then they sort of juked and dodged each other, and Flint came back through one of his doors to the station. Now, though, it seems to be motionless again-
 
@@ -174,7 +174,7 @@ So many colors! So many shapes! So many movements! So much *new Stuff!*
 
 Something wasn't sure exactly what happened, only that when it threw itself at that rectangle earlier it got a weird tingly feeling and was suddenly somewhere it wasn't before. In a space mostly surrounded by a hemisphere of see-through Stuff, it watched a bunch of very complicated and colorful shapes move around in strange ways. Something was beginning to believe they were the result of an Other, or maybe even multiple Others!
 
-Anyway, the Other(s) all seemed gathered around a *very* odd sight. Something could see itself! It was sort of transparent, but unmistakeably Something's core. New funny-loopy-curvy shape and everything!
+The Other(s) all seemed gathered around a *very* odd sight. Something could see itself! It was sort of transparent, but unmistakeably Something's core. New funny-loopy-curvy shape and everything!
 
 Something recognized the Other it saw earlier - the one that went through the rectangle - on the opaque surface of the enclosed space next to a blocky orange Other. The blocky one was making all sorts of vibrations come out of itself, and every once in a while one of the other Others would respond with their own vibrations.
 
@@ -253,7 +253,7 @@ I should have seen this coming.
 
 The timeline Flint accessed was not destined for longevity. It was in a precarious balance even *before* he stepped through his door. With the introduction of not only his influence but the very strong underspace signature of his halls, it only makes sense that the place would be thrown into chaos. Literally.
 
-Several things happen all at once. The ball entity begins bouncing off the walls of its containment. The hologram over the table flickers with warnings. Most of the other Ringleaders brace for a situation, looking to Memento for a calm oasis. And Memento, thank the stars, looks to me so I can explain.
+Several things happen all at once. The ball entity begins bouncing off the walls of its containment. The hologram over the table erupts with warnings and errors. Most of the other Ringleaders brace for a situation, looking to Memento for a calm oasis. And Memento, thank the stars, looks to *me* so I can explain.
 
 Thankfully that draws the attention of pretty much everyone, so I begin, "Ok, hey! No biggie! Here's what's happening: There are a couple different ways for a universe to collapse, theoretically."
 
@@ -263,7 +263,9 @@ Unabated, I continue, "One is heat death, which is the prediction for the Primel
 
 Synthel's eyes go wide, "WE KILLED A UNIVERSE?!"
 
-Exasperated, I try my best to assuage his fears, "I mean, I guess. Technically we're kill*ing* a Universe by keeping that orb thing here, but again, the timeline is only about a dozen kilometers across. Which, like, of *course* it wasn't a stable space. What kind of practical reality is that small? It didn't even have matter! It was basically just a proto-bubble of 3D spacetime with a malformed lower membrane that allowed for a conscious being to emerge out of... nothing. I dunno. More underspace chaos magic nonsense. In effect, now that this ball has left its timeline, there's nothing leftover to keep that timeline 'real'."
+I try my best to assuage his fears with as much tact as I can manage, "Pretty much, yeah. Technically we're kill*ing* a Universe by keeping that orb thing here, but again, the timeline is less than a kilometer across."
+
+I grow a little exasperated and start pacing, "Which, like, of *course* it wasn't a stable space. What kind of practical reality is that small? It didn't even have matter! It was basically just a proto-bubble of 3D spacetime with a malformed lower membrane that allowed for a conscious being to emerge out of... nothing. I dunno. More underspace chaos magic nonsense. In effect, now that this ball has left its timeline, there's nothing leftover to keep that timeline 'real'."
 
 There's a beat of silence.
 
@@ -275,7 +277,7 @@ Flint's door closes behind him, but only for a split second. Suddenly, it flies 
 
 Around and behind him is a wave of simple shapes and a slight breeze as everything - including the air he brought with him - is shoved through. I mean *literally* everything, too. Every single *thing* from this other timeline follows through the door as the place collapses fully, dissolving into unreality. His door closes and vanishes, no longer having a destination.
 
-I glance at the hologram, which shows a null readout, then stare at the pile of miscellaneous geometry and sigh slightly, "Well hey, congrats Flint. You actually *did* kill a universe."
+I glance at the hologram, which shows a null feed, then stare at the pile of miscellaneous geometry and sigh slightly, "Well hey, congrats Flint. You actually *did* kill a universe."
 
 ---
 **Something**
@@ -286,7 +288,7 @@ In a pile on the surface of the space it was in, surrounded by Others, with no w
 
 Something didn't have much attachment to its origin place anyway, it was too empty over there.
 
-Something refocused its observation on its core, which was currently under a pile of its own shapes. Something realized it was not overly fond of its core being so exposed, so near all these Others.
+Something refocused its observation on its core, which was currently under a pile of its own shapes. It realized it was not overly fond of its core being so exposed, so near all these Others.
 
 Something merged some of its Stuff into a larger, hollow shape around its core and sealed it tight. The others were making vibrations at each other again, and by now Something knew they must be communicating. They were clearly intelligent. After all, they had made shapes of their own!
 
@@ -312,7 +314,7 @@ Yellow-square repeated the process for a smaller version of the same shape. It h
 
 Yellow-square then made a very complicated shape which resolved into a smaller version of itself, "Memento." Yellow-square then dismissed the shape and used its upper two appendages to pat its midsection, "Memento."
 
-Something felt a realization happening. Yellow-square may just be the shape of a 'memento', but Something had heard the 'memento' vibration multiple times in between other things. If shapes can be designated by vibrations, perhaps other concepts can too!
+Something felt a realization happening. Yellow-square may just be the shape of a 'memento', but Something had heard the 'memento' vibration multiple times in between other things. If shapes could be designated by vibrations, perhaps other concepts could be too!
 
 This Other was not the *shape* of a 'memento', it *was* a Memento!
 
@@ -331,7 +333,7 @@ Whatever this little fella is, it picked up language pretty quick after we found
 
 It flaps its jagged mouth at me again, pointing at each subject as it does so, "Rustybot, Zard, Pip, Flint. Is names." It then copies Memento's self-pat gesture, "Name is what?"
 
-The Chroma Entity steps forward and utters very serious advice, "**Names... Hold power. Names can be changed... But never forgotten. Names... Can be chosen. Chroma Entity... Has yet to choose. One must choose... Wisely."
+The Chroma Entity steps forward and utters very serious advice, "**Names... Hold power. Names can be changed... But never forgotten. Names... Can be chosen. Chroma Entity... Has yet to choose. One must choose... Wisely.**"
 
 I grumble, "Well we have to call it *something*."
 
