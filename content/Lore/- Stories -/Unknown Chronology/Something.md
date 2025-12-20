@@ -345,7 +345,7 @@ I fumble out, "No- I- Hold on a sec."
 
 But the ball- or rather, Something is already getting bumps from the rest of the team.
 
-I mutter to Steward next to me, "Welp. Designate spare room 4 as belonging to Something, I guess."
+I mutter to Steward next to me, "Welp. Designate spare room 4 as belonging to Something, I guess. The one between Finch and Adam."
 
 Steward responds with various blips as usual.
 
