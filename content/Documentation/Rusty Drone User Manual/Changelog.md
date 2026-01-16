@@ -1346,6 +1346,7 @@
 ### 3.13
 - Eye tracking support!!
 	- Eyes now move around the screen
+	- Reticle is now controlled directly instead of by an automated eyemanager component
 	- Cameras now rotate
 	- Head guns are now aimed by sight instead of left hand
 - Antenna fold in flat when powered down
