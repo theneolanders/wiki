@@ -1343,3 +1343,10 @@
 - Parenting bullet triggers now last slightly longer
 - Replaced screen clear flip with full wiper animation
 - Reticle now animates in and out instead of just appearing
+### 3.13
+- Eye tracking support!!
+	- Eyes now move around the screen
+	- Cameras now rotate
+	- Head guns are now aimed by sight instead of left hand
+- Antenna fold in flat when powered down
+- Replaced RustyAnchorSpace with NeolanderAnchorSpace
