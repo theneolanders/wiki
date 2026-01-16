@@ -1351,3 +1351,4 @@
 	- Head guns are now aimed by sight instead of left hand
 - Antenna fold in flat when powered down
 - Replaced RustyAnchorSpace with NeolanderAnchorSpace
+- Fixed left charge shot HUD indicator not changing color correctly
