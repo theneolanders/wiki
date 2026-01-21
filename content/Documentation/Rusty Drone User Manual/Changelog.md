@@ -1352,3 +1352,6 @@
 - Antenna fold in flat when powered down
 - Replaced RustyAnchorSpace with NeolanderAnchorSpace
 - Fixed left charge shot HUD indicator not changing color correctly
+- Improved particles for missiles
+- Improved particles for charge shot
+- Improves particles for head guns
