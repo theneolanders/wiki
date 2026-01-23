@@ -1355,3 +1355,4 @@
 - Improved particles for missiles
 - Improved particles for charge shot
 - Improves particles for head guns
+- Added sounds for modular parts attaching/detaching
