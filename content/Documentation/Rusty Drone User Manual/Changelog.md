@@ -1346,6 +1346,7 @@
 ### 3.13
 - Eye tracking support!!
 	- Eyes now move around the screen
+	- Eyes now open/close
 	- Reticle is now controlled directly instead of by an automated eyemanager component
 	- Cameras now rotate
 	- Head guns are now aimed by sight instead of left hand
@@ -1356,3 +1357,6 @@
 - Improved particles for charge shot
 - Improves particles for head guns
 - Added sounds for modular parts attaching/detaching
+- Adjusted hands to animate smoother when spawning/retracting/deploying
+- Adjusted arms to animate smoother when spawning/retracting/deploying
+- Adjusted flight trail to smooth in/out more subtly when flying far away
