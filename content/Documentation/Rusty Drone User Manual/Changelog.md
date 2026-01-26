@@ -1360,3 +1360,6 @@
 - Adjusted hands to animate smoother when spawning/retracting/deploying
 - Adjusted arms to animate smoother when spawning/retracting/deploying
 - Adjusted flight trail to smooth in/out more subtly when flying far away
+- Utility visuals now track to the eye while it moves in Bitbot mode
+- Improved particles and adjusted blast range of buster's Repulsor mode
+- Added particles to all hex loops
