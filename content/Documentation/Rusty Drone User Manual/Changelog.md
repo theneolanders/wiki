@@ -1363,3 +1363,4 @@
 - Utility visuals now track to the eye while it moves in Bitbot mode
 - Improved particles and adjusted blast range of buster's Repulsor mode
 - Added particles to all hex loops
+- Fixed shields retracting too fast if multiple reset triggers are activated at once
