@@ -1366,3 +1366,5 @@
 - Fixed shields retracting too fast if multiple reset triggers are activated at once
 - Added a fireworks mode to the missile launchers
 - Improved and adjusted fireworks
+- Fixed charge shot spamming parenting bullet triggers while flying
+- Fixed charge shot accumulation appearing at full for one frame during the first shot of a newly instanced buster
