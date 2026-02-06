@@ -1,0 +1,1 @@
+Arbon Verne is the current President of [[Manticorp]], the interstellar bioengineering firm. He was 
