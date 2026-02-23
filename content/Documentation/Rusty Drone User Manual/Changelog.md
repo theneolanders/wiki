@@ -1370,3 +1370,5 @@
 - Fixed charge shot accumulation appearing at full for one frame during the first shot of a newly instanced buster
 - Adjusted eye tracking multipliers in Bitbot mode so the single eye can reach the edge of the screen
 - Added a spatial variable for Rusty Chairs to connect to
+- Eyes now expand horizontally slightly when blinking
+- Bitbot now projects a holographic keyboard when typing
