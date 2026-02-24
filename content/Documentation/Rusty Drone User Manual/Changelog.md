@@ -1372,3 +1372,4 @@
 - Added a spatial variable for Rusty Chairs to connect to
 - Eyes now expand horizontally slightly when blinking
 - Bitbot now projects a holographic keyboard when typing
+- Keyboard now only projects when drone has power
