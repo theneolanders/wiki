@@ -1370,6 +1370,15 @@
 - Fixed charge shot accumulation appearing at full for one frame during the first shot of a newly instanced buster
 - Adjusted eye tracking multipliers in Bitbot mode so the single eye can reach the edge of the screen
 - Added a spatial variable for Rusty Chairs to connect to
+- Added a Ruler utility that measures a line between both fingers
+- Ruler lines can now be duped and locked in place 
 - Eyes now expand horizontally slightly when blinking
 - Bitbot now projects a holographic keyboard when typing
 - Keyboard now only projects when drone has power
+- Bitbot now rotates correctly, for the first time literally ever lol
+- Screen Cleaning wiper animation is now a module
+- Improved ruler line visuals
+- Ruler lines now have snap points for building structures
+- Added a sound to the G.R.A.P.P.L.E.'s hook where it attaches to a surface
+- Adjusted how gravity tool platforms are placed
+- Replaced screen tapping animation with a stenciled particle
