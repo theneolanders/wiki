@@ -1382,3 +1382,4 @@
 - Added a sound to the G.R.A.P.P.L.E.'s hook where it attaches to a surface
 - Adjusted how gravity tool platforms are placed
 - Replaced screen tapping animation with a stenciled particle
+- Added session time display to HUD extras
