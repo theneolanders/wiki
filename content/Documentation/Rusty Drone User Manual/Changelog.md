@@ -1386,6 +1386,7 @@
 - Multitool now retracts when arms are retracted
 - Adjusted charge shot particles
 - Adjusted laser shot particles
+- Adjusted hex loop particles
 - Adjusted railgun particles
 - Screen is now metal on the inside
 - Removed flopbo eyes
