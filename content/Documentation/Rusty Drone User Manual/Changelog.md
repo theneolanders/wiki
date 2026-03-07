@@ -1383,3 +1383,11 @@
 - Adjusted how gravity tool platforms are placed
 - Replaced screen tapping animation with a stenciled particle
 - Added session time display to HUD extras
+- Multitool now retracts when arms are retracted
+- Adjusted charge shot particles
+- Adjusted laser shot particles
+- Adjusted railgun particles
+- Screen is now metal on the inside
+- Removed flopbo eyes
+- Adjusted G.R.A.P.P.L.E. hooking sound to have longer range and lower volume
+- Fixed a the multitool animating the hand panels when it shouldn't if the tool fails to equip
