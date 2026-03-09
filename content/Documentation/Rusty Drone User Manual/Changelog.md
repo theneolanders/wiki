@@ -1392,3 +1392,9 @@
 - Removed flopbo eyes
 - Adjusted G.R.A.P.P.L.E. hooking sound to have longer range and lower volume
 - Fixed a the multitool animating the hand panels when it shouldn't if the tool fails to equip
+- New visual mechanism for eye cameras!
+	- Blinking closes an iris shutter
+	- Shiny lens material
+	- Gimballing socket joint
+- Fixed charge shot lightning appearing for one frame when used for the first time after the buster is spawned
+- M.I.S.S.I.L.E.S. can now be toggled again instead of spawning a second copy
