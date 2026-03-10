@@ -1397,4 +1397,7 @@
 	- Shiny lens material
 	- Gimballing socket joint
 - Fixed charge shot lightning appearing for one frame when used for the first time after the buster is spawned
+- Adjusted screen shatter particles
 - M.I.S.S.I.L.E.S. can now be toggled again instead of spawning a second copy
+- Added sounds effects and confetti to a matching pair of gambling results
+- Adjusted repulsor particles
