@@ -5,6 +5,13 @@ The Rusty Drone utilizes multiple different snapper tags for its modularity func
 Unless otherwise specified, assume each part has its origin located roughly at the center of mass and is oriented such that its "forward" and "up" correspond to the positive Z-axis and positive Y-axis, respectively.
 ## RustyScreen
 The "RustyScreen" tag is used for goggles and glasses, almost always covering the eyes.
+Compatible with eye tracking if the correct parent values are in place on the snap target:
+
+| Tag                                        | Data Type | Function                                                                                                  |
+| ------------------------------------------ | --------- | --------------------------------------------------------------------------------------------------------- |
+| EyeDataEnabled                             | Bool      | If detected, the position of the eyes will be controlled by the wearer of the screen instead of the owner |
+| EyeDataDirection                           | Float3    | Look direction                                                                                            |
+| EyeDataOpennessLeft & EyeDataOpennessRight | Float     | Openness value for each eye                                                                               |
 ## RustyHead
 Detachable heads are a staple characteristic of Neolander interactions.
 ## RustyHat
