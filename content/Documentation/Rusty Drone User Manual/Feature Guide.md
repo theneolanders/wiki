@@ -17,7 +17,7 @@
 
 ### Left antenna button
 - Touch to clear nearby gizmos
-- Touch while holding right trigger to clear items with the "Clearable" tag from Rusty Anchor Space
+- Touch while holding right trigger to clear items with the "Clearable" and "ClearableNearby" tag from Neolander Anchor Space
 ### Right antenna button:
 - Press to equip gravity setter tip in left hand. 
 - Click a surface to align drone gravity with its normal. 
@@ -50,6 +50,8 @@ Reparents self to a user (raycasted selection from left hand), or back to home s
 Removes anything parented to the screen's surface, ex. pen strokes, projectiles
 ###### Flashlight
 Bitbot emits light from his eye. Light comes from Drone's chest when Bitbot is retracted and eye while in Bitbot mode.
+###### Ruler
+A line appears between the left and right index fingers. Press both context buttons to instance it into anchor space. Each end can snap to other instances.
 ### Modularity
 ###### Toggle
 Toggles whether or not the Drone's arms, hands, legs, feet, and head are grabbable by anyone. The screen is always grabbable by trusted users, the hands, arms, legs, and feet are grabbable by any trusted user except the pilot, and the head is only grabbable with modularity enabled.
@@ -61,6 +63,8 @@ Automatically replenishes any missing screens, arms, hands, legs, feet, and/or t
 Forcibly releases parts from modular snappers and causes them to behave like projectiles
 ###### DRM
 Activates Duplicate Rusty Mitigation to destroy all drone parts not connected to the unit
+###### Clear Modules
+Force deletes some modules. Mostly for debugging.
 ### Bitbot
 ###### Return
 Calls Bitbot back to the drone's shoulder if he's in camera mode
@@ -102,6 +106,8 @@ Allows grabbing and throwing of users. Click trigger while pointing at someone a
 Click and hold trigger to fire the hook along the targeting laser. While attached to a point, the line keeps the pilot’s momentum around a point. Release trigger to recall the hook. Use forward/backward on the joystick to reel in/out the length of the line. Hold trigger at full strength to use auto reeling. Physically yank on the line to be pulled in that direction with a slight velocity cancel. Latching onto a user allows the G.R.A.P.P.L.E. to function like a spring attached to both parties.
 ###### Flashlight
 Emits light from the palm
+###### Stamper
+A projected stamp emits forward. Can interact with the stamp book event item, and can have the image swapped out.
 ### Left Hand
 Identical to right hand
 ### Modes
@@ -110,13 +116,13 @@ Transforms drone into Rocket Mode. Steer with the joystick, pitch and roll via h
 ###### Bike
 Transforms drone into Bike Mode. Steer with the joystick, left trigger to boost. Double jump to hotswap to Rocket Mode.
 ###### Turret
-Combine the power core, minigun, and both busters into a front mounted gatling gun with forcefield barricade. Hold right trigger to spin up and fire.
+Combine the power core, minigun, and both busters into a front mounted Gatling gun with forcefield barricade. Hold right trigger to spin up and fire.
 ###### Compact
 The drone folds up into its head. In walk mode, a tread deploys. Click left trigger to shrink to Bitbot Mode.
 ###### Head Guns
 Deploys cranial blaster panels. Aim and shoot with left controller. Firing speed slows and sound changes in Bitbot Mode.
 ###### Missile Pods
-Deploys shoulder mounted rocket launchers. Aim with the right hand. Touch left secondary and click trigger to lock target based on the left targeting laser. Hold left trigger to fire. Targeting a user with the left hand hologram menu with the M.I.S.S.I.L.E.S. deployed with lock onto them.
+Deploys shoulder mounted rocket launchers. Aim with the right hand. Touch left secondary and click trigger to lock target based on the left targeting laser. Hold left trigger to fire. Targeting a user with the left hand hologram menu with the M.I.S.S.I.L.E.S. deployed with lock onto them. Double press the left context button to switch to fireworks mode.
 ###### Railgun
 Activates turret mode, head guns, and missile pods, then deploys the Rusty Particle Lance
 ### Settings
@@ -166,7 +172,6 @@ Use the right hand to high five someone while holding left grip and touching the
 - The screen display color reacts to the RustyTalkingLights variable
 - One Bitbot Multitool can idle at the right shoulder, and additional Bitbots will form a swarm behind the drone.
 - Entering broadcast mode in the Rusty Biomimicry Facility will display the Drone’s face on the hex panels.
-- Placing the screen on the face of a certain individual causes a unique effect.
 - Hands, arms, legs, feet, screen, Alpha Bitbot, and power core are fully modular and can be duplicated or deleted without permanent damage
 - Hand functionality can be used by anyone holding it.
 - Bitbot or the chest hexagon projects grab lasers when laser grabbing or when physical grabbing without a hand attached/deployed
