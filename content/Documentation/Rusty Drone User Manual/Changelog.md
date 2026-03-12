@@ -1401,3 +1401,5 @@
 - M.I.S.S.I.L.E.S. can now be toggled again instead of spawning a second copy
 - Added sounds effects and confetti to a matching pair of gambling results
 - Adjusted repulsor particles
+- Adjusted keyboard projection size
+- Adjusted hex loop light animation timing
