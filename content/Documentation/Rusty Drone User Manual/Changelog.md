@@ -1403,3 +1403,8 @@
 - Adjusted repulsor particles
 - Adjusted keyboard projection size
 - Adjusted hex loop light animation timing
+- Overhauled left hand menu
+	- Displays users as individual hexes instead of one at a time
+	- Shows direction and distance to user
+	- Shows profile picture
+	- Uses primary cloud color
