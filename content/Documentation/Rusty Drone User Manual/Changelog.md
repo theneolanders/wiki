@@ -1408,3 +1408,11 @@
 	- Shows direction and distance to user
 	- Shows profile picture
 	- Uses primary cloud color
+- Adjusted knockback on laser shots
+- Adjusted knockback on beam
+- Adjusted knockback on charge shot
+- Adjusted knockback on head guns
+- Adjusted knockback on M.I.S.S.I.L.E.S.
+- Fixed some visual bugs with the new user tracker display
+### 3.14
+- 
