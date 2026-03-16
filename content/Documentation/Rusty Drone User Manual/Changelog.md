@@ -1418,4 +1418,4 @@
 - Eye cameras are now fully modular
 	- Can be grabbed, ejected, recalled, and populated
 	- Trigger while holding to zoom
-- Buster can now explode Panda lmao
+- Buster repulser mode can now explode Panda lmao
