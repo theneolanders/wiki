@@ -1419,3 +1419,5 @@
 	- Can be grabbed, ejected, recalled, and populated
 	- Trigger while holding to zoom
 - Buster repulser mode can now explode Panda lmao
+- Fixed blaster hex loop appearing at origin if the raycast doesn't return a hit point
+- Fixed eye cameras extending while the screen is still connected
