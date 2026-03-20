@@ -6,12 +6,29 @@ Unless otherwise specified, assume each part has its origin located roughly at t
 ## RustyScreen
 The "RustyScreen" tag is used for goggles and glasses, almost always covering the eyes.
 Compatible with eye tracking if the correct parent values are in place on the snap target:
+#### Parent Values
+RustyScreen Snappers can support the following parent values
 
-| Tag                                        | Data Type | Function                                                                                                  |
-| ------------------------------------------ | --------- | --------------------------------------------------------------------------------------------------------- |
-| EyeDataEnabled                             | Bool      | If detected, the position of the eyes will be controlled by the wearer of the screen instead of the owner |
-| EyeDataDirection                           | Float3    | Look direction                                                                                            |
-| EyeDataOpennessLeft & EyeDataOpennessRight | Float     | Openness value for each eye                                                                               |
+| Tag                  | Data Type | Function                                                                                                  |
+| -------------------- | --------- | --------------------------------------------------------------------------------------------------------- |
+| EyeDataEnabled       | Bool      | If detected, the position of the eyes will be controlled by the wearer of the screen instead of the owner |
+| EyeDataDirection     | Float3    | Look direction                                                                                            |
+| EyeDataOpennessLeft  | Float     | Openness value for the left eye                                                                           |
+| EyeDataOpennessRight | Float     | Openness value for the right eye                                                                          |
+## RustyEye
+Eyes are mostly for visual purposes and are also RingThings.
+#### Parent Values
+RustyEye Snappers can support the following parent values
+
+| Tag           | Data Type | Function                                                 |
+| ------------- | --------- | -------------------------------------------------------- |
+| Grabbable     | Bool      | Whether or not the part can be grabbed.                  |
+| Attached      | Bool      | Signals if the eye is in a valid SnapTarget              |
+| PartType      | String    | Openness value for blinking                              |
+| LensRotation  | FloatQ    | LookRotation output                                      |
+| PitchRotation | FloatQ    | Constrained LookRotation output for the gimbal mechanism |
+| Openness      | Float     | Openness value for blinking                              |
+
 ## RustyHead
 Detachable heads are a staple characteristic of Neolander interactions.
 ## RustyHat
@@ -19,7 +36,7 @@ A generic hat snapper tag. Origins should be on the surface of the head (general
 ## RustyPowerCore
 In order to function correctly, power cores must have the "RustyPowerCore" dynamic variable space and the "RustyPowerCore/PowerSupply" dynamic variable of type float, where the value is any positive number (0 being no supply, 100 being full power, and greater than 100 being overcharged). 
 #### Parent Values
-RustyPowerCore Snappers can read the following parent values
+RustyPowerCore Snappers can support the following parent values
 
 | Tag              | Data Type | Function                                                                                         |
 | ---------------- | --------- | ------------------------------------------------------------------------------------------------ |
@@ -29,13 +46,13 @@ RustyPowerCore Snappers can read the following parent values
 ## RustyArm
 This tag is the most in-depth in terms of required systems to function. Slots with a RustyArm Snapper are to be oriented such that the positive Z-axis is facing away from what it is attached to and positioned such that the origin of the object is the attachment point.
 #### Parent Values
-RustyArm Snappers can read the following parent values
+RustyArm Snappers can support the following parent values
 
 | Tag         | Data Type | Function                                                                                   |
 | ----------- | --------- | ------------------------------------------------------------------------------------------ |
 | Attached    | Bool      | Signals if the arm is in a valid SnapTarget                                                |
 | Deployed    | Bool      | If the arm has a retraction state, this controls it                                        |
-| Grabbable   | Bool      | Whether or not the part can be grabbed.                                                    |
+| Grabbable   | Bool      | Whether or not the part can be grabbed                                                     |
 | Chirality   | Bool      | Determines chirality of the attached hand (if applicable). True for right, False for left. |
 | EndTarget   | Slot      | The slot the onboard IK will attempt to match the position of                              |
 | JointTarget | Slot      | The slot the onboard IK will point the upper arm at                                        |
@@ -51,7 +68,7 @@ Generally, the EndTarget is best positioned at the origin of an avatar's hand wi
 ## RustyHand
 If used, the RustyHand tag should be located on the end of a RustyArm oriented such that the fingers point along the positive Z-axis (this should result in the palm being at the "bottom). The origin of the hand should be positioned at the wrist's pivot point.
 #### Parent Values
-RustyHand Snappers can read the following parent values
+RustyHand Snappers can support the following parent values
 
 | Tag       | Data Type | Function                                                              |
 | --------- | --------- | --------------------------------------------------------------------- |
