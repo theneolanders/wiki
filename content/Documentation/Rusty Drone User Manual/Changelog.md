@@ -1424,3 +1424,4 @@
 - Added auxiliary cameras to faceplate
 - Cleaned up the injected components on the main thruster particles
 - Added a new set of particles that activated when flying far away
+- Fixed the dynamic plasma material on some particle systems
