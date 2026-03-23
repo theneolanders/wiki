@@ -875,7 +875,7 @@
 - Bitbot grab lasers are now lightning meshes
 - Modified cloudspawning system so a set of dynamic variables now populate with the most recent item URLs on boot rather than requesting the URL every time an item is spawned, saving significant time
 - Requesting item URL status is now shown on the HUD immediately following booting
-- Added variables for where or not individual arms are attached and a RustyOutfit snapper to the chest for Rusty Suit Jacked compatibility (thank you Amplified!)
+- Added variables for whether or not individual arms are attached and a RustyOutfit snapper to the chest for Rusty Suit Jacket compatibility (thank you Amplified!)
 - Added RingThing snapper to Bitbot for his little bowtie
 - Added childsaveblocker to the new snappers and also the main hat snapper
 - Added the ability to spin hands about the wrist by touching the lower thumb button and not the upper thumb button. Trigger strength on the opposite hand then controls speed
