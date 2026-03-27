@@ -1425,3 +1425,9 @@
 - Cleaned up the injected components on the main thruster particles
 - Added a new set of particles that activated when flying far away
 - Fixed the dynamic plasma material on some particle systems
+- Adjusted high-five particles
+- Removed suit sizing buttons from the left hand menu
+- Added a Force Scale button to the left hand menu
+- Fixed incorrect orientations on left hand user tracker holograms
+- Eye Cameras now zoom further when stacked
+- Fixed flashlight being able to close multiple times
