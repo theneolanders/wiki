@@ -1433,3 +1433,4 @@
 - Fixed flashlight being able to close multiple times
 - Added dust trail particles when moving quickly and far away
 - Hands and arms now have chirality filters for grabbability
+- Fixed head guns module not using talking lights colors
