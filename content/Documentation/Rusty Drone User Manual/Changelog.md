@@ -1431,3 +1431,5 @@
 - Fixed incorrect orientations on left hand user tracker holograms
 - Eye Cameras now zoom further when stacked
 - Fixed flashlight being able to close multiple times
+- Added dust trail particles when moving quickly and far away
+- Hands and arms now have chirality filters for grabbability
