@@ -1435,3 +1435,7 @@
 - Added dust trail particles when moving quickly and far away
 - Hands and arms now have chirality filters for grabbability
 - Fixed head guns module not using talking lights colors
+- Bitbot now has tapping particles
+- Gizmo beam and grab lasers now appear through the screen via stencil material stacking
+- Fixed screen blinker appearing through the dash
+- Added support for RustyZapPoint interaction
