@@ -1436,6 +1436,11 @@
 - Hands and arms now have chirality filters for grabbability
 - Fixed head guns module not using talking lights colors
 - Bitbot now has tapping particles
+- Added "Stupid stibky snapper for dumb stink reason"
 - Gizmo beam and grab lasers now appear through the screen via stencil material stacking
 - Fixed screen blinker appearing through the dash
 - Added support for RustyZapPoint interaction
+- Multitool overhaul
+	- Double context now opens a holomenu (The Toolshift) for selecting between TWELVE different potential options
+	- Added Grabbable setter tool head
+	- Added Glue tool head
