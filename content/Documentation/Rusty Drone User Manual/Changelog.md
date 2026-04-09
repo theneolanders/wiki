@@ -1444,3 +1444,4 @@
 	- Double context now opens a holomenu (The Toolshift) for selecting between TWELVE different potential options
 	- Added Grabbable setter tool head
 	- Added Glue tool head
+	- Adjusted how the tool arm animates
