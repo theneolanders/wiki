@@ -1423,7 +1423,7 @@
 - Fixed eye cameras extending while the screen is still connected
 - Added auxiliary cameras to faceplate
 - Cleaned up the injected components on the main thruster particles
-- Added a new set of particles that activated when flying far away
+- Added a new set of particles that activate when flying far away in rocket mode
 - Fixed the dynamic plasma material on some particle systems
 - Adjusted high-five particles
 - Removed suit sizing buttons from the left hand menu
@@ -1436,7 +1436,7 @@
 - Hands and arms now have chirality filters for grabbability
 - Fixed head guns module not using talking lights colors
 - Bitbot now has tapping particles
-- Added "Stupid stibky snapper for dumb stink reason"
+- Added Stupid stibky snapper for stink reason
 - Gizmo beam and grab lasers now appear through the screen via stencil material stacking
 - Fixed screen blinker appearing through the dash
 - Added support for RustyZapPoint interaction
@@ -1445,3 +1445,4 @@
 	- Added Grabbable setter tool head
 	- Added Glue tool head
 	- Adjusted how the tool arm animates
+- Stupid stibky snapper for stink reason is now included as a target in the part ejector circuit
