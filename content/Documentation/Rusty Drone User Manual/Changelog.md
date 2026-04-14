@@ -1445,4 +1445,6 @@
 	- Added Grabbable setter tool head
 	- Added Glue tool head
 	- Adjusted how the tool arm animates
+	- Added Light tool head
 - Stupid stibky snapper for stink reason is now included as a target in the part ejector circuit
+- Hand is now ungrabbable if it is attached and the multitool is deployed
