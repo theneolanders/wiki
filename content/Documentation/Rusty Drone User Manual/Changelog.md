@@ -1454,3 +1454,6 @@
 - Stupid stibky snapper for stink reason is now included as a target in the part ejector circuit
 - Hand is now ungrabbable if it is attached and the multitool is deployed
 - Added HUD icon for when the stupid stibky snapper for stink reason has a child
+- Added variables for right hand back and palm buttons
+- Added force gravity and match gravity buttons to left hand back menu
+- Added hair snapper
