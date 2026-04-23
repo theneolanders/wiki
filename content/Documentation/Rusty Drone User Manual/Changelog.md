@@ -1457,3 +1457,6 @@
 - Added variables for right hand back and palm buttons
 - Added force gravity and match gravity buttons to left hand back menu
 - Added hair snapper
+- Added a color override variable to use instead of driving PilotColor
+- HUD elements now use User/LightsColor rather than PilotColor
+- Buster HUD elements now respect User/LightsColor
