@@ -1451,6 +1451,8 @@
 	- Multitool menu now closes when context is double clicked instead of trying to open a second time
 	- Adjusted how the tool head animation is triggered when closing
 	- Added struts to the grabber tool head
+	- Added holographic tool heads to the new menu
+	- Hologram menu now properly appears for non-drone users
 - Stupid stibky snapper for stink reason is now included as a target in the part ejector circuit
 - Hand is now ungrabbable if it is attached and the multitool is deployed
 - Added HUD icon for when the stupid stibky snapper for stink reason has a child
