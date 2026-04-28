@@ -1453,7 +1453,9 @@
 	- Added struts to the grabber tool head
 	- Added holographic tool heads to the new menu
 	- Hologram menu now properly appears for non-drone users
+	- Fixed glue tool head using the wrong material in a few places
 - Stupid stibky snapper for stink reason is now included as a target in the part ejector circuit
+- Slightly optimized rocket mode acceleration circuit
 - Hand is now ungrabbable if it is attached and the multitool is deployed
 - Added HUD icon for when the stupid stibky snapper for stink reason has a child
 - Added variables for right hand back and palm buttons
@@ -1462,3 +1464,4 @@
 - Added a color override variable to use instead of driving PilotColor
 - HUD elements now use User/LightsColor rather than PilotColor
 - Buster HUD elements now respect User/LightsColor
+- Changed controls for tractor tether, allowing extendo arm synergy
