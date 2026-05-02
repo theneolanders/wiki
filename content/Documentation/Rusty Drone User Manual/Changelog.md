@@ -1465,4 +1465,6 @@
 - HUD elements now use User/LightsColor rather than PilotColor
 - Buster HUD elements now respect User/LightsColor
 - Changed controls for tractor tether, allowing extendo arm synergy
+- Exaggerated antennae wiggle when talking
+- Changed rocket mode acceleration controls to behave more like a throttle
 - Fixed utility flashlight not respecting User/LightsColor
