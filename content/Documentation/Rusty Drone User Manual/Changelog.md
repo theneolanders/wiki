@@ -1457,7 +1457,7 @@
 - Stupid stibky snapper for stink reason is now included as a target in the part ejector circuit
 - Slightly optimized rocket mode acceleration circuit
 - Hand is now ungrabbable if it is attached and the multitool is deployed
-- Added HUD icon for when the stupid stibky snapper for stink reason has a child
+- Added HUD icon for when the stupid stibky snapper for stink reason has been forcibly populated
 - Added variables for right hand back and palm buttons
 - Added force gravity and match gravity buttons to left hand back menu
 - Added hair snapper
@@ -1465,3 +1465,4 @@
 - HUD elements now use User/LightsColor rather than PilotColor
 - Buster HUD elements now respect User/LightsColor
 - Changed controls for tractor tether, allowing extendo arm synergy
+- Fixed utility flashlight not respecting User/LightsColor
