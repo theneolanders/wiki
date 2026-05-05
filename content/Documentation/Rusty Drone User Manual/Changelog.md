@@ -1468,3 +1468,8 @@
 - Exaggerated antennae wiggle when talking
 - Changed rocket mode acceleration controls to behave more like a throttle
 - Fixed utility flashlight not respecting User/LightsColor
+- Cleaned up the injected components on the chest thruster particles
+- Fixed chest thruster not respecting local user space
+- Fixed Utility flashlight using linear color space for clamping instead of srgb
+- Fixed gunshift jittering around
+- Added a Parent To option to the lock on menu
