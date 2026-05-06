@@ -1473,3 +1473,9 @@
 - Fixed Utility flashlight using linear color space for clamping instead of srgb
 - Fixed gunshift jittering around
 - Added a Parent To option to the lock on menu
+- Optimized some particle meshes
+- Tweaked procedural torso animation
+- Fixed torso facing direction toggle using the wrong coordinate space
+- Adjusted under what conditions L.E.G.S. are deployed
+- Doubled flight gravity to make auto-uprighting behave nicer
+- Hex loops now locally scale based on distance
