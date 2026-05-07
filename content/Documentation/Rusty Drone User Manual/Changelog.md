@@ -1454,6 +1454,7 @@
 	- Added holographic tool heads to the new menu
 	- Hologram menu now properly appears for non-drone users
 	- Fixed glue tool head using the wrong material in a few places
+	- Fixed color pallet and material storage failing to animate when dequipped
 - Stupid stibky snapper for stink reason is now included as a target in the part ejector circuit
 - Slightly optimized rocket mode acceleration circuit
 - Hand is now ungrabbable if it is attached and the multitool is deployed
@@ -1479,3 +1480,7 @@
 - Adjusted under what conditions L.E.G.S. are deployed
 - Doubled flight gravity to make auto-uprighting behave nicer
 - Hex loops now locally scale based on distance
+- Adjusted audio falloff for headguns
+- Adjusted audio falloff for minigun
+- Fixed screen zapping losing the reference point when moving out of range
+- Adjusted audio falloff for G.R.A.P.P.L.E. beam and reeling
