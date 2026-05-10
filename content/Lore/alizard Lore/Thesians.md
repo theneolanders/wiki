@@ -4,9 +4,5 @@ Thesians were originally created in [[The Thesian Timeline]] to serve many utili
 The original Thesians created to serve various purposes for the Thesianite Kingdom
 ## Thesian Fragments
 Thesian Fragments are parts of the original Thesians that got scattered across the multiverse, they typically lack higher intelligence. 
-## Corrupted Thesians
-WIP
-## New Thesians 
-WIP
 # Known Thesians
 [[Zard]]
