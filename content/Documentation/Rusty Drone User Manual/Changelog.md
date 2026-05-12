@@ -1484,3 +1484,4 @@
 - Adjusted audio falloff for minigun
 - Fixed screen zapping losing the reference point when moving out of range
 - Adjusted audio falloff for G.R.A.P.P.L.E. beam and reeling
+- Tether now adjusts hold distance based on scale of targeted user
