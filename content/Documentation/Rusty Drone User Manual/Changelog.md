@@ -1485,3 +1485,7 @@
 - Fixed screen zapping losing the reference point when moving out of range
 - Adjusted audio falloff for G.R.A.P.P.L.E. beam and reeling
 - Tether now adjusts hold distance based on scale of targeted user
+# 3.15
+- Quick menu now uses spatial variables!
+- Bitbot voice works again
+- User trackers now show controller battery level
