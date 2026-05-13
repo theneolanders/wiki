@@ -1489,3 +1489,10 @@
 - Quick menu now uses spatial variables!
 - Bitbot voice works again
 - User trackers now show controller battery level
+- Added support for modules locking the chest panel
+- Added support for modules turning off thruster particles
+- Screen can now be tapped while held or worn, but not while attached
+- Began working on the Weave Interaction Conduit
+	- Animation for socket connection
+	- Overrides thruster particles
+	- Overrides base lights color
