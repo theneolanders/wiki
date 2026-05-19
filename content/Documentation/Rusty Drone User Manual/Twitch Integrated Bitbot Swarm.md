@@ -14,8 +14,10 @@ Rusty Manufacturing's Twitch Integrated Bitbot Swarm is a device that allows cha
 - Lifespan
 	- Base lifespan is 30 seconds.
 	- Subscribers have double lifespan
+	- Stored bits will increase base lifespan
+	- Any new chat message will refresh the timer
 - Using RustyManufacturing emotes or ending your message with a question mark will change the facial expression of your Bitbot
 - Bits
 	- Bitbots track how many bits have been sent over their lifetime
-	- Particles spew out based on the quantity and tier of cheering
+	- Particles spew out based on the tier of cheering
 - Bitbots can be shot and killed
