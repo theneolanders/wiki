@@ -1496,3 +1496,5 @@
 	- Animation for socket connection
 	- Overrides thruster particles
 	- Overrides base lights color
+- Thruster trail and hex loop now prioritize scaling based on distance to camera if present
+- 
