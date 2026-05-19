@@ -1,4 +1,4 @@
-Rusty Manufacting's Twitch Integrated Bitbot Swarm is a device that allows chatters to deploy and control Bitbots with limited functionality during a live stream.
+Rusty Manufacturing's Twitch Integrated Bitbot Swarm is a device that allows chatters to deploy and control Bitbots with limited functionality during a live stream.
 # Commands
 - !bitbot explode 
 	- Explodes your Bitbot
