@@ -1497,4 +1497,5 @@
 	- Overrides thruster particles
 	- Overrides base lights color
 - Thruster trail and hex loop now prioritize scaling based on distance to camera if present
-- 
+- Voice now only emits from synced screen
+- Screens will now re-sync if the currently synced screen is deleted
