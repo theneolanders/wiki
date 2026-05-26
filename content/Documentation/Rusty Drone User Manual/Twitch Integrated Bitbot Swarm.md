@@ -9,6 +9,7 @@ Rusty Manufacturing's Twitch Integrated Bitbot Swarm is a device that allows cha
 - !bitbot firework 
 	- Spend 20 stored bits to shoot off a firework
 # Bitbot Features
+- Bitbots deploy from and return to the H.I.V.E. (Hyperlinked Interactive Vocabulary Engine)
 - Bitbots move towards a designated target point
 - Replying to a fellow chatter causes your Bitbot to face theirs and sets them as your target point 
 - Lifespan
