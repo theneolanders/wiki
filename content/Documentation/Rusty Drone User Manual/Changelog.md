@@ -1501,3 +1501,5 @@
 - Screens will now re-sync if the currently synced screen is deleted
 - Adjusted the size scaling of rocket mode particle shroud
 - Blaster shot no longer generates a hex loop if it doesn't hit anything
+- Added a toggle for hearing from a synced screen
+- Fixed a railgun light using the wrong material
