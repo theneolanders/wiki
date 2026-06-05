@@ -1503,3 +1503,5 @@
 - Blaster shot no longer generates a hex loop if it doesn't hit anything
 - Added a toggle for hearing from a synced screen
 - Fixed a railgun light using the wrong material
+- RustyZap can now be activated by screen tapping if in range
+- RustyZap now only functions while the screen is attached
