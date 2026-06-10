@@ -1505,3 +1505,4 @@
 - Fixed a railgun light using the wrong material
 - RustyZap can now be activated by screen tapping if in range
 - RustyZap now only functions while the screen is attached
+- Fixed hex loops and thruster using the wrong coordinate space when calculating camera-distance-based local scaling
