@@ -1506,3 +1506,5 @@
 - RustyZap can now be activated by screen tapping if in range
 - RustyZap now only functions while the screen is attached
 - Fixed hex loops and thruster using the wrong coordinate space when calculating camera-distance-based local scaling
+- Fixed normals on claw wrist
+- Made claw edible
