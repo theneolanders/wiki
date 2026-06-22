@@ -1508,3 +1508,6 @@
 - Fixed hex loops and thruster using the wrong coordinate space when calculating camera-distance-based local scaling
 - Fixed normals on claw wrist
 - Made claw edible
+- Added autoblush
+- Added the G.R.I.N.D.E.R.
+- Added sounds and a proper animation to the G.R.I.N.D.E.R.
