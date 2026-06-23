@@ -1511,3 +1511,6 @@
 - Added autoblush
 - Added the G.R.I.N.D.E.R.
 - Added sounds and a proper animation to the G.R.I.N.D.E.R.
+- Removed Arbitrary limitation of one module of a given type per part
+- Increased distance of spawned items
+- Power core can now auto insert when cloud spawned
