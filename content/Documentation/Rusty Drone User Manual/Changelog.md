@@ -1514,3 +1514,4 @@
 - Removed Arbitrary limitation of one module of a given type per part
 - Increased distance of spawned items
 - Power core can now auto insert when cloud spawned
+- Multitool now animates fewer hand panels for a cleaner look
