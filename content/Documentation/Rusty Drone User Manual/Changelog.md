@@ -1515,3 +1515,4 @@
 - Increased distance of spawned items
 - Power core can now auto insert when cloud spawned
 - Multitool now animates fewer hand panels for a cleaner look
+- Reorganized turret mode transformation circuit
