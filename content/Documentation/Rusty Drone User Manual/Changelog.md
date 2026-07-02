@@ -1516,3 +1516,4 @@
 - Power core can now auto insert when cloud spawned
 - Multitool now animates fewer hand panels for a cleaner look
 - Reorganized turret mode transformation circuit
+- Screen display color is now only averaged for synced screen
