@@ -1517,3 +1517,7 @@
 - Multitool now animates fewer hand panels for a cleaner look
 - Reorganized turret mode transformation circuit
 - Screen display color is now only averaged for synced screen
+- Adjusted position of interaction lasers
+- Adjusted offset of all multitool tip references to match new interaction laser positions
+- Screen now supports StencilID parent value
+- Screen casing meshes disable when stencil ID is 133
