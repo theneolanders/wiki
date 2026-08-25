@@ -1521,3 +1521,5 @@
 - Adjusted offset of all multitool tip references to match new interaction laser positions
 - Screen now supports StencilID parent value
 - Screen casing meshes disable when stencil ID is 133
+- Added the NSC to fireworks options
+- Fixed multitool pen knob collider being offset incorrectly after laser positioning adjustment
