@@ -1523,3 +1523,8 @@
 - Screen casing meshes disable when stencil ID is 133
 - Added the NSC to fireworks options
 - Fixed multitool pen knob collider being offset incorrectly after laser positioning adjustment
+# 3.16
+- Collections!
+	- Added a list for part snap targets
+	- Added a list for required tags of parts
+	- Updated part recall to create a list of available parts and their tags, then grab loose parts as needed. Not very robust right now but it does work!
