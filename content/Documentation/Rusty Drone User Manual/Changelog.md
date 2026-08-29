@@ -1528,3 +1528,10 @@
 	- Added a list for part snap targets
 	- Added a list for required tags of parts
 	- Updated part recall to create a list of available parts and their tags, then grab loose parts as needed. Not very robust right now but it does work!
+	- Finished reworking part recall
+		- Any available arms will now be pre-synced to prep for hands/claws
+		- Invalid parts will be ejected from snappers
+		- Any available parts will be pulled and attached
+	- Part ejection now uses RaycastAll and can turn any slot into a projectile
+	- Bitbot cleanup now uses a slot children collection instead of a for loop
+	- Part URLs are now a list
