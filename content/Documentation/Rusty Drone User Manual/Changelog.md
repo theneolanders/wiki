@@ -1532,6 +1532,9 @@
 		- Any available arms will now be pre-synced to prep for hands/claws
 		- Invalid parts will be ejected from snappers
 		- Any available parts will be pulled and attached
+	- Updated Arm, Hand, Eyecam, Screen, Claw, and Head to be discoverable by the new recall system
 	- Part ejection now uses RaycastAll and can turn any slot into a projectile
+	- Added Eject Wrong which only ejects incorrectly snapped parts
 	- Bitbot cleanup now uses a slot children collection instead of a for loop
 	- Part URLs are now a list
+- Walking/flying variable now initializes on boot
