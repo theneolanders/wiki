@@ -1538,3 +1538,6 @@
 	- Bitbot cleanup now uses a slot children collection instead of a for loop
 	- Part URLs are now a list
 - Walking/flying variable now initializes on boot
+- Changed overlay materials on player reticles to be more consistent
+- Added cursor to multitool menu
+- Fixed buster cork buttons blocking interaction lasers
