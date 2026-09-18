@@ -1541,3 +1541,5 @@
 - Changed overlay materials on player reticles to be more consistent
 - Added cursor to multitool menu
 - Fixed buster cork buttons blocking interaction lasers
+- Wrist plate now spins with the rest of the hand
+- L.E.G.S. module now tries to specifically populate legs instead of all parts
