@@ -1,5 +1,7 @@
 ---
 Employer: Conduit
+tags:
+  - Conduit
 ---
 Competitor to [[Tavish Augmetitech]], producing [[Implants and augmentations|implants]] at a similar scale.
 ## History
